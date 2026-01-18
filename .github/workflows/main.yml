@@ -14,7 +14,8 @@ jobs:
       uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
-        curl "https://finans-api.forbrukerradet.no/bankprodukt/bankinnskudd?age=30&depositAmount=150000&isMonthlySavings=false&isSalaryRequired=true&membershipType[0]=None&membershipType[1]=HousingAssociation&query=&requiredProductTypes[0]=None" --globoff -H 'Accept: application/json' | jq 'sort_by(.id)' > ir.json
+        # curl "https://finans-api.forbrukerradet.no/bankprodukt/bankinnskudd?age=30&depositAmount=150000&isMonthlySavings=false&isSalaryRequired=true&membershipType[0]=None&membershipType[1]=HousingAssociation&query=&requiredProductTypes[0]=None" --globoff -H 'Accept: application/json' | jq 'sort_by(.id)' > ir.json
+        echo "test" > test.txt
     - name: Commit and push if it changed
       run: |-
         git config user.name "Bot"
