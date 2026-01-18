@@ -15,6 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl "https://finans-api.forbrukerradet.no/bankprodukt/bankinnskudd?age=30&depositAmount=150000&isMonthlySavings=false&isSalaryRequired=true&membershipType[0]=None&membershipType[1]=HousingAssociation&query=&requiredProductTypes[0]=None" --globoff -H 'Accept: application/json' | jq 'sort_by(.id)' > ir.json
+        curl "https://finans-api.forbrukerradet.no/bankprodukt/boliglan?age=30&interestType=Flytende&isSalaryRequired=true&loanAmount=3000000&loanType[0]=standardlån&membershipType[0]=None&membershipType[1]=HousingAssociation&paymentPeriod=25&purchasePrice=4000000&query=&requiredProductTypes[0]=None" --globoff -H 'Accept: application/json' | jq 'sort_by(.id)' > irhl.json 
     - name: Commit and push if it changed
       run: |-
         git config user.name "Bot"
