@@ -1,0 +1,25 @@
+name: Scrape 
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '10 3 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl "https://finans-api.forbrukerradet.no/bankprodukt/bankinnskudd?age=30&depositAmount=150000&isMonthlySavings=false&isSalaryRequired=true&membershipType[0]=None&membershipType[1]=HousingAssociation&query=&requiredProductTypes[0]=None" --globoff -H 'Accept: application/json' | jq 'sort_by(.id)' > ir.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Bot"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
