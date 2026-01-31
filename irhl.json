@@ -18618,7 +18618,7 @@
       "modifiedBy": "Joar",
       "publishFrom": "2026-01-11T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Renten gjelder for hele lånet og er en fra-rente. Endelig rente fastsettes og beregnes individuelt etter samlet kredittvurdering. \r\n\r\nEt boliglån med flytende rente endres i takt med endringer i markedsrenten. I de fleste tilfeller, og over tid, vil flytende rente normalt være det billigste alternativet. Selv om du velger boliglån med flytende rente, har du likevel mulighet for å endre lånet til fastrente senere.\r\n",
       "ageFrom": 18,
       "ageTo": 100,
