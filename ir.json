@@ -44,6 +44,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -173,6 +174,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -310,6 +312,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -442,6 +445,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -570,6 +574,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -699,6 +704,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -834,6 +840,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -972,6 +979,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -1100,6 +1108,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -1239,6 +1248,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -1366,6 +1376,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -1493,6 +1504,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -1620,6 +1632,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -1748,6 +1761,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 236,
         "fax": "75 75 78 21",
@@ -1875,6 +1889,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -2006,6 +2021,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 236,
         "fax": "75 75 78 21",
@@ -2145,6 +2161,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 236,
         "fax": "75 75 78 21",
@@ -2272,6 +2289,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 137,
         "fax": "",
@@ -2400,6 +2418,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 236,
         "fax": "75 75 78 21",
@@ -2528,6 +2547,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -2655,6 +2675,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -2782,6 +2803,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -2909,6 +2931,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -3036,6 +3059,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -3163,6 +3187,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -3290,6 +3315,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -3417,6 +3443,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -3544,6 +3571,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -3674,6 +3702,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -3800,6 +3829,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -3931,6 +3961,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -4062,6 +4093,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -4190,6 +4222,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -4317,6 +4350,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -4444,6 +4478,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -4574,6 +4609,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -4712,6 +4748,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -4839,6 +4876,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -4977,6 +5015,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -5105,6 +5144,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -5232,6 +5272,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -5359,6 +5400,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -5487,6 +5529,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
         "fax": "69 82 49 40",
@@ -5615,6 +5658,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -5742,6 +5786,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 358,
         "fax": "",
@@ -5868,6 +5913,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -5995,6 +6041,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6125,6 +6172,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6260,6 +6308,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6383,6 +6432,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6506,6 +6556,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6630,6 +6681,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -6754,6 +6806,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -6878,6 +6931,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -7008,6 +7062,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -7138,6 +7193,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -7272,6 +7328,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -7395,6 +7452,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -7518,6 +7576,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -7642,6 +7701,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -7765,6 +7825,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -7888,6 +7949,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -8017,6 +8079,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -8140,6 +8203,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -8264,6 +8328,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -8388,6 +8453,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -8511,6 +8577,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -8633,6 +8700,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -8756,6 +8824,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -8879,6 +8948,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -9001,6 +9071,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -9132,6 +9203,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -9259,6 +9331,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -9386,6 +9459,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -9508,6 +9582,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 58,
         "fax": "72405111",
@@ -9634,6 +9709,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -9757,6 +9833,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -9880,6 +9957,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -10003,6 +10081,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -10127,6 +10206,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -10250,6 +10330,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -10384,6 +10465,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -10515,6 +10597,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -10654,6 +10737,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -10777,6 +10861,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -10900,6 +10985,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -11024,6 +11110,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -11147,6 +11234,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 269,
         "fax": "72498010",
@@ -11290,6 +11378,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -11414,6 +11503,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -11537,6 +11627,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -11664,6 +11755,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -11786,6 +11878,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -11910,6 +12003,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -12041,6 +12135,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -12164,6 +12259,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -12286,6 +12382,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -12409,6 +12506,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -12533,6 +12631,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -12657,6 +12756,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -12784,6 +12884,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 269,
         "fax": "72498010",
@@ -12922,6 +13023,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 269,
         "fax": "72498010",
@@ -13046,6 +13148,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 41,
         "fax": "769 111 01",
@@ -13173,6 +13276,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -13298,6 +13402,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -13422,6 +13527,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -13546,6 +13652,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -13670,6 +13777,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -13794,6 +13902,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -13918,6 +14027,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -14042,6 +14152,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -14169,6 +14280,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -14291,6 +14403,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -14413,6 +14526,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -14548,6 +14662,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -14670,6 +14785,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 46,
         "fax": "",
@@ -14800,6 +14916,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 46,
         "fax": "",
@@ -14930,6 +15047,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -15057,6 +15175,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -15181,6 +15300,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -15305,6 +15425,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -15439,6 +15560,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -15578,6 +15700,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -15703,6 +15826,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -15826,6 +15950,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -15949,6 +16074,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 350,
         "fax": "nei",
@@ -16075,6 +16201,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 350,
         "fax": "nei",
@@ -16201,6 +16328,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 350,
         "fax": "nei",
@@ -16328,6 +16456,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -16451,6 +16580,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -16574,6 +16704,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -16697,6 +16828,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -16820,6 +16952,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -16943,6 +17076,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 232,
         "fax": "",
@@ -16954,43 +17088,43 @@
         "haggleEmail": "post@naeringsbanken.no",
         "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
         "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no ",
-        "smallLoansUrl": "",
+        "smallLoansUrl": null,
         "smallLoansDailyCheck": false,
         "smallLoansDynamicPage": false,
-        "mortgageUrl": "",
+        "mortgageUrl": null,
         "mortgageDailyCheck": false,
         "mortgageDynamicPage": false,
-        "creditcardUrl": "",
+        "creditcardUrl": null,
         "creditcardDailyCheck": false,
         "creditcardDynamicPage": false,
-        "dailyBankingUrl": "",
+        "dailyBankingUrl": null,
         "dailyBankingDailyCheck": false,
         "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.naeringsbanken.no/innskudd/nettspar,https://www.naeringsbanken.no/nb/privat-innskudd/innskudd,https://www.naeringsbanken.no/-/media/naeringsbanken/dokumenter/prisliste/privat/20231120-prisliste-privat.pdf?rev=13f5407149774080b5169c4b1f14a966",
+        "savingsAccountUrl": "https://www.naeringsbanken.no/innskudd/nettspar,https://www.naeringsbanken.no/nb/privat-innskudd/innskudd,https://www.naeringsbanken.no/-/media/naeringsbanken/dokumenter/prisliste/privat/10-2025-prisliste-privat.pdf?rev=e4dce26e80354e648bd01aaf72a6f12b",
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
         "marketRegionLoans": "Local",
-        "marketRegionInfo": "",
+        "marketRegionInfo": " ",
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Hele landet",
         "bankHasOwnATM": false,
         "company": {
           "id": 232,
           "deletedAt": null,
-          "modifiedAt": null,
+          "modifiedAt": "2026-02-26T08:16:34.197Z",
           "createdAt": "2025-10-14T11:13:33.599Z",
-          "slug": "Naeringsbanken_ASA",
+          "slug": "næringsbanken_asa",
           "organizationNumber": "917850984",
           "url": "https://www.naeringsbanken.no/",
           "name": "Næringsbanken ASA",
           "addressId": 232,
           "phone": "623 50 600",
-          "modifiedBy": null,
-          "leverandorId": 1317291,
+          "modifiedBy": "Külli",
+          "leverandorId": null,
           "activeFrom": "2018-02-20T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": true
         }
       },
       "productType": {
@@ -17069,6 +17203,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -17193,6 +17328,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 108,
         "fax": "69884030",
@@ -17337,6 +17473,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 108,
         "fax": "69884030",
@@ -17460,6 +17597,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 108,
         "fax": "69884030",
@@ -17595,6 +17733,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -17723,6 +17862,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 108,
         "fax": "69884030",
@@ -17846,6 +17986,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -17971,6 +18112,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -18094,6 +18236,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -18220,6 +18363,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 46,
         "fax": "",
@@ -18351,6 +18495,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -18478,6 +18623,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -18605,6 +18751,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -18731,6 +18878,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -18854,6 +19002,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -18988,6 +19137,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -19112,6 +19262,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -19235,6 +19386,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -19358,6 +19510,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -19508,6 +19661,7 @@
         "fund"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -19647,6 +19801,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -19774,6 +19929,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -19901,6 +20057,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -20024,6 +20181,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -20148,6 +20306,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -20271,6 +20430,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -20405,6 +20565,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -20536,6 +20697,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -20663,6 +20825,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -20787,6 +20950,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 70,
         "fax": "24 02 81 10",
@@ -20913,6 +21077,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -21044,6 +21209,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -21167,6 +21333,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -21290,6 +21457,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 34,
         "fax": "",
@@ -21416,6 +21584,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -21543,6 +21712,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -21666,6 +21836,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -21789,6 +21960,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -21912,6 +22084,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 49,
         "fax": "+4773884440",
@@ -22034,6 +22207,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -22157,6 +22331,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -22280,6 +22455,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -22403,6 +22579,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 154,
         "fax": "",
@@ -22525,6 +22702,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -22651,6 +22829,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -22778,6 +22957,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -22900,6 +23080,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -22979,128 +23160,6 @@
     "totalAmount": 158400
   },
   {
-    "id": 153073,
-    "firstVersionId": 137892,
-    "oldProductId": 1209089,
-    "name": "AvidaSpar",
-    "companyId": 265,
-    "companyName": "Avida Finans AB NUF",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-08-13T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153073,
-      "bankCompanyId": 265,
-      "productTypeId": 10,
-      "name": "AvidaSpar",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-13T13:08:43.851Z",
-      "createdBy": "Martin",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-14T06:40:05.812Z",
-      "modifiedBy": "Martin",
-      "publishFrom": "2025-08-13T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Innskuddsikringsordning: Innskudd er sikret gjennom den svenske innskuddsgarantiordningen opp til SEK 1 050 000. Les mer: https://www.riksgalden.se/insattningsgarantin.\n-Være privatperson og over 18 år gammel.\n-Norsk fødselsnummer.\n-Folkeregistrert i Norge.\n-Du må ha BankID.\n\n\n\n",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "bankCompany": {
-        "id": 265,
-        "fax": "",
-        "email": "innskudd@avidafinans.no",
-        "becomeCustomerURL": "https://www.avidafinance.com/no",
-        "changeBankURL": "https://www.avidafinance.com/no",
-        "changeBankEmail": "innskudd@avidafinans.no",
-        "contactURL": "https://www.avidafinance.com/no/kundeservice/kontakt/",
-        "haggleEmail": "innskudd@avidafinans.no",
-        "securityDepositAmount": "1 050 000 SEK i Riksgälden",
-        "depositGuaranteeSchema": "I Sverige er garantibeløpet 1 050 000 SEK for norske kunder Les mer: https://www.riksgalden.se/sv/Insattningsgarantin/",
-        "smallLoansUrl": "https://www.avidafinance.com/no/vilkar-forbrukslan",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.avidafinance.com/no",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.avidafinance.com/no",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.avidafinance.com/no",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.avidafinance.com/no/sparekonto, https://www.avidafinance.com/no/vilkar-sparekonto",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Privatkunder i hele Norge.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Banksparing",
-        "bankHasOwnATM": false,
-        "company": {
-          "id": 265,
-          "deletedAt": null,
-          "modifiedAt": "2025-11-25T08:25:48.183Z",
-          "createdAt": "2025-10-14T11:13:33.760Z",
-          "slug": "avida_finans_ab_nuf",
-          "organizationNumber": "990728488",
-          "url": "https://www.avidafinance.com/no",
-          "name": "Avida Finans AB NUF",
-          "addressId": 265,
-          "phone": "23 33 50 80",
-          "modifiedBy": "Verneri",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 950000,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.56,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.5600000000000085,
-    "interestAmountRaw": 6840,
-    "totalAmountRaw": 156840,
-    "effectiveInterestRate": 4.56,
-    "interestAmount": 6840,
-    "totalAmount": 156840
-  },
-  {
     "id": 153074,
     "firstVersionId": 141101,
     "oldProductId": 3773570,
@@ -23145,6 +23204,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -23268,6 +23328,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -23391,6 +23452,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -23523,6 +23585,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -23649,6 +23712,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -23780,6 +23844,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -23903,6 +23968,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -24025,6 +24091,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -24150,6 +24217,7 @@
         "savingsAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -24273,6 +24341,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -24412,6 +24481,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -24535,6 +24605,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -24665,6 +24736,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -24787,6 +24859,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -24917,6 +24990,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -25040,6 +25114,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25171,6 +25246,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25302,6 +25378,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25427,6 +25504,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25551,6 +25629,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25678,6 +25757,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25808,6 +25888,7 @@
         "savingsAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 220,
         "fax": "69196001",
@@ -25930,6 +26011,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -26056,6 +26138,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -26186,6 +26269,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -26309,6 +26393,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -26432,6 +26517,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -26556,6 +26642,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -26687,6 +26774,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -26813,6 +26901,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -26936,6 +27025,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -27059,6 +27149,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -27185,6 +27276,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -27311,6 +27403,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -27438,6 +27531,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -27564,6 +27658,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -27687,6 +27782,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -27818,6 +27914,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -27942,6 +28039,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -28064,6 +28162,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -28187,6 +28286,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -28330,6 +28430,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -28453,6 +28554,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -28579,6 +28681,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -28702,6 +28805,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -28824,6 +28928,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -28947,6 +29052,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -29069,6 +29175,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -29195,6 +29302,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 229,
         "fax": "",
@@ -29321,6 +29429,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 229,
         "fax": "",
@@ -29443,6 +29552,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -29574,6 +29684,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -29705,6 +29816,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -29830,6 +29942,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
         "fax": "52 84 52 01",
@@ -29957,6 +30070,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -30090,6 +30204,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -30219,6 +30334,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -30348,6 +30464,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -30481,6 +30598,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -30604,6 +30722,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -30730,6 +30849,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -30861,6 +30981,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -30990,6 +31111,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -31113,6 +31235,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -31243,6 +31366,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 51,
         "fax": "35962601",
@@ -31373,6 +31497,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -31496,6 +31621,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 269,
         "fax": "72498010",
@@ -31623,6 +31749,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -31757,6 +31884,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -31883,6 +32011,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -32005,6 +32134,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -32136,6 +32266,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -32259,6 +32390,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -32385,6 +32517,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -32516,6 +32649,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -32647,6 +32781,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -32770,6 +32905,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -32897,6 +33033,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 137,
         "fax": "",
@@ -33019,6 +33156,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -33142,6 +33280,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 41,
         "fax": "769 111 01",
@@ -33265,6 +33404,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 41,
         "fax": "769 111 01",
@@ -33388,6 +33528,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -33510,6 +33651,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -33632,6 +33774,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -33756,6 +33899,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -33879,6 +34023,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -34013,6 +34158,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -34136,6 +34282,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -34259,6 +34406,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -34382,6 +34530,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -34513,6 +34662,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -34636,6 +34786,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -34762,6 +34913,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -34893,6 +35045,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -35024,6 +35177,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 41,
         "fax": "769 111 01",
@@ -35138,8 +35292,8 @@
       "modifiedAt": "2025-11-27T09:19:36.911Z",
       "modifiedBy": "Jim André",
       "publishFrom": "2025-11-25T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
+      "publishTo": "2026-05-04T22:00:00.000Z",
+      "isLatestVersion": false,
       "otherConditions": "1) Rentene regnes fra første krone. 2) 12 gebyrfrie uttak /overføsler pr. kalenderår samt uttak av fjorårets renter kostnadsfritt. Påfølgende overførsler/uttak/betalinger belastes med 1% uttaksgebyr. Etter avtale kan renter og avdrag på lån hos oss belastes Plasseringskonto uten at antall frie uttak blir redusert.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -35151,6 +35305,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -35238,133 +35393,6 @@
     "totalAmount": 154275
   },
   {
-    "id": 153544,
-    "firstVersionId": 138397,
-    "oldProductId": 2405127,
-    "name": "Depositumskonto",
-    "companyId": 344,
-    "companyName": "SpareBank 1 Østfold Akershus",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-25T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153544,
-      "bankCompanyId": 344,
-      "productTypeId": 10,
-      "name": "Depositumskonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-26T09:14:20.967Z",
-      "createdBy": "Jim André",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-27T09:20:49.748Z",
-      "modifiedBy": "Jim André",
-      "publishFrom": "2025-11-25T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "bankCompany": {
-        "id": 344,
-        "fax": "",
-        "email": "kontakt@sparebank1oa.no",
-        "becomeCustomerURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
-        "changeBankURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
-        "changeBankEmail": "kontakt@sparebank1oa.no",
-        "contactURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
-        "haggleEmail": "kontakt@sparebank1oa.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
-        "bankHasOwnATM": false,
-        "company": {
-          "id": 344,
-          "deletedAt": null,
-          "modifiedAt": "2025-11-11T08:03:42.696Z",
-          "createdAt": "2025-10-14T11:13:34.145Z",
-          "slug": "sparebank_1_østfold_akershus",
-          "organizationNumber": "837884942",
-          "url": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
-          "name": "SpareBank 1 Østfold Akershus",
-          "addressId": 344,
-          "phone": "91505700",
-          "modifiedBy": "Hege",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 7,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 1,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 500,
-      "highestEstablishmentFee": 500,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "Åpning depositumskonto på nett",
-      "conditionsForHighestEstablishmentFee": "Åpning depositumskonto i skranken i banken hvor utleier er kunde"
-    },
-    "effectiveInterestRateRaw": 1.0000000000000009,
-    "interestAmountRaw": 1500,
-    "totalAmountRaw": 151500,
-    "effectiveInterestRate": 1,
-    "interestAmount": 1500,
-    "totalAmount": 151500
-  },
-  {
     "id": 153546,
     "firstVersionId": 141815,
     "oldProductId": 552783,
@@ -35409,6 +35437,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -35519,8 +35548,8 @@
       "modifiedAt": "2025-11-27T09:22:33.852Z",
       "modifiedBy": "Jim André",
       "publishFrom": "2025-11-25T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
+      "publishTo": "2026-03-04T23:00:00.000Z",
+      "isLatestVersion": false,
       "otherConditions": "Flytende rente. Uttak må varsles minst 31 dager før pengene skal tas ut. Uttak som ikke er varslet minimum 31 dager før uttak belastes med et gebyr tilsvarende 5% av beløpet som tas ut.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -35532,6 +35561,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -35658,6 +35688,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -35768,8 +35799,8 @@
       "modifiedAt": "2025-11-27T09:25:55.276Z",
       "modifiedBy": "Jim André",
       "publishFrom": "2025-11-25T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
+      "publishTo": "2026-05-04T22:00:00.000Z",
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
@@ -35781,6 +35812,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -35907,6 +35939,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -36042,6 +36075,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -36166,6 +36200,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -36292,6 +36327,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -36423,6 +36459,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -36546,6 +36583,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -36676,6 +36714,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -36799,6 +36838,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -36922,6 +36962,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -37045,6 +37086,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -37184,6 +37226,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -37319,6 +37362,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -37443,6 +37487,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -37567,6 +37612,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -37690,6 +37736,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -37833,6 +37880,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -37956,6 +38004,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38079,6 +38128,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38201,6 +38251,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -38324,6 +38375,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38447,6 +38499,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38570,6 +38623,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38693,6 +38747,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38815,6 +38870,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -38949,6 +39005,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39072,6 +39129,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39195,6 +39253,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39322,6 +39381,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39445,6 +39505,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39569,6 +39630,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39693,6 +39755,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39815,6 +39878,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -39937,6 +40001,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -40059,6 +40124,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -40185,6 +40251,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -40308,6 +40375,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -40431,6 +40499,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -40558,6 +40627,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -40692,6 +40762,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -40814,6 +40885,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -40936,6 +41008,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -41061,6 +41134,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -41186,6 +41260,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -41309,6 +41384,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -41435,6 +41511,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -41570,6 +41647,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -41697,6 +41775,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -41819,6 +41898,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -41957,6 +42037,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -42080,6 +42161,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -42211,6 +42293,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -42334,6 +42417,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -42457,6 +42541,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -42581,6 +42666,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -42705,6 +42791,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -42829,6 +42916,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -42956,6 +43044,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -43079,6 +43168,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -43202,6 +43292,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -43345,6 +43436,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -43468,6 +43560,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -43592,6 +43685,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -43716,6 +43810,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -43840,6 +43935,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -43979,6 +44075,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -44123,6 +44220,7 @@
         "fund"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -44248,6 +44346,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -44382,6 +44481,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -44506,6 +44606,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -44630,6 +44731,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -44763,6 +44865,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -44887,6 +44990,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -45011,6 +45115,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -45133,6 +45238,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -45256,6 +45362,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -45379,6 +45486,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -45510,6 +45618,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -45633,6 +45742,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 291,
         "fax": "62 53 46 75",
@@ -45760,6 +45870,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -45883,6 +45994,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -46006,6 +46118,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -46136,6 +46249,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -46266,6 +46380,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -46392,6 +46507,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -46525,6 +46641,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -46647,6 +46764,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -46774,6 +46892,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
         "fax": "71 26 80 01",
@@ -46897,6 +47016,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
         "fax": "71 26 80 01",
@@ -47031,6 +47151,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
         "fax": "71 26 80 01",
@@ -47166,6 +47287,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
         "fax": "71 26 80 01",
@@ -47290,6 +47412,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -47421,6 +47544,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -47555,6 +47679,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -47685,6 +47810,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -47814,6 +47940,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -47946,6 +48073,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -48075,6 +48203,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -48204,6 +48333,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -48332,6 +48462,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -48456,6 +48587,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -48583,6 +48715,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -48706,6 +48839,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -48829,6 +48963,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -48955,6 +49090,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -49079,6 +49215,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -49206,6 +49343,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -49329,6 +49467,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -49452,6 +49591,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -49587,6 +49727,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -49714,6 +49855,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -49837,6 +49979,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
         "fax": "37 93 72 60",
@@ -49960,6 +50103,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
         "fax": "37 93 72 60",
@@ -50084,6 +50228,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
         "fax": "37 93 72 60",
@@ -50207,6 +50352,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
         "fax": "37 93 72 60",
@@ -50338,6 +50484,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
         "fax": "37 93 72 60",
@@ -50469,6 +50616,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -50596,6 +50744,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -50719,6 +50868,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -50845,6 +50995,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -50969,6 +51120,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -51093,6 +51245,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -51223,6 +51376,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -51346,6 +51500,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -51470,6 +51625,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -51593,6 +51749,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -51728,6 +51885,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -51850,6 +52008,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -51977,6 +52136,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -52104,6 +52264,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -52230,6 +52391,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -52354,6 +52516,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -52477,6 +52640,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -52600,6 +52764,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -52724,6 +52889,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -52855,6 +53021,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -52989,6 +53156,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -53115,6 +53283,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -53238,6 +53407,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -53361,6 +53531,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -53484,6 +53655,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -53618,6 +53790,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -53741,6 +53914,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -53864,6 +54038,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -53987,6 +54162,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -54110,6 +54286,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -54233,6 +54410,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -54360,6 +54538,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -54483,6 +54662,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -54609,6 +54789,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -54744,6 +54925,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -54866,6 +55048,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -54992,6 +55175,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -55131,6 +55315,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -55254,6 +55439,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -55385,6 +55571,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -55509,6 +55696,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 51,
         "fax": "35962601",
@@ -55633,6 +55821,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 51,
         "fax": "35962601",
@@ -55756,6 +55945,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 51,
         "fax": "35962601",
@@ -55879,6 +56069,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 37,
         "fax": "",
@@ -56002,6 +56193,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -56125,6 +56317,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -56249,6 +56442,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -56384,6 +56578,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -56508,6 +56703,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -56643,6 +56839,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -56767,6 +56964,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -56894,6 +57092,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -57025,6 +57224,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 171,
         "fax": "",
@@ -57148,6 +57348,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -57270,6 +57471,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 171,
         "fax": "",
@@ -57392,6 +57594,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 290,
         "fax": "",
@@ -57518,6 +57721,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 290,
         "fax": "",
@@ -57649,6 +57853,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 171,
         "fax": "",
@@ -57773,6 +57978,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 171,
         "fax": "",
@@ -57900,6 +58106,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 171,
         "fax": "",
@@ -58030,6 +58237,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -58153,6 +58361,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 189,
         "fax": "",
@@ -58279,6 +58488,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -58402,6 +58612,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -58525,6 +58736,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -58647,6 +58859,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -58770,6 +58983,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -58892,6 +59106,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -59015,6 +59230,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -59138,6 +59354,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -59261,6 +59478,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -59384,6 +59602,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
         "fax": "35060920",
@@ -59507,6 +59726,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -59630,6 +59850,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -59757,6 +59978,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -59879,6 +60101,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -60003,6 +60226,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -60127,6 +60351,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
         "fax": "71 26 80 01",
@@ -60250,6 +60475,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -60373,6 +60599,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -60496,6 +60723,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 159,
         "fax": "61 21 90 01",
@@ -60619,6 +60847,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -60742,6 +60971,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -60865,6 +61095,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -60995,6 +61226,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -61118,6 +61350,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -61241,6 +61474,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -61364,6 +61598,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -61486,6 +61721,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -61610,6 +61846,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -61740,6 +61977,7 @@
         "savingsAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -61863,6 +62101,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -61985,6 +62224,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -62109,6 +62349,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -62232,6 +62473,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -62355,6 +62597,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 139,
         "fax": "",
@@ -62478,6 +62721,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -62604,6 +62848,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -62739,6 +62984,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -62874,6 +63120,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -62997,6 +63244,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -63119,6 +63367,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -63241,6 +63490,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -63364,6 +63614,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -63488,6 +63739,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -63617,6 +63869,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -63740,6 +63993,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 37,
         "fax": "",
@@ -63863,6 +64117,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 37,
         "fax": "",
@@ -63989,6 +64244,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -64112,6 +64368,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -64236,6 +64493,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -64359,6 +64617,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -64482,6 +64741,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -64605,6 +64865,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -64731,6 +64992,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -64855,6 +65117,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -64977,6 +65240,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -65100,6 +65364,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -65223,6 +65488,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -65346,6 +65612,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -65473,6 +65740,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -65596,6 +65864,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -65719,6 +65988,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 318,
         "fax": "",
@@ -65845,6 +66115,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -65968,6 +66239,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -66091,6 +66363,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -66214,6 +66487,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 90,
         "fax": "",
@@ -66341,6 +66615,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -66464,6 +66739,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -66587,6 +66863,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -66710,6 +66987,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -66833,6 +67111,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -66956,6 +67235,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -67079,6 +67359,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -67209,6 +67490,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -67340,6 +67622,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -67463,6 +67746,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -67598,6 +67882,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -67733,6 +68018,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -67861,6 +68147,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -67986,6 +68273,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -68117,6 +68405,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -68240,6 +68529,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 34,
         "fax": "",
@@ -68370,6 +68660,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -68493,6 +68784,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -68616,6 +68908,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -68755,6 +69048,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -68878,6 +69172,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -69005,6 +69300,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -69132,6 +69428,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -69259,6 +69556,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -69382,6 +69680,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -69505,6 +69804,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -69628,6 +69928,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 37,
         "fax": "",
@@ -69750,6 +70051,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -69877,6 +70179,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -70000,6 +70303,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -70123,6 +70427,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -70246,6 +70551,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -70373,6 +70679,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -70497,6 +70804,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -70623,6 +70931,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -70746,6 +71055,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -70869,6 +71179,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -70992,6 +71303,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -71119,6 +71431,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -71246,6 +71559,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -71372,6 +71686,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 151,
         "fax": "56 99 92 05",
@@ -71495,6 +71810,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -71626,6 +71942,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -71753,6 +72070,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -71877,6 +72195,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -72009,6 +72328,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -72134,6 +72454,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -72257,6 +72578,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -72387,6 +72709,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -72510,6 +72833,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -72633,6 +72957,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -72756,6 +73081,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 219,
         "fax": "",
@@ -72837,5 +73163,256 @@
     "effectiveInterestRate": 2.3,
     "interestAmount": 3450,
     "totalAmount": 153450
+  },
+  {
+    "id": 156120,
+    "firstVersionId": 137892,
+    "oldProductId": 1209089,
+    "name": "AvidaSpar",
+    "companyId": 265,
+    "companyName": "Avida Finans AB NUF",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2025-08-13T00:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 156120,
+      "bankCompanyId": 265,
+      "productTypeId": 10,
+      "name": "AvidaSpar",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-02-26T08:01:33.533Z",
+      "createdBy": "Martin",
+      "deletedAt": null,
+      "modifiedAt": "2026-02-26T08:49:51.682Z",
+      "modifiedBy": "Martin",
+      "publishFrom": "2025-08-13T00:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Innskuddsikringsordning: Innskudd er sikret gjennom den svenske innskuddsgarantiordningen opp til SEK 1 150 000. Les mer: https://www.riksgalden.se/insattningsgarantin.\n-Være privatperson og over 18 år gammel.\n-Norsk fødselsnummer.\n-Folkeregistrert i Norge.\n-Du må ha BankID.\n\n\n\n",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 265,
+        "fax": "",
+        "email": "innskudd@avidafinans.no",
+        "becomeCustomerURL": "https://www.avidafinance.com/no",
+        "changeBankURL": "https://www.avidafinance.com/no",
+        "changeBankEmail": "innskudd@avidafinans.no",
+        "contactURL": "https://www.avidafinance.com/no/kundeservice/kontakt/",
+        "haggleEmail": "innskudd@avidafinans.no",
+        "securityDepositAmount": "1 050 000 SEK i Riksgälden",
+        "depositGuaranteeSchema": "I Sverige er garantibeløpet 1 050 000 SEK for norske kunder Les mer: https://www.riksgalden.se/sv/Insattningsgarantin/",
+        "smallLoansUrl": "https://www.avidafinance.com/no/vilkar-forbrukslan",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.avidafinance.com/no",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.avidafinance.com/no",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.avidafinance.com/no",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.avidafinance.com/no/sparekonto, https://www.avidafinance.com/no/vilkar-sparekonto",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Privatkunder i hele Norge.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Banksparing",
+        "bankHasOwnATM": false,
+        "company": {
+          "id": 265,
+          "deletedAt": null,
+          "modifiedAt": "2025-11-25T08:25:48.183Z",
+          "createdAt": "2025-10-14T11:13:33.760Z",
+          "slug": "avida_finans_ab_nuf",
+          "organizationNumber": "990728488",
+          "url": "https://www.avidafinance.com/no",
+          "name": "Avida Finans AB NUF",
+          "addressId": 265,
+          "phone": "23 33 50 80",
+          "modifiedBy": "Verneri",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 1050000,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.56,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.5600000000000085,
+    "interestAmountRaw": 6840,
+    "totalAmountRaw": 156840,
+    "effectiveInterestRate": 4.56,
+    "interestAmount": 6840,
+    "totalAmount": 156840
+  },
+  {
+    "id": 156132,
+    "firstVersionId": 138397,
+    "oldProductId": 2405127,
+    "name": "Depositumskonto",
+    "companyId": 344,
+    "companyName": "SpareBank 1 Østfold Akershus",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-02-25T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 156132,
+      "bankCompanyId": 344,
+      "productTypeId": 10,
+      "name": "Depositumskonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-02-26T09:10:47.120Z",
+      "createdBy": "Mette",
+      "deletedAt": null,
+      "modifiedAt": "2026-02-26T12:37:28.867Z",
+      "modifiedBy": "Mette",
+      "publishFrom": "2026-02-25T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 344,
+        "fax": "",
+        "email": "kontakt@sparebank1oa.no",
+        "becomeCustomerURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "changeBankURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "changeBankEmail": "kontakt@sparebank1oa.no",
+        "contactURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "haggleEmail": "kontakt@sparebank1oa.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
+        "bankHasOwnATM": false,
+        "company": {
+          "id": 344,
+          "deletedAt": null,
+          "modifiedAt": "2025-11-11T08:03:42.696Z",
+          "createdAt": "2025-10-14T11:13:34.145Z",
+          "slug": "sparebank_1_østfold_akershus",
+          "organizationNumber": "837884942",
+          "url": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+          "name": "SpareBank 1 Østfold Akershus",
+          "addressId": 344,
+          "phone": "91505700",
+          "modifiedBy": "Hege",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.7,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 500,
+      "highestEstablishmentFee": 500,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Åpning depositumskonto på nett",
+      "conditionsForHighestEstablishmentFee": "Åpning depositumskonto i skranken i banken hvor utleier er kunde"
+    },
+    "effectiveInterestRateRaw": 2.6999999999999913,
+    "interestAmountRaw": 4050,
+    "totalAmountRaw": 154050,
+    "effectiveInterestRate": 2.7,
+    "interestAmount": 4050,
+    "totalAmount": 154050
   }
 ]
