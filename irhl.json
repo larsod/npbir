@@ -1703,7 +1703,7 @@
       "maxNumberOfYearsRepaymentFreePeriod": 10,
       "establishmentFeeForLoan": 3500
     },
-    "effectiveInterestRateRaw": 5.907511147705247,
+    "effectiveInterestRateRaw": 5.9075111477052245,
     "effectiveInterestRate": 5.91,
     "nominalInterestRate": 5.7,
     "monthlyPaymentRaw": 18879,
