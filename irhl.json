@@ -189,7 +189,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 148349,
@@ -381,7 +382,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 148646,
@@ -541,7 +543,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-29T00:00:00.000Z"
   },
   {
     "id": 148821,
@@ -749,7 +752,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 148823,
@@ -957,7 +961,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 148833,
@@ -1119,7 +1124,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2023-11-09T00:00:00.000Z"
   },
   {
     "id": 148838,
@@ -1279,7 +1285,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 148907,
@@ -1471,7 +1478,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 148950,
@@ -1724,7 +1732,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 148957,
@@ -1884,7 +1893,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2024-03-11T00:00:00.000Z"
   },
   {
     "id": 148958,
@@ -2044,7 +2054,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2024-09-25T00:00:00.000Z"
   },
   {
     "id": 149176,
@@ -2220,7 +2231,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-01T00:00:00.000Z"
   },
   {
     "id": 149218,
@@ -2461,7 +2473,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 149219,
@@ -2702,7 +2715,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 149239,
@@ -2889,7 +2903,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149240,
@@ -3076,7 +3091,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149249,
@@ -3268,7 +3284,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149250,
@@ -3450,7 +3467,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149284,
@@ -3610,7 +3628,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 149285,
@@ -3770,7 +3789,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 149426,
@@ -3962,7 +3982,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-26T00:00:00.000Z"
   },
   {
     "id": 149787,
@@ -4154,7 +4175,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 149792,
@@ -4346,7 +4368,8 @@
       "maximumLoanToValueRatio2": 90,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 149901,
@@ -4522,7 +4545,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-26T00:00:00.000Z"
   },
   {
     "id": 149924,
@@ -4684,7 +4708,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-25T00:00:00.000Z"
   },
   {
     "id": 149943,
@@ -4844,7 +4869,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-22T22:00:00.000Z"
   },
   {
     "id": 149976,
@@ -5020,7 +5046,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149988,
@@ -5211,7 +5238,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149992,
@@ -5403,7 +5431,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 149999,
@@ -5563,7 +5592,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 150000,
@@ -5723,7 +5753,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 150007,
@@ -5934,7 +5965,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-25T00:00:00.000Z"
   },
   {
     "id": 150008,
@@ -6145,7 +6177,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-25T00:00:00.000Z"
   },
   {
     "id": 150013,
@@ -6324,7 +6357,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-25T00:00:00.000Z"
   },
   {
     "id": 150154,
@@ -6484,7 +6518,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-02T00:00:00.000Z"
   },
   {
     "id": 150200,
@@ -6650,7 +6685,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150213,
@@ -6826,7 +6862,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150235,
@@ -6986,7 +7023,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150281,
@@ -7178,7 +7216,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150283,
@@ -7370,7 +7409,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150305,
@@ -7562,7 +7602,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 150394,
@@ -7724,7 +7765,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 150405,
@@ -7890,7 +7932,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 150407,
@@ -8050,7 +8093,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150412,
@@ -8226,7 +8270,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 150485,
@@ -8455,7 +8500,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-26T00:00:00.000Z"
   },
   {
     "id": 150490,
@@ -8614,7 +8660,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-12T00:00:00.000Z"
   },
   {
     "id": 150493,
@@ -8776,7 +8823,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-08-28T00:00:00.000Z"
   },
   {
     "id": 152076,
@@ -8936,7 +8984,8 @@
       "maximumLoanToValueRatio2": 90,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152079,
@@ -9102,7 +9151,8 @@
       "maximumLoanToValueRatio2": 90,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152088,
@@ -9268,7 +9318,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152092,
@@ -9433,7 +9484,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152120,
@@ -9595,7 +9647,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-11T00:00:00.000Z"
   },
   {
     "id": 152121,
@@ -9757,7 +9810,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-11T00:00:00.000Z"
   },
   {
     "id": 152706,
@@ -9917,7 +9971,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152707,
@@ -10077,7 +10132,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152728,
@@ -10255,7 +10311,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-07-01T00:00:00.000Z"
   },
   {
     "id": 152795,
@@ -10415,7 +10472,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 152796,
@@ -10575,7 +10633,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 152797,
@@ -10735,7 +10794,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 152798,
@@ -10895,7 +10955,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-18T00:00:00.000Z"
   },
   {
     "id": 152885,
@@ -11055,7 +11116,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 152925,
@@ -11215,7 +11277,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 153064,
@@ -11375,7 +11438,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 153065,
@@ -11535,7 +11599,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 153209,
@@ -11713,7 +11778,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 153383,
@@ -11895,7 +11961,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 153400,
@@ -12087,7 +12154,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 153558,
@@ -12280,7 +12348,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-25T00:00:00.000Z"
   },
   {
     "id": 153761,
@@ -12601,7 +12670,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 153762,
@@ -12922,7 +12992,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 153836,
@@ -13082,7 +13153,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-03T00:00:00.000Z"
   },
   {
     "id": 153837,
@@ -13242,7 +13314,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-03T00:00:00.000Z"
   },
   {
     "id": 153860,
@@ -13401,7 +13474,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 153861,
@@ -13560,7 +13634,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 153902,
@@ -13720,7 +13795,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 153947,
@@ -13882,7 +13958,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2023-11-20T00:00:00.000Z"
   },
   {
     "id": 153967,
@@ -14044,7 +14121,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-01T00:00:00.000Z"
   },
   {
     "id": 154003,
@@ -14204,7 +14282,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 154004,
@@ -14364,7 +14443,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 154046,
@@ -14526,7 +14606,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-08-27T00:00:00.000Z"
   },
   {
     "id": 154061,
@@ -14686,7 +14767,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 154066,
@@ -14846,7 +14928,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 154106,
@@ -15111,7 +15194,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 154193,
@@ -15287,7 +15371,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 154194,
@@ -15447,7 +15532,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 154261,
@@ -15644,7 +15730,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 154262,
@@ -15841,7 +15928,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 154893,
@@ -16001,7 +16089,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-12-21T23:00:00.000Z"
   },
   {
     "id": 154894,
@@ -16161,7 +16250,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-12-21T23:00:00.000Z"
   },
   {
     "id": 154913,
@@ -16327,7 +16417,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-24T00:00:00.000Z"
   },
   {
     "id": 154925,
@@ -16519,7 +16610,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 154927,
@@ -16685,7 +16777,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 154930,
@@ -16877,7 +16970,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 154987,
@@ -17044,7 +17138,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 154996,
@@ -17220,7 +17315,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2026-01-04T23:00:00.000Z"
   },
   {
     "id": 155066,
@@ -17379,7 +17475,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 155067,
@@ -17539,7 +17636,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-10-23T22:00:00.000Z"
   },
   {
     "id": 155230,
@@ -17731,7 +17829,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 155231,
@@ -17923,7 +18022,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 155280,
@@ -18085,7 +18185,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 155300,
@@ -18261,7 +18362,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 155302,
@@ -18437,7 +18539,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 155409,
@@ -18596,7 +18699,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 155410,
@@ -18756,7 +18860,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 155423,
@@ -19011,7 +19116,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 155496,
@@ -19173,7 +19279,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
     "id": 155541,
@@ -19349,7 +19456,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2026-02-01T23:00:00.000Z"
   },
   {
     "id": 155746,
@@ -19538,7 +19646,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": 156078,
@@ -19730,7 +19839,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 156179,
@@ -19931,7 +20041,8 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 156180,
@@ -20136,6 +20247,7 @@
       "maximumLoanToValueRatio2": null,
       "minimumLoanToValueRatio3": null,
       "maximumLoanToValueRatio3": null
-    }
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   }
 ]
