@@ -44,6 +44,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
@@ -92,7 +93,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -237,6 +267,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 55,
@@ -285,7 +316,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -430,6 +490,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 85,
@@ -478,7 +539,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -591,6 +653,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:40:40.826Z",
       "bankCompany": {
         "id": 115,
@@ -639,7 +702,8 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -800,6 +864,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:40:40.826Z",
       "bankCompany": {
         "id": 115,
@@ -848,7 +913,8 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -1009,6 +1075,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 161,
@@ -1057,7 +1124,8 @@
           "activeFrom": "2016-10-20T22:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -1172,6 +1240,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 286,
@@ -1220,7 +1289,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -1333,6 +1403,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 359,
@@ -1381,7 +1452,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -1526,6 +1598,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 38,
@@ -1574,7 +1647,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -1780,6 +1854,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 47,
@@ -1828,7 +1903,25 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
         }
       },
       "productType": {
@@ -1941,6 +2034,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 34,
@@ -1989,7 +2083,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -2102,6 +2197,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:34:57.121Z",
       "bankCompany": {
         "id": 241,
@@ -2150,7 +2246,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -2279,6 +2376,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
@@ -2327,7 +2425,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -2521,6 +2620,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 75,
@@ -2569,7 +2669,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -2763,6 +2864,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:47:17.506Z",
       "bankCompany": {
         "id": 272,
@@ -2811,7 +2913,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -2951,6 +3054,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:47:17.506Z",
       "bankCompany": {
         "id": 272,
@@ -2999,7 +3103,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -3145,6 +3250,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:47:17.506Z",
       "bankCompany": {
         "id": 272,
@@ -3193,7 +3299,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -3338,6 +3445,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:47:17.506Z",
       "bankCompany": {
         "id": 272,
@@ -3386,7 +3494,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -3515,6 +3624,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
@@ -3563,7 +3673,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -3676,6 +3787,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 209,
@@ -3724,7 +3836,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -3837,6 +3950,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:00:01.306Z",
       "bankCompany": {
         "id": 156,
@@ -3885,7 +3999,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -4030,6 +4145,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
@@ -4078,7 +4194,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -4223,6 +4340,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 306,
@@ -4271,7 +4389,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -4416,6 +4535,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 187,
@@ -4464,7 +4584,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 187,
+                        "fax": "72404000",
+                        "email": "post@oppdalsbanken.no",
+                        "haggleEmail": "post@oppdalsbanken.no",
+                        "mortgageUrl": "https://oppdalsbanken.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "",
+                        "smallLoansUrl": "",
+                        "changeBankEmail": "post@oppdalsbanken.no",
+                        "dailyBankingUrl": "https://oppdalsbanken.no/priser",
+                        "marketRegionInfo": "Vi skal være det naturlige bankvalget for alle i Oppdal og vi skal være en viktig bidragsyter og medspiller for å utvikle bygda videre.\r\n            ",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://oppdalsbanken.no/priser, https://www.oppdalsbanken.no/dagligbank/fastrentekonto",
+                        "mortgageDailyCheck": false,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": false,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": false,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": false,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi skal være det naturlige bankvalget for alle i Oppdal og vi skal være en viktig bidragsyter og medspiller for å utvikle bygda videre.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -4593,6 +4801,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
@@ -4641,7 +4850,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -4756,6 +4966,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 280,
@@ -4804,7 +5015,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -4917,6 +5129,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:01:29.541Z",
       "bankCompany": {
         "id": 159,
@@ -4965,7 +5178,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -5094,6 +5308,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
@@ -5142,7 +5357,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -5286,6 +5502,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 89,
@@ -5334,7 +5551,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -5479,6 +5697,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
@@ -5527,7 +5746,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -5640,6 +5888,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 363,
@@ -5688,7 +5937,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -5801,6 +6079,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
@@ -5849,7 +6128,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -6013,6 +6321,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
@@ -6061,7 +6370,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -6225,6 +6563,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 80,
@@ -6273,7 +6612,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -6405,6 +6773,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 137,
@@ -6453,7 +6822,8 @@
           "activeFrom": "2020-06-07T22:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -6572,6 +6942,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
@@ -6620,7 +6991,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -6733,6 +7133,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:40:00.826Z",
       "bankCompany": {
         "id": 114,
@@ -6781,7 +7182,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 114,
+                        "fax": "32201280",
+                        "email": "kundeservice@dinbank.no",
+                        "haggleEmail": "kundeservice@dinbank.no",
+                        "mortgageUrl": "https://www.dinbank.no/priser/",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.dinbank.no/priser/",
+                        "smallLoansUrl": "",
+                        "changeBankEmail": "kundeservice@dinbank.no",
+                        "dailyBankingUrl": "https://www.dinbank.no/priser/",
+                        "marketRegionInfo": "Nettbanken DinBANK.no tilbyr lån med pant i fast eiendom over hele landet.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.dinbank.no/priser/",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Nettbanken DinBANK.no tilbyr banksparing og dagligbank-tjenester over hele landet.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -6910,6 +7399,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 313,
@@ -6958,7 +7448,41 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "smallLoansUrl"
+              ],
+              "message": "Smålån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Bankinnskudd prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
         }
       },
       "productType": {
@@ -7071,6 +7595,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:17:23.648Z",
       "bankCompany": {
         "id": 194,
@@ -7119,7 +7644,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -7264,6 +7790,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:17:23.648Z",
       "bankCompany": {
         "id": 194,
@@ -7312,7 +7839,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -7457,6 +7985,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 107,
@@ -7505,7 +8034,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -7652,6 +8210,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 140,
@@ -7700,7 +8259,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -7819,6 +8379,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
@@ -7867,7 +8428,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -7980,6 +8570,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:15:17.831Z",
       "bankCompany": {
         "id": 193,
@@ -8028,7 +8619,8 @@
           "activeFrom": "2014-06-18T22:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -8141,6 +8733,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 317,
@@ -8189,7 +8782,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -8318,6 +8940,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 48,
@@ -8366,7 +8989,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -8548,6 +9200,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 145,
@@ -8596,7 +9249,8 @@
           "activeFrom": "2018-10-22T22:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -8708,6 +9362,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 347,
@@ -8756,7 +9411,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -8871,6 +9527,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:33:11.137Z",
       "bankCompany": {
         "id": 238,
@@ -8919,7 +9576,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9038,6 +9696,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:33:11.137Z",
       "bankCompany": {
         "id": 238,
@@ -9086,7 +9745,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9205,6 +9865,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:33:11.137Z",
       "bankCompany": {
         "id": 238,
@@ -9253,7 +9914,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9372,6 +10034,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:33:11.137Z",
       "bankCompany": {
         "id": 238,
@@ -9420,7 +10083,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9534,6 +10198,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 333,
@@ -9582,7 +10247,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9697,6 +10363,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 333,
@@ -9745,7 +10412,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -9858,6 +10526,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:31:38.552Z",
       "bankCompany": {
         "id": 105,
@@ -9906,7 +10575,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -10019,6 +10776,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:31:38.552Z",
       "bankCompany": {
         "id": 105,
@@ -10067,7 +10825,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -10180,6 +11026,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 329,
@@ -10228,7 +11075,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -10359,6 +11235,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
@@ -10407,7 +11284,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -10520,6 +11426,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
@@ -10568,7 +11475,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -10681,6 +11617,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
@@ -10729,7 +11666,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -10842,6 +11808,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 281,
@@ -10890,7 +11857,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -11003,6 +11999,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 69,
@@ -11051,7 +12048,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -11164,6 +12190,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 278,
@@ -11212,7 +12239,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -11325,6 +12353,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 104,
@@ -11373,7 +12402,8 @@
           "activeFrom": "2017-12-04T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -11486,6 +12516,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 104,
@@ -11534,7 +12565,8 @@
           "activeFrom": "2017-12-04T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -11647,6 +12679,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 51,
@@ -11695,7 +12728,8 @@
           "activeFrom": "2007-12-31T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -11832,6 +12866,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
@@ -11880,7 +12915,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -12009,6 +13045,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 39,
@@ -12057,7 +13094,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -12202,6 +13240,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:18:19.589Z",
       "bankCompany": {
         "id": 201,
@@ -12250,7 +13289,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -12396,6 +13436,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
@@ -12444,7 +13485,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -12718,6 +13760,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 67,
@@ -12766,7 +13809,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -13040,6 +14084,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
@@ -13088,7 +14133,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -13201,6 +14247,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 284,
@@ -13249,7 +14296,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -13362,6 +14410,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
@@ -13410,7 +14459,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -13522,6 +14600,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 349,
@@ -13570,7 +14649,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -13682,6 +14790,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
@@ -13730,7 +14839,8 @@
           "activeFrom": "2007-12-31T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -13843,6 +14953,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:41:10.020Z",
       "bankCompany": {
         "id": 259,
@@ -13891,7 +15002,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14008,6 +15120,7 @@
         "other"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:29:52.497Z",
       "bankCompany": {
         "id": 102,
@@ -14056,7 +15169,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14169,6 +15283,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:56:55.449Z",
       "bankCompany": {
         "id": 150,
@@ -14217,7 +15332,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14330,6 +15446,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:56:55.449Z",
       "bankCompany": {
         "id": 150,
@@ -14378,7 +15495,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14491,6 +15609,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 62,
@@ -14539,7 +15658,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -14654,6 +15861,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
@@ -14702,7 +15910,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14815,6 +16024,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 314,
@@ -14863,7 +16073,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -14976,6 +16187,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 88,
@@ -15024,7 +16236,8 @@
           "activeFrom": "2013-10-27T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -15242,6 +16455,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
@@ -15290,7 +16504,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -15419,6 +16662,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 60,
@@ -15467,7 +16711,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -15580,6 +16853,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
@@ -15628,7 +16902,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -15778,6 +17053,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 92,
@@ -15826,7 +17102,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -15976,6 +17253,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:40:00.826Z",
       "bankCompany": {
         "id": 114,
@@ -16024,7 +17302,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 114,
+                        "fax": "32201280",
+                        "email": "kundeservice@dinbank.no",
+                        "haggleEmail": "kundeservice@dinbank.no",
+                        "mortgageUrl": "https://www.dinbank.no/priser/",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.dinbank.no/priser/",
+                        "smallLoansUrl": "",
+                        "changeBankEmail": "kundeservice@dinbank.no",
+                        "dailyBankingUrl": "https://www.dinbank.no/priser/",
+                        "marketRegionInfo": "Nettbanken DinBANK.no tilbyr lån med pant i fast eiendom over hele landet.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.dinbank.no/priser/",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Nettbanken DinBANK.no tilbyr banksparing og dagligbank-tjenester over hele landet.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -16137,6 +17503,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:40:00.826Z",
       "bankCompany": {
         "id": 114,
@@ -16185,7 +17552,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 114,
+                        "fax": "32201280",
+                        "email": "kundeservice@dinbank.no",
+                        "haggleEmail": "kundeservice@dinbank.no",
+                        "mortgageUrl": "https://www.dinbank.no/priser/",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.dinbank.no/priser/",
+                        "smallLoansUrl": "",
+                        "changeBankEmail": "kundeservice@dinbank.no",
+                        "dailyBankingUrl": "https://www.dinbank.no/priser/",
+                        "marketRegionInfo": "Nettbanken DinBANK.no tilbyr lån med pant i fast eiendom over hele landet.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.dinbank.no/priser/",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Nettbanken DinBANK.no tilbyr banksparing og dagligbank-tjenester over hele landet.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -16304,6 +17759,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
@@ -16352,7 +17808,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -16465,6 +17922,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
@@ -16513,7 +17971,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -16664,6 +18123,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
@@ -16712,7 +18172,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -16825,6 +18286,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 68,
@@ -16873,7 +18335,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -17025,6 +18488,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 100,
@@ -17073,7 +18537,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -17186,6 +18651,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 111,
@@ -17234,7 +18700,8 @@
           "activeFrom": "2007-12-31T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -17363,6 +18830,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 35,
@@ -17411,7 +18879,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -17523,6 +19020,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 35,
@@ -17571,7 +19069,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -17684,6 +19211,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:03:24.069Z",
       "bankCompany": {
         "id": 166,
@@ -17732,7 +19260,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -17877,6 +19406,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:03:24.069Z",
       "bankCompany": {
         "id": 166,
@@ -17925,7 +19455,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18070,6 +19601,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
@@ -18118,7 +19650,8 @@
           "activeFrom": "2026-01-12T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18233,6 +19766,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:42:48.313Z",
       "bankCompany": {
         "id": 264,
@@ -18281,7 +19815,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18410,6 +19945,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T14:42:48.313Z",
       "bankCompany": {
         "id": 264,
@@ -18458,7 +19994,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18587,6 +20124,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 42,
@@ -18635,7 +20173,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18747,6 +20286,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 42,
@@ -18795,7 +20335,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -18908,6 +20449,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 45,
@@ -18956,7 +20498,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -19164,6 +20707,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 293,
@@ -19212,7 +20756,8 @@
           "activeFrom": "2026-01-12T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -19327,6 +20872,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 242,
@@ -19375,7 +20921,36 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -19517,6 +21092,7 @@
         "checkingAccount"
       ],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 52,
@@ -19565,7 +21141,36 @@
           "activeFrom": "2024-09-30T22:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
         }
       },
       "productType": {
@@ -19694,6 +21299,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:43:54.454Z",
       "bankCompany": {
         "id": 125,
@@ -19742,7 +21348,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
@@ -19887,6 +21494,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:32:31.525Z",
       "bankCompany": {
         "id": 108,
@@ -19935,7 +21543,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 108,
+                        "fax": "69884030",
+                        "email": "post@asbank.no",
+                        "haggleEmail": "post@asbank.no",
+                        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@asbank.no",
+                        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -20089,6 +21785,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": "2026-03-09T13:32:31.525Z",
       "bankCompany": {
         "id": 108,
@@ -20137,7 +21834,95 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 108,
+                        "fax": "69884030",
+                        "email": "post@asbank.no",
+                        "haggleEmail": "post@asbank.no",
+                        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@asbank.no",
+                        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       },
       "productType": {
@@ -20295,6 +22080,7 @@
       "parentProductId": null,
       "requiresProductTypes": [],
       "hideParentProduct": false,
+      "validationErrors": null,
       "plcLastCheckedAt": null,
       "bankCompany": {
         "id": 277,
@@ -20343,7 +22129,8 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true
+          "validated": true,
+          "validationErrors": null
         }
       },
       "productType": {
