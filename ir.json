@@ -67122,7 +67122,7 @@
       "modifiedBy": "Kari",
       "publishFrom": "2025-12-08T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Fastrenteinnskudd er en spareform der du binder pengene dine til en fast rente over en bestemt periode. Innskuddet har bindingstid og du kan velge enten 3, 6 eller 12 måneder. Innskudd minimum kr 250.000. Innskudd maksimum kr 5.000.000. Uttaksgebyr i bindingsperioden er 2 % av uttaksbeløpet",
       "ageFrom": 18,
       "ageTo": 100,
