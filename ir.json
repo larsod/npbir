@@ -39541,228 +39541,6 @@
     "interestRateChangedAt": "2025-11-25T23:00:00.000Z"
   },
   {
-    "id": 153571,
-    "firstVersionId": 127172,
-    "oldProductId": 222838,
-    "name": "Høyrente med 31 d oppsigelse ",
-    "companyId": 361,
-    "companyName": "Melhusbanken",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-25T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153571,
-      "bankCompanyId": 361,
-      "productTypeId": 10,
-      "name": "Høyrente med 31 d oppsigelse ",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-26T13:30:30.702Z",
-      "createdBy": "Ellen",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-27T09:13:23.425Z",
-      "modifiedBy": "Ellen",
-      "publishFrom": "2025-11-25T23:00:00.000Z",
-      "publishTo": "2026-04-06T22:00:00.000Z",
-      "isLatestVersion": false,
-      "otherConditions": "",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": null,
-      "bankCompany": {
-        "id": 361,
-        "fax": "",
-        "email": "post@melhusbanken.no",
-        "becomeCustomerURL": null,
-        "changeBankURL": null,
-        "changeBankEmail": "post@melhusbanken.no",
-        "contactURL": null,
-        "haggleEmail": "post@melhusbanken.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": "https://www.melhusbanken.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.melhusbanken.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.melhusbanken.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.melhusbanken.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.melhusbanken.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus , to i Melhus kommune og to i Trondheim Kommune",
-        "bankHasOwnATM": false,
-        "company": {
-          "id": 361,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:34.228Z",
-          "slug": "Melhusbanken",
-          "organizationNumber": "937901291",
-          "url": "https://www.melhusbanken.no/",
-          "name": "Melhusbanken",
-          "addressId": 361,
-          "phone": "72878000",
-          "modifiedBy": null,
-          "leverandorId": 363,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 361,
-                        "fax": "",
-                        "email": "post@melhusbanken.no",
-                        "haggleEmail": "post@melhusbanken.no",
-                        "mortgageUrl": "https://www.melhusbanken.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.melhusbanken.no/priser",
-                        "smallLoansUrl": "https://www.melhusbanken.no/priser",
-                        "changeBankEmail": "post@melhusbanken.no",
-                        "dailyBankingUrl": "https://www.melhusbanken.no/priser",
-                        "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.melhusbanken.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus , to i Melhus kommune og to i Trondheim Kommune",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.25,
-          "thresholdInterestRate": 100000
-        },
-        {
-          "nominalInterestRate": 4.4,
-          "thresholdInterestRate": 1000000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.249999999999998,
-    "interestAmountRaw": 6375,
-    "totalAmountRaw": 156375,
-    "effectiveInterestRate": 4.25,
-    "interestAmount": 6375,
-    "totalAmount": 156375,
-    "interestRateChangedAt": "2025-11-25T23:00:00.000Z"
-  },
-  {
     "id": 153574,
     "firstVersionId": 125665,
     "oldProductId": 184983,
@@ -75513,6 +75291,228 @@
     "interestAmount": 3375,
     "totalAmount": 153375,
     "interestRateChangedAt": "2026-02-17T23:00:00.000Z"
+  },
+  {
+    "id": 156006,
+    "firstVersionId": 127172,
+    "oldProductId": 222838,
+    "name": "Høyrente med 31 d oppsigelse ",
+    "companyId": 361,
+    "companyName": "Melhusbanken",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-04-06T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 156006,
+      "bankCompanyId": 361,
+      "productTypeId": 10,
+      "name": "Høyrente med 31 d oppsigelse ",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-02-16T13:57:43.123Z",
+      "createdBy": "Ellen",
+      "deletedAt": null,
+      "modifiedAt": "2026-02-16T14:21:38.622Z",
+      "modifiedBy": "Ellen",
+      "publishFrom": "2026-04-06T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 361,
+        "fax": "",
+        "email": "post@melhusbanken.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@melhusbanken.no",
+        "contactURL": null,
+        "haggleEmail": "post@melhusbanken.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.melhusbanken.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.melhusbanken.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.melhusbanken.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.melhusbanken.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.melhusbanken.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus , to i Melhus kommune og to i Trondheim Kommune",
+        "bankHasOwnATM": false,
+        "company": {
+          "id": 361,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:34.228Z",
+          "slug": "Melhusbanken",
+          "organizationNumber": "937901291",
+          "url": "https://www.melhusbanken.no/",
+          "name": "Melhusbanken",
+          "addressId": 361,
+          "phone": "72878000",
+          "modifiedBy": null,
+          "leverandorId": 363,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 361,
+                        "fax": "",
+                        "email": "post@melhusbanken.no",
+                        "haggleEmail": "post@melhusbanken.no",
+                        "mortgageUrl": "https://www.melhusbanken.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.melhusbanken.no/priser",
+                        "smallLoansUrl": "https://www.melhusbanken.no/priser",
+                        "changeBankEmail": "post@melhusbanken.no",
+                        "dailyBankingUrl": "https://www.melhusbanken.no/priser",
+                        "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.melhusbanken.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus , to i Melhus kommune og to i Trondheim Kommune",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.25,
+          "thresholdInterestRate": 100000
+        },
+        {
+          "nominalInterestRate": 4.3,
+          "thresholdInterestRate": 1000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.249999999999998,
+    "interestAmountRaw": 6375,
+    "totalAmountRaw": 156375,
+    "effectiveInterestRate": 4.25,
+    "interestAmount": 6375,
+    "totalAmount": 156375,
+    "interestRateChangedAt": "2025-11-25T23:00:00.000Z"
   },
   {
     "id": 156025,
