@@ -46171,219 +46171,6 @@
     "interestRateChangedAt": "2017-11-09T00:00:00.000Z"
   },
   {
-    "id": 153866,
-    "firstVersionId": 141569,
-    "oldProductId": 2976,
-    "name": "Sparekonto Ung",
-    "companyId": 235,
-    "companyName": "Jæren Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-27T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153866,
-      "bankCompanyId": 235,
-      "productTypeId": 10,
-      "name": "Sparekonto Ung",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-12-01T10:53:11.088Z",
-      "createdBy": "Anne Birgit",
-      "deletedAt": null,
-      "modifiedAt": "2025-12-01T13:29:44.819Z",
-      "modifiedBy": "Anne Birgit",
-      "publishFrom": "2025-11-27T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Sparekonto Ung - Dette er en sparekonto for deg mellom 0 og 34 år. Kontoen har gunstige rentevilkår. Giro belastet sparekonto koster kr 50,-. Ingen uttaksbegrensninger.",
-      "ageFrom": 0,
-      "ageTo": 34,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-28T22:07:55.801Z",
-      "bankCompany": {
-        "id": 235,
-        "fax": "",
-        "email": "post@jaerensparebank.no",
-        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankEmail": "post@jaerensparebank.no",
-        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
-        "haggleEmail": "post@jaerensparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.jaerensparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.jaerensparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "bankHasOwnATM": true,
-        "company": {
-          "id": 235,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-25T08:56:07.797Z",
-          "createdAt": "2025-10-14T11:13:33.612Z",
-          "slug": "jæren_sparebank",
-          "organizationNumber": "937895976",
-          "url": "https://www.jaerensparebank.no",
-          "name": "Jæren Sparebank",
-          "addressId": 235,
-          "phone": "915 03290",
-          "modifiedBy": "Anne Birgit",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 235,
-                        "fax": "",
-                        "email": "post@jaerensparebank.no",
-                        "haggleEmail": "post@jaerensparebank.no",
-                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
-                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
-                        "changeBankEmail": "post@jaerensparebank.no",
-                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
-                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 3.7,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 3.699999999999992,
-    "interestAmountRaw": 5550,
-    "totalAmountRaw": 155550,
-    "effectiveInterestRate": 3.7,
-    "interestAmount": 5550,
-    "totalAmount": 155550,
-    "interestRateChangedAt": "2025-11-27T23:00:00.000Z"
-  },
-  {
     "id": 153875,
     "firstVersionId": 138183,
     "oldProductId": 3320,
@@ -71973,7 +71760,7 @@
       "modifiedBy": "Gina",
       "publishFrom": "2026-02-28T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Hvis du har et større sparebeløp kan du få høyere rente ved å binde renta i et fastrenteinnskudd. Minste sparebeløp er 25.000 kroner. Fordeler med fastrenteinnskudd: Innskuddet og renten bindes i en avtalt periode. Renten i bindingsperioden påvirkes ikke selv om renten i markedet endres. Du vet på forhånd hva du får i avkastning. Velg mellom bindingstid på 6 eller 12 måneder. For å opprette fastrenteinnskudd må du være eller bli kunde i SpareBank 1 SMN og ha ønsket sparebeløp på en sparekonto hos oss. Har du BankID fra før kan du bruke denne til å åpne kundeforhold og fastrenteinnskudd på bankens nettsider.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -72100,7 +71887,7 @@
       "modifiedBy": "Gina",
       "publishFrom": "2026-02-28T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Hvis du har et større sparebeløp kan du få høyere rente ved å binde renta i et fastrenteinnskudd. Minste sparebeløp er 25.000 kroner. Fordeler med fastrenteinnskudd: Innskuddet og renten bindes i en avtalt periode. Renten i bindingsperioden påvirkes ikke selv om renten i markedet endres. Du vet på forhånd hva du får i avkastning. Velg mellom bindingstid på 6 eller 12 måneder. For å opprette fastrenteinnskudd må du være eller bli kunde i SpareBank 1 SMN og ha ønsket sparebeløp på en sparekonto hos oss.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -88896,133 +88683,6 @@
     "interestRateChangedAt": "2026-03-31T22:00:00.000Z"
   },
   {
-    "id": 157172,
-    "firstVersionId": 157172,
-    "oldProductId": null,
-    "name": "Fastrenteinnskudd 12 mnd ",
-    "companyId": 280,
-    "companyName": "SpareBank 1 Hallingdal Valdres",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-03-31T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 157172,
-      "bankCompanyId": 280,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 12 mnd ",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-04-01T08:11:36.712Z",
-      "createdBy": "Lars",
-      "deletedAt": null,
-      "modifiedAt": "2026-04-07T09:39:00.725Z",
-      "modifiedBy": "Lars",
-      "publishFrom": "2026-03-31T22:00:00.000Z",
-      "publishTo": "2026-04-29T22:00:00.000Z",
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd med 1 års binding. Bindingstiden opphører 30.04.26 Dersom du velger å avbryte avtalen før utløpstiden blir uttaket belastet med 5 % uttaksgebyr, men dette blir redusert i takt med hvor lenge du har igjen av bindingstiden.. \nTegningsperiode til og med 30.04.2026\n\nMinste beløp er 50.000 kroner.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": null,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-28T22:03:36.402Z",
-      "bankCompany": {
-        "id": 280,
-        "fax": "32023901",
-        "email": "post@sb1.no",
-        "becomeCustomerURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "changeBankURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "changeBankEmail": "post@sb1.no",
-        "contactURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "haggleEmail": "post@sb1.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "SpareBank 1 Hallingdal Valdres opererer i markedsområdet Hallingdal og Valdres. Fra våre syv fullservicekontor i Ål, Gol, Hemsedal,Geilo,Fagernes,Heggenes og Beitostølen betjener vi kunder i nærområdet. I tillegg har vi et kundesenter som er en egen avdeling, og betjener kunder fra fjern og nær via telefon, e-post, nettbank og post.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "SpareBank 1 Hallingdal Valdres opererer i markedsområdet Hallingdal og Valdres. Fra våre syv fullservicekontor i Ål, Gol, Hemsedal,Geilo,Fagernes,Heggenes og Beitostølen betjener vi kunder i nærområdet. I tillegg har vi et kundesenter som er en egen avdeling, og betjener kunder fra fjern og nær via telefon, e-post, nettbank og post.",
-        "bankHasOwnATM": false,
-        "company": {
-          "id": 280,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:33.829Z",
-          "slug": "SpareBank 1 Hallingdal Valdres",
-          "organizationNumber": "937889631",
-          "url": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-          "name": "SpareBank 1 Hallingdal Valdres",
-          "addressId": 280,
-          "phone": "03202",
-          "modifiedBy": null,
-          "leverandorId": 345,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 20000000,
-      "minimumDeposit": 50000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.45,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.449999999999998,
-    "interestAmountRaw": 6675,
-    "totalAmountRaw": 156675,
-    "effectiveInterestRate": 4.45,
-    "interestAmount": 6675,
-    "totalAmount": 156675,
-    "interestRateChangedAt": "2026-03-31T22:00:00.000Z"
-  },
-  {
     "id": 157178,
     "firstVersionId": 123428,
     "oldProductId": 1107945,
@@ -98790,164 +98450,6 @@
     "interestRateChangedAt": "2026-01-26T23:00:00.000Z"
   },
   {
-    "id": 157551,
-    "firstVersionId": 138588,
-    "oldProductId": 3449508,
-    "name": "Nibor Privat",
-    "companyId": 60,
-    "companyName": "BN Bank ASA",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-04-21T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 157551,
-      "bankCompanyId": 60,
-      "productTypeId": 10,
-      "name": "Nibor Privat",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-04-22T08:49:34.123Z",
-      "createdBy": "Line",
-      "deletedAt": null,
-      "modifiedAt": "2026-04-22T09:35:29.578Z",
-      "modifiedBy": "Line",
-      "publishFrom": "2026-04-21T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Nibor Privat er knyttet til 3 mnd Nibor med påslag eller fratrekk av en rentemargin. Renten beregnes daglig. Uttak fra konto må varsles 31 dager i forkant. Uttak i bindingstiden belastes med et uttaksgebyr på 3%. ",
-      "ageFrom": 18,
-      "ageTo": 150,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": null,
-      "bankCompany": {
-        "id": 60,
-        "fax": "73531521",
-        "email": "post@bnbank.no",
-        "becomeCustomerURL": "https://www.bnbank.no/bli-kunde/",
-        "changeBankURL": "https://www.bnbank.no/bli-kunde/bytte-bank/",
-        "changeBankEmail": "post@bnbank.no",
-        "contactURL": "https://www.bnbank.no/om-oss/",
-        "haggleEmail": "post@bnbank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": "https://www.bnbank.no/lan/prisliste-lan/, https://www.bnbank.no/priser/",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.bnbank.no/lan/prisliste-lan/, https://www.bnbank.no/priser/",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.bnbank.no/person/dagligbruk/kort/priser-kort/, https://www.bnbank.no/priser/, https://www.bnbank.no/globalassets/00_person/daglig-bruk/kort/kredittkort/avtalevilkar_kredittkort_bnbank_v3.0.pdf",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.bnbank.no/Person/SparBruk/Brukskonto/Prisliste-Kontobruk/,https://www.bnbank.no/priser/#dagligbank",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.bnbank.no/Person/SparBruk/Brukskonto/Prisliste-Kontobruk/, https://www.bnbank.no/priser/",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "BN Bank ASA definerer hele landet som sitt markedsområde og betjener kunder via nettbank og telefon, men vurderer hver enkelt lånesøknad individuelt.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "BN Bank ASA definerer hele landet som sitt markedsområde og betjener kunder via nettbank og telefon.",
-        "bankHasOwnATM": false,
-        "company": {
-          "id": 60,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-09T13:22:12.079Z",
-          "createdAt": "2025-10-14T11:13:32.657Z",
-          "slug": "bn_bank_asa",
-          "organizationNumber": "914864445",
-          "url": "https://www.bnbank.no",
-          "name": "BN Bank ASA",
-          "addressId": 60,
-          "phone": "73 89 20 00",
-          "modifiedBy": "Line",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 20000000,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.54,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.59,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.540000000000011,
-    "interestAmountRaw": 6810,
-    "totalAmountRaw": 156810,
-    "effectiveInterestRate": 4.54,
-    "interestAmount": 6810,
-    "totalAmount": 156810,
-    "interestRateChangedAt": "2026-04-21T22:00:00.000Z"
-  },
-  {
     "id": 157577,
     "firstVersionId": 137821,
     "oldProductId": 3422107,
@@ -100542,5 +100044,376 @@
     "interestAmount": 6600,
     "totalAmount": 156600,
     "interestRateChangedAt": "2025-12-01T23:00:00.000Z"
+  },
+  {
+    "id": 157688,
+    "firstVersionId": 141569,
+    "oldProductId": 2976,
+    "name": "Sparekonto Ung",
+    "companyId": 235,
+    "companyName": "Jæren Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-04-28T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 157688,
+      "bankCompanyId": 235,
+      "productTypeId": 10,
+      "name": "Sparekonto Ung",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-04-29T07:09:34.912Z",
+      "createdBy": "Külli",
+      "deletedAt": null,
+      "modifiedAt": "2026-04-29T07:09:35.130Z",
+      "modifiedBy": "Külli (automatically approved admin)",
+      "publishFrom": "2026-04-28T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Sparekonto Ung - Dette er en sparekonto for deg mellom 0 og 33 år. Kontoen har gunstige rentevilkår. Giro belastet sparekonto koster kr 50,-. Ingen uttaksbegrensninger.",
+      "ageFrom": 0,
+      "ageTo": 33,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 235,
+        "fax": "",
+        "email": "post@jaerensparebank.no",
+        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankEmail": "post@jaerensparebank.no",
+        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
+        "haggleEmail": "post@jaerensparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.jaerensparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.jaerensparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "bankHasOwnATM": true,
+        "company": {
+          "id": 235,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-25T08:56:07.797Z",
+          "createdAt": "2025-10-14T11:13:33.612Z",
+          "slug": "jæren_sparebank",
+          "organizationNumber": "937895976",
+          "url": "https://www.jaerensparebank.no",
+          "name": "Jæren Sparebank",
+          "addressId": 235,
+          "phone": "915 03290",
+          "modifiedBy": "Anne Birgit",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 235,
+                        "fax": "",
+                        "email": "post@jaerensparebank.no",
+                        "haggleEmail": "post@jaerensparebank.no",
+                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
+                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
+                        "changeBankEmail": "post@jaerensparebank.no",
+                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
+                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 3.7,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 3.699999999999992,
+    "interestAmountRaw": 5550,
+    "totalAmountRaw": 155550,
+    "effectiveInterestRate": 3.7,
+    "interestAmount": 5550,
+    "totalAmount": 155550,
+    "interestRateChangedAt": "2025-11-27T23:00:00.000Z"
+  },
+  {
+    "id": 157690,
+    "firstVersionId": 138588,
+    "oldProductId": 3449508,
+    "name": "Nibor Privat",
+    "companyId": 60,
+    "companyName": "BN Bank ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-04-28T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 157690,
+      "bankCompanyId": 60,
+      "productTypeId": 10,
+      "name": "Nibor Privat",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-04-29T11:39:42.215Z",
+      "createdBy": "Line",
+      "deletedAt": null,
+      "modifiedAt": "2026-04-29T11:49:15.793Z",
+      "modifiedBy": "Line",
+      "publishFrom": "2026-04-28T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Nibor Privat er knyttet til 3 mnd Nibor med påslag eller fratrekk av en rentemargin. Renten beregnes daglig. Uttak fra konto må varsles 31 dager i forkant. Uttak i bindingstiden belastes med et uttaksgebyr på 3%. ",
+      "ageFrom": 18,
+      "ageTo": 150,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 60,
+        "fax": "73531521",
+        "email": "post@bnbank.no",
+        "becomeCustomerURL": "https://www.bnbank.no/bli-kunde/",
+        "changeBankURL": "https://www.bnbank.no/bli-kunde/bytte-bank/",
+        "changeBankEmail": "post@bnbank.no",
+        "contactURL": "https://www.bnbank.no/om-oss/",
+        "haggleEmail": "post@bnbank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.bnbank.no/lan/prisliste-lan/, https://www.bnbank.no/priser/",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.bnbank.no/lan/prisliste-lan/, https://www.bnbank.no/priser/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.bnbank.no/person/dagligbruk/kort/priser-kort/, https://www.bnbank.no/priser/, https://www.bnbank.no/globalassets/00_person/daglig-bruk/kort/kredittkort/avtalevilkar_kredittkort_bnbank_v3.0.pdf",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.bnbank.no/Person/SparBruk/Brukskonto/Prisliste-Kontobruk/,https://www.bnbank.no/priser/#dagligbank",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.bnbank.no/Person/SparBruk/Brukskonto/Prisliste-Kontobruk/, https://www.bnbank.no/priser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "BN Bank ASA definerer hele landet som sitt markedsområde og betjener kunder via nettbank og telefon, men vurderer hver enkelt lånesøknad individuelt.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "BN Bank ASA definerer hele landet som sitt markedsområde og betjener kunder via nettbank og telefon.",
+        "bankHasOwnATM": false,
+        "company": {
+          "id": 60,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-09T13:22:12.079Z",
+          "createdAt": "2025-10-14T11:13:32.657Z",
+          "slug": "bn_bank_asa",
+          "organizationNumber": "914864445",
+          "url": "https://www.bnbank.no",
+          "name": "BN Bank ASA",
+          "addressId": 60,
+          "phone": "73 89 20 00",
+          "modifiedBy": "Line",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 20000000,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.5,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.6,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.499999999999993,
+    "interestAmountRaw": 6750,
+    "totalAmountRaw": 156750,
+    "effectiveInterestRate": 4.5,
+    "interestAmount": 6750,
+    "totalAmount": 156750,
+    "interestRateChangedAt": "2026-04-28T22:00:00.000Z"
   }
 ]
