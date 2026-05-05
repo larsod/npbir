@@ -1441,7 +1441,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:45:09.616Z",
+      "plcLastCheckedAt": "2026-05-04T22:09:58.036Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -2043,7 +2043,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:56:40.946Z",
+      "plcLastCheckedAt": "2026-05-04T16:51:16.960Z",
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -2713,7 +2713,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:59:47.038Z",
+      "plcLastCheckedAt": "2026-05-04T22:04:16.454Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -2904,7 +2904,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:59:47.038Z",
+      "plcLastCheckedAt": "2026-05-04T22:04:16.454Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -3101,7 +3101,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:59:47.038Z",
+      "plcLastCheckedAt": "2026-05-04T22:04:16.454Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -3297,7 +3297,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:59:47.038Z",
+      "plcLastCheckedAt": "2026-05-04T22:04:16.454Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -3805,7 +3805,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:46:56.494Z",
+      "plcLastCheckedAt": "2026-05-04T22:02:27.882Z",
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -4001,7 +4001,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T03:30:25.570Z",
+      "plcLastCheckedAt": "2026-05-04T22:05:35.600Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -4197,7 +4197,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T03:30:25.570Z",
+      "plcLastCheckedAt": "2026-05-04T22:05:35.600Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -4470,6 +4470,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "",
                         "smallLoansUrl": "",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@oppdalsbanken.no",
                         "dailyBankingUrl": "https://oppdalsbanken.no/priser",
                         "marketRegionInfo": "Vi skal være det naturlige bankvalget for alle i Oppdal og vi skal være en viktig bidragsyter og medspiller for å utvikle bygda videre.\r\n            ",
@@ -5170,7 +5171,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:31:24.651Z",
+      "plcLastCheckedAt": "2026-05-05T05:27:45.248Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -5365,7 +5366,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:31:24.651Z",
+      "plcLastCheckedAt": "2026-05-05T05:27:45.248Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -9087,7 +9088,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:16:01.470Z",
+      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -9257,7 +9258,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:16:01.470Z",
+      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -9829,6 +9830,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "https://www.valdressparebank.no/priser",
                         "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@valdressparebank.no",
                         "dailyBankingUrl": "https://www.valdressparebank.no/priser",
                         "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
@@ -10080,6 +10082,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "https://www.valdressparebank.no/priser",
                         "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@valdressparebank.no",
                         "dailyBankingUrl": "https://www.valdressparebank.no/priser",
                         "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
@@ -11894,7 +11897,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T23:22:36.607Z",
+      "plcLastCheckedAt": "2026-05-04T22:06:18.139Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -12074,7 +12077,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T23:22:36.607Z",
+      "plcLastCheckedAt": "2026-05-04T22:06:18.139Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -12270,7 +12273,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T12:23:17.671Z",
+      "plcLastCheckedAt": "2026-05-04T22:09:07.763Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -12301,12 +12304,12 @@
         "marketRegionInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
         "marketRegionDeposits": "Local",
         "marketRegionDepositsInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
-        "bankHasOwnATM": false,
+        "bankHasOwnATM": true,
         "plcRetriggerAt": null,
         "company": {
           "id": 201,
           "deletedAt": null,
-          "modifiedAt": "2025-10-20T09:47:07.124Z",
+          "modifiedAt": "2026-05-04T12:58:58.243Z",
           "createdAt": "2025-10-14T11:13:33.458Z",
           "slug": "aasen_sparebank",
           "organizationNumber": "937903502",
@@ -13991,7 +13994,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T09:28:42.264Z",
+      "plcLastCheckedAt": "2026-05-04T09:38:22.284Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -14400,6 +14403,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
                         "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@soknedal-sparebank.no",
                         "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
                         "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
@@ -14904,7 +14908,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:30:41.654Z",
+      "plcLastCheckedAt": "2026-05-04T22:07:31.048Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -17216,7 +17220,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:14:55.920Z",
+      "plcLastCheckedAt": "2026-05-04T22:01:38.211Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -18310,7 +18314,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T16:04:29.849Z",
+      "plcLastCheckedAt": "2026-05-04T08:07:17.148Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -19867,7 +19871,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:19:57.405Z",
+      "plcLastCheckedAt": "2026-05-04T22:01:58.034Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -20773,7 +20777,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T16:04:29.849Z",
+      "plcLastCheckedAt": "2026-05-04T08:07:17.148Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -21443,7 +21447,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T09:17:40.557Z",
+      "plcLastCheckedAt": "2026-05-04T09:24:28.779Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -21640,7 +21644,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T09:17:40.557Z",
+      "plcLastCheckedAt": "2026-05-04T09:24:28.779Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -21837,7 +21841,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T12:23:17.671Z",
+      "plcLastCheckedAt": "2026-05-04T22:09:07.763Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -21868,12 +21872,12 @@
         "marketRegionInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
         "marketRegionDeposits": "Local",
         "marketRegionDepositsInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
-        "bankHasOwnATM": false,
+        "bankHasOwnATM": true,
         "plcRetriggerAt": null,
         "company": {
           "id": 201,
           "deletedAt": null,
-          "modifiedAt": "2025-10-20T09:47:07.124Z",
+          "modifiedAt": "2026-05-04T12:58:58.243Z",
           "createdAt": "2025-10-14T11:13:33.458Z",
           "slug": "aasen_sparebank",
           "organizationNumber": "937903502",
@@ -22098,6 +22102,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "https://www.melhusbanken.no/priser",
                         "smallLoansUrl": "https://www.melhusbanken.no/priser",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@melhusbanken.no",
                         "dailyBankingUrl": "https://www.melhusbanken.no/priser",
                         "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
@@ -22367,6 +22372,7 @@
                         "bankHasOwnATM": false,
                         "creditcardUrl": "https://www.melhusbanken.no/priser",
                         "smallLoansUrl": "https://www.melhusbanken.no/priser",
+                        "plcRetriggerAt": null,
                         "changeBankEmail": "post@melhusbanken.no",
                         "dailyBankingUrl": "https://www.melhusbanken.no/priser",
                         "marketRegionInfo": "Bankens hovedkontor ligger i Melhus sentrum to mil sør for Trondheim. Banken har fire avdelinger i tillegg til hovedkontoret på Melhus, to i Melhus kommune og to i Trondheim kommune",
@@ -22559,7 +22565,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:58:43.529Z",
+      "plcLastCheckedAt": "2026-05-04T13:36:24.072Z",
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -23855,7 +23861,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T14:52:36.440Z",
+      "plcLastCheckedAt": "2026-05-04T11:50:14.169Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -24021,7 +24027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:19:57.405Z",
+      "plcLastCheckedAt": "2026-05-04T22:01:58.034Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -24533,7 +24539,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:16:01.470Z",
+      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -25025,7 +25031,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:26:17.037Z",
+      "plcLastCheckedAt": "2026-05-04T22:07:11.572Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -25210,7 +25216,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-03T09:20:43.956Z",
+      "plcLastCheckedAt": "2026-05-04T22:02:59.250Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -25376,7 +25382,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:16:01.470Z",
+      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -25493,5 +25499,309 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
+  },
+  {
+    "id": 157741,
+    "firstVersionId": 3460,
+    "oldProductId": 50395,
+    "name": "Boliglån 75%",
+    "companyId": 172,
+    "companyName": "Drangedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-05-03T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 157741,
+      "bankCompanyId": 172,
+      "productTypeId": 9,
+      "name": "Boliglån 75%",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-05-04T09:04:56.235Z",
+      "createdBy": "Bjørn Edgar",
+      "deletedAt": null,
+      "modifiedAt": "2026-05-04T09:09:36.339Z",
+      "modifiedBy": "Bjørn Edgar",
+      "publishFrom": "2026-05-03T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Gjeldsbrevlån med pant i bolig/leilighet/hytte innenfor 75% av markedsverdi. Forutsetter brukskonto i banken.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-05-04T22:03:33.916Z",
+      "bankCompany": {
+        "id": 172,
+        "fax": "",
+        "email": "post@drangedalsparebank.no",
+        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankEmail": "post@drangedalsparebank.no",
+        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
+        "haggleEmail": "post@drangedalsparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 172,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T07:51:46.129Z",
+          "createdAt": "2025-10-14T11:13:33.307Z",
+          "slug": "drangedal_sparebank",
+          "organizationNumber": "937891601",
+          "url": "https://www.drangedalsparebank.no",
+          "name": "Drangedal Sparebank",
+          "addressId": 172,
+          "phone": "35997400",
+          "modifiedBy": "Bjørn Edgar",
+          "leverandorId": null,
+          "activeFrom": "2026-04-14T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 172,
+                        "fax": "35997410",
+                        "email": "post@drangedalsparebank.no",
+                        "haggleEmail": "post@drangedalsparebank.no",
+                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@drangedalsparebank.no",
+                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "Local",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [
+        {
+          "id": 3422,
+          "name": "Åmot"
+        },
+        {
+          "id": 4001,
+          "name": "Porsgrunn"
+        },
+        {
+          "id": 4003,
+          "name": "Skien"
+        },
+        {
+          "id": 4010,
+          "name": "Siljan"
+        },
+        {
+          "id": 4012,
+          "name": "Bamble"
+        },
+        {
+          "id": 4014,
+          "name": "Kragerø"
+        },
+        {
+          "id": 4016,
+          "name": "Drangedal"
+        },
+        {
+          "id": 4018,
+          "name": "Nome"
+        },
+        {
+          "id": 4020,
+          "name": "Midt-Telemark"
+        },
+        {
+          "id": 4022,
+          "name": "Seljord"
+        },
+        {
+          "id": 4026,
+          "name": "Tinn"
+        },
+        {
+          "id": 4028,
+          "name": "Kviteseid"
+        },
+        {
+          "id": 4030,
+          "name": "Nissedal"
+        }
+      ],
+      "establishmentFee": 2250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.6,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 10,
+      "establishmentFeeForLoan": 2250
+    },
+    "effectiveInterestRateRaw": 5.794832623731572,
+    "effectiveInterestRate": 5.79,
+    "nominalInterestRate": 5.6,
+    "monthlyPaymentRaw": 18686,
+    "monthlyPayment": 18686,
+    "estimatedTotalPayment": 5605800,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 65,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.6,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-05-03T22:00:00.000Z"
   }
 ]
