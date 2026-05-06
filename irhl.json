@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T06:05:02.491Z",
+      "plcLastCheckedAt": "2026-05-05T18:04:48.210Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -269,7 +269,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T06:05:02.491Z",
+      "plcLastCheckedAt": "2026-05-05T18:04:48.210Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -1081,7 +1081,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:03:38.971Z",
+      "plcLastCheckedAt": "2026-05-05T22:05:15.213Z",
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -1105,7 +1105,7 @@
         "dailyBankingUrl": "https://www.68nord.no/nb/om_oss/om_banken/prisliste",
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.68nord.no/nb/om_oss/om_banken/prisliste",
+        "savingsAccountUrl": "https://www.68nord.no/nb/om_oss/om_banken/prisliste,https://www.68nord.no/-/media/sparebank68nord/dokumenter/prisliste/prisliste.pdf?rev=cde5ed0abd604af9a7b4a7152d336348",
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
         "marketRegionLoans": "Local",
@@ -1117,7 +1117,7 @@
         "company": {
           "id": 286,
           "deletedAt": null,
-          "modifiedAt": "2025-12-04T08:17:13.226Z",
+          "modifiedAt": "2026-05-05T12:18:48.534Z",
           "createdAt": "2025-10-14T11:13:33.862Z",
           "slug": "sparebank_68°_nord",
           "organizationNumber": "937905378",
@@ -1125,7 +1125,7 @@
           "name": "Sparebank 68° Nord",
           "addressId": 286,
           "phone": "77002800",
-          "modifiedBy": "Martin",
+          "modifiedBy": "Külli",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -1879,7 +1879,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:12:24.314Z",
+      "plcLastCheckedAt": "2026-05-05T11:50:35.905Z",
       "bankCompany": {
         "id": 34,
         "fax": "",
@@ -2043,7 +2043,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T16:51:16.960Z",
+      "plcLastCheckedAt": "2026-05-05T16:54:08.134Z",
       "bankCompany": {
         "id": 241,
         "fax": "",
@@ -3805,7 +3805,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:02:27.882Z",
+      "plcLastCheckedAt": "2026-05-05T08:18:32.988Z",
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -4001,7 +4001,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:05:35.600Z",
+      "plcLastCheckedAt": "2026-05-05T17:37:11.929Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -4197,7 +4197,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:05:35.600Z",
+      "plcLastCheckedAt": "2026-05-05T17:37:11.929Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -4661,7 +4661,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:02:28.744Z",
+      "plcLastCheckedAt": "2026-05-05T10:09:00.319Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -4827,7 +4827,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:02:28.744Z",
+      "plcLastCheckedAt": "2026-05-05T10:09:00.319Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -5171,7 +5171,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-05T05:27:45.248Z",
+      "plcLastCheckedAt": "2026-05-06T05:26:41.299Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -5366,7 +5366,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-05T05:27:45.248Z",
+      "plcLastCheckedAt": "2026-05-06T05:26:41.299Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -7227,203 +7227,6 @@
     "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
-    "id": 150235,
-    "firstVersionId": 16993,
-    "oldProductId": 951685,
-    "name": "Boliglån 75 %",
-    "companyId": 313,
-    "companyName": "Boligkreditt.no (Sparebanken Øst Boligkreditt AS)",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-09-22T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 150235,
-      "bankCompanyId": 313,
-      "productTypeId": 9,
-      "name": "Boliglån 75 %",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-10-23T17:17:38.975Z",
-      "createdBy": "Mats",
-      "deletedAt": null,
-      "modifiedAt": "2025-10-24T05:02:21.665Z",
-      "modifiedBy": "Mats",
-      "publishFrom": "2025-09-22T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Boligkreditt.no tilbyr lån med sikkerhet innenfor 75 % av eiendommens markedsverdi med 1. prioritets pant i; Enebolig, Rekkehus, Selveierleilighet eller Borettslagsleilighet. Vi tar forbehold om godkjenning av panteobjektet. Det godtas ikke realkausjon. Vi tilbyr ikke mellomfinansiering. Betingelser: Ingen termingebyr. Kun månedlige terminbeløp som foretas med avtalegiro. Avdragsfrihet kan innvilges for inntil 5 år av gangen. Øvre beløpsgrense for lån kr 6 mill. Det tillates ingen betalingsanmerkninger. Kredittsjekk vil bli foretatt. Lån med sikkerhet i flere eiendommer gir ett lån pr. sikkerhet. Lån med sikkerhet i utleiebolig blir priset 0,5 prosentpoeng høyere.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:08:54.864Z",
-      "bankCompany": {
-        "id": 313,
-        "fax": "32757601",
-        "email": "kundeservice@boligkreditt.no",
-        "becomeCustomerURL": "https://www.boligkreditt.no/",
-        "changeBankURL": "https://www.boligkreditt.no/",
-        "changeBankEmail": "kundeservice@boligkreditt.no",
-        "contactURL": "https://www.boligkreditt.no/kontakt/",
-        "haggleEmail": "kundeservice@boligkreditt.no",
-        "securityDepositAmount": "",
-        "depositGuaranteeSchema": "",
-        "smallLoansUrl": "https://www.boligkreditt.no/priser/",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.boligkreditt.no/priser/",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.boligkreditt.no/priser/",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.boligkreditt.no/priser/",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.boligkreditt.no/priser/",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Boligkreditt.no tilbyr boliglån til hele landet.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Boligkreditt.no tilbyr ikke dagligbank, kort eller banksparing.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 313,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-15T08:57:50.331Z",
-          "createdAt": "2025-10-14T11:13:33.996Z",
-          "slug": "boligkreditt.no_(sparebanken_øst_boligkreditt_as)",
-          "organizationNumber": "993997889",
-          "url": "https://www.boligkreditt.no/",
-          "name": "Boligkreditt.no (Sparebanken Øst Boligkreditt AS)",
-          "addressId": 313,
-          "phone": "09152",
-          "modifiedBy": "Mats",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "smallLoansUrl"
-              ],
-              "message": "Smålån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "creditcardUrl"
-              ],
-              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "dailyBankingUrl"
-              ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "savingsAccountUrl"
-              ],
-              "message": "Bankinnskudd prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 0,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "establishmentFee": 0,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": 8000000,
-          "installmentFee": 0,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.97,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 75,
-      "installmentFreeRepayment": true,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 5,
-      "establishmentFeeForLoan": 0
-    },
-    "effectiveInterestRateRaw": 6.136093412066379,
-    "effectiveInterestRate": 6.14,
-    "nominalInterestRate": 5.97,
-    "monthlyPaymentRaw": 19274,
-    "monthlyPayment": 19274,
-    "estimatedTotalPayment": 5782200,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": 8000000,
-      "installmentFee": 0,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.97,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
-  },
-  {
     "id": 150281,
     "firstVersionId": 40743,
     "oldProductId": 3130466,
@@ -9088,7 +8891,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
+      "plcLastCheckedAt": "2026-05-05T09:13:35.332Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -9258,7 +9061,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
+      "plcLastCheckedAt": "2026-05-05T09:13:35.332Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -12273,7 +12076,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:09:07.763Z",
+      "plcLastCheckedAt": "2026-05-05T12:28:44.890Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -13830,7 +13633,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T22:00:35.142Z",
+      "plcLastCheckedAt": "2026-05-05T11:18:39.346Z",
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -13994,7 +13797,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:38:22.284Z",
+      "plcLastCheckedAt": "2026-05-05T09:41:21.788Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -14580,7 +14383,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:09:26.477Z",
+      "plcLastCheckedAt": "2026-05-05T13:08:06.156Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -14744,7 +14547,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:09:26.477Z",
+      "plcLastCheckedAt": "2026-05-05T13:08:06.156Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -14908,7 +14711,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:07:31.048Z",
+      "plcLastCheckedAt": "2026-05-05T11:04:49.767Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -17220,7 +17023,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:01:38.211Z",
+      "plcLastCheckedAt": "2026-05-06T00:51:31.857Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -17384,7 +17187,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T22:00:35.142Z",
+      "plcLastCheckedAt": "2026-05-05T11:18:39.346Z",
       "bankCompany": {
         "id": 111,
         "fax": "35962661",
@@ -18148,7 +17951,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:04:37.968Z",
+      "plcLastCheckedAt": "2026-05-05T22:06:16.637Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -18314,7 +18117,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T08:07:17.148Z",
+      "plcLastCheckedAt": "2026-05-05T16:08:18.508Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -19080,7 +18883,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:04:37.968Z",
+      "plcLastCheckedAt": "2026-05-05T22:06:16.637Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -20163,7 +19966,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-01T09:24:18.579Z",
+      "plcLastCheckedAt": "2026-05-05T08:19:39.118Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -20375,7 +20178,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T09:54:41.740Z",
+      "plcLastCheckedAt": "2026-05-05T22:10:18.905Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -20569,7 +20372,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-04-30T10:18:48.210Z",
+      "plcLastCheckedAt": "2026-05-05T22:08:12.031Z",
       "bankCompany": {
         "id": 41,
         "fax": "769 111 01",
@@ -20777,7 +20580,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T08:07:17.148Z",
+      "plcLastCheckedAt": "2026-05-05T16:08:18.508Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -21447,7 +21250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:24:28.779Z",
+      "plcLastCheckedAt": "2026-05-05T09:30:44.296Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -21644,7 +21447,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:24:28.779Z",
+      "plcLastCheckedAt": "2026-05-05T09:30:44.296Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -21841,7 +21644,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:09:07.763Z",
+      "plcLastCheckedAt": "2026-05-05T12:28:44.890Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -22565,7 +22368,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T13:36:24.072Z",
+      "plcLastCheckedAt": "2026-05-05T22:01:08.585Z",
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -23861,7 +23664,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T11:50:14.169Z",
+      "plcLastCheckedAt": "2026-05-05T11:56:40.973Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -24539,7 +24342,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
+      "plcLastCheckedAt": "2026-05-05T09:13:35.332Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -25031,7 +24834,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:07:11.572Z",
+      "plcLastCheckedAt": "2026-05-05T08:21:33.292Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -25216,7 +25019,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:02:59.250Z",
+      "plcLastCheckedAt": "2026-05-05T09:33:33.667Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -25382,7 +25185,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T09:06:34.097Z",
+      "plcLastCheckedAt": "2026-05-05T09:13:35.332Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -25546,7 +25349,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-04T22:03:33.916Z",
+      "plcLastCheckedAt": "2026-05-05T13:45:54.332Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -25803,5 +25606,202 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2026-05-03T22:00:00.000Z"
+  },
+  {
+    "id": 157773,
+    "firstVersionId": 16993,
+    "oldProductId": 951685,
+    "name": "Boliglån 75 %",
+    "companyId": 313,
+    "companyName": "Boligkreditt.no (Sparebanken Øst Boligkreditt AS)",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-05-04T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 157773,
+      "bankCompanyId": 313,
+      "productTypeId": 9,
+      "name": "Boliglån 75 %",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-05-05T09:40:18.561Z",
+      "createdBy": "Külli",
+      "deletedAt": null,
+      "modifiedAt": "2026-05-05T09:40:18.808Z",
+      "modifiedBy": "Külli (automatically approved admin)",
+      "publishFrom": "2026-05-04T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Boligkreditt.no tilbyr lån med sikkerhet innenfor 75 % av eiendommens markedsverdi med 1. prioritets pant i; Enebolig, Rekkehus, Selveierleilighet eller Borettslagsleilighet. Vi tar forbehold om godkjenning av panteobjektet. Det godtas ikke realkausjon. Vi tilbyr ikke mellomfinansiering. Betingelser: Ingen termingebyr. Kun månedlige terminbeløp som foretas med avtalegiro. Avdragsfrihet kan innvilges for inntil 5 år av gangen. Øvre beløpsgrense for lån kr 8 mill. Det tillates ingen betalingsanmerkninger. Kredittsjekk vil bli foretatt. Lån med sikkerhet i flere eiendommer gir ett lån pr. sikkerhet. Lån med sikkerhet i utleiebolig blir priset 0,5 prosentpoeng høyere.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-05-05T22:06:48.865Z",
+      "bankCompany": {
+        "id": 313,
+        "fax": "32757601",
+        "email": "kundeservice@boligkreditt.no",
+        "becomeCustomerURL": "https://www.boligkreditt.no/",
+        "changeBankURL": "https://www.boligkreditt.no/",
+        "changeBankEmail": "kundeservice@boligkreditt.no",
+        "contactURL": "https://www.boligkreditt.no/kontakt/",
+        "haggleEmail": "kundeservice@boligkreditt.no",
+        "securityDepositAmount": "",
+        "depositGuaranteeSchema": "",
+        "smallLoansUrl": "https://www.boligkreditt.no/priser/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.boligkreditt.no/priser/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.boligkreditt.no/priser/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.boligkreditt.no/priser/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.boligkreditt.no/priser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Boligkreditt.no tilbyr boliglån til hele landet.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Boligkreditt.no tilbyr ikke dagligbank, kort eller banksparing.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 313,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T08:57:50.331Z",
+          "createdAt": "2025-10-14T11:13:33.996Z",
+          "slug": "boligkreditt.no_(sparebanken_øst_boligkreditt_as)",
+          "organizationNumber": "993997889",
+          "url": "https://www.boligkreditt.no/",
+          "name": "Boligkreditt.no (Sparebanken Øst Boligkreditt AS)",
+          "addressId": 313,
+          "phone": "09152",
+          "modifiedBy": "Mats",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "smallLoansUrl"
+              ],
+              "message": "Smålån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Bankinnskudd prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 0,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 0,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": 8000000,
+          "installmentFee": 0,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.97,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 5,
+      "establishmentFeeForLoan": 0
+    },
+    "effectiveInterestRateRaw": 6.136093412066379,
+    "effectiveInterestRate": 6.14,
+    "nominalInterestRate": 5.97,
+    "monthlyPaymentRaw": 19274,
+    "monthlyPayment": 19274,
+    "estimatedTotalPayment": 5782200,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": 8000000,
+      "installmentFee": 0,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.97,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   }
 ]
