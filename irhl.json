@@ -940,510 +940,6 @@
     "interestRateChangedAt": "2025-09-22T00:00:00.000Z"
   },
   {
-    "id": 152706,
-    "firstVersionId": 3916,
-    "oldProductId": 1232067,
-    "name": "Boliglån inntil 75%",
-    "companyId": 105,
-    "companyName": "Valdres Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-09-23T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 152706,
-      "bankCompanyId": 105,
-      "productTypeId": 9,
-      "name": "Boliglån inntil 75%",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-04T08:46:18.142Z",
-      "createdBy": "Elin",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-06T13:44:39.476Z",
-      "modifiedBy": "Elin",
-      "publishFrom": "2025-09-23T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-05T22:04:39.953Z",
-      "bankCompany": {
-        "id": 105,
-        "fax": "",
-        "email": "post@valdressparebank.no",
-        "becomeCustomerURL": null,
-        "changeBankURL": null,
-        "changeBankEmail": "post@valdressparebank.no",
-        "contactURL": null,
-        "haggleEmail": "post@valdressparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": "https://www.valdressparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.valdressparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.valdressparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 105,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.973Z",
-          "slug": "ValdresSparebank",
-          "organizationNumber": "937888759",
-          "url": "https://www.valdressparebank.no/",
-          "name": "Valdres Sparebank",
-          "addressId": 105,
-          "phone": "61343600",
-          "modifiedBy": null,
-          "leverandorId": 298,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 105,
-                        "fax": "",
-                        "email": "post@valdressparebank.no",
-                        "haggleEmail": "post@valdressparebank.no",
-                        "mortgageUrl": "https://www.valdressparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.valdressparebank.no/priser",
-                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@valdressparebank.no",
-                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
-                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "establishmentFee": 2250,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 55,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.25,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 75,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 0,
-      "establishmentFeeForLoan": 2250
-    },
-    "effectiveInterestRateRaw": 5.42141225287307,
-    "effectiveInterestRate": 5.42,
-    "nominalInterestRate": 5.25,
-    "monthlyPaymentRaw": 18050,
-    "monthlyPayment": 18050,
-    "estimatedTotalPayment": 5415000,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 55,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.25,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
-  },
-  {
-    "id": 152707,
-    "firstVersionId": 25307,
-    "oldProductId": 1232074,
-    "name": "Boliglån inntil 90%",
-    "companyId": 105,
-    "companyName": "Valdres Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-09-23T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 152707,
-      "bankCompanyId": 105,
-      "productTypeId": 9,
-      "name": "Boliglån inntil 90%",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-04T08:46:41.854Z",
-      "createdBy": "Elin",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-06T13:44:19.249Z",
-      "modifiedBy": "Elin",
-      "publishFrom": "2025-09-23T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-05T22:04:39.953Z",
-      "bankCompany": {
-        "id": 105,
-        "fax": "",
-        "email": "post@valdressparebank.no",
-        "becomeCustomerURL": null,
-        "changeBankURL": null,
-        "changeBankEmail": "post@valdressparebank.no",
-        "contactURL": null,
-        "haggleEmail": "post@valdressparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": "https://www.valdressparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.valdressparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.valdressparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 105,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.973Z",
-          "slug": "ValdresSparebank",
-          "organizationNumber": "937888759",
-          "url": "https://www.valdressparebank.no/",
-          "name": "Valdres Sparebank",
-          "addressId": 105,
-          "phone": "61343600",
-          "modifiedBy": null,
-          "leverandorId": 298,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 105,
-                        "fax": "",
-                        "email": "post@valdressparebank.no",
-                        "haggleEmail": "post@valdressparebank.no",
-                        "mortgageUrl": "https://www.valdressparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.valdressparebank.no/priser",
-                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@valdressparebank.no",
-                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
-                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "establishmentFee": 2250,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 55,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.4,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 90,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 0,
-      "establishmentFeeForLoan": 2250
-    },
-    "effectiveInterestRateRaw": 5.5788002887668275,
-    "effectiveInterestRate": 5.58,
-    "nominalInterestRate": 5.4,
-    "monthlyPaymentRaw": 18317,
-    "monthlyPayment": 18317,
-    "estimatedTotalPayment": 5495100,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 55,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.4,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
-  },
-  {
     "id": 152795,
     "firstVersionId": 51982,
     "oldProductId": 3863266,
@@ -4441,7 +3937,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-05T16:32:37.941Z",
+      "plcLastCheckedAt": "2026-06-09T22:06:31.201Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -5856,7 +5352,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-05T16:32:37.941Z",
+      "plcLastCheckedAt": "2026-06-09T22:06:31.201Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -7587,7 +7083,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-08T22:06:58.246Z",
+      "plcLastCheckedAt": "2026-06-09T22:13:04.246Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -17715,7 +17211,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-08T22:02:09.347Z",
+      "plcLastCheckedAt": "2026-06-09T22:08:09.731Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -17927,7 +17423,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-08T22:02:09.347Z",
+      "plcLastCheckedAt": "2026-06-09T22:08:09.731Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -19044,7 +18540,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-27T00:34:35.520Z",
+      "plcLastCheckedAt": "2026-06-09T22:18:04.553Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -19504,7 +19000,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-28T22:18:26.569Z",
+      "plcLastCheckedAt": "2026-06-09T22:20:26.661Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -21176,7 +20672,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-06T16:04:06.965Z",
+      "plcLastCheckedAt": "2026-06-09T22:16:08.041Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -21400,7 +20896,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-06T16:04:06.965Z",
+      "plcLastCheckedAt": "2026-06-09T22:16:08.041Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -25035,7 +24531,511 @@
     "interestRateChangedAt": "2026-06-03T22:00:00.000Z"
   },
   {
-    "id": 160137,
+    "id": 160229,
+    "firstVersionId": 3916,
+    "oldProductId": 1232067,
+    "name": "Boliglån inntil 75%",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-06-08T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 160229,
+      "bankCompanyId": 105,
+      "productTypeId": 9,
+      "name": "Boliglån inntil 75%",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-06-09T08:16:46.186Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2026-06-09T09:16:35.400Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2026-06-08T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-06-09T22:03:30.484Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 2250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 55,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.4,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 0,
+      "establishmentFeeForLoan": 2250
+    },
+    "effectiveInterestRateRaw": 5.5788002887668275,
+    "effectiveInterestRate": 5.58,
+    "nominalInterestRate": 5.4,
+    "monthlyPaymentRaw": 18317,
+    "monthlyPayment": 18317,
+    "estimatedTotalPayment": 5495100,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 55,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.4,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-06-08T22:00:00.000Z"
+  },
+  {
+    "id": 160230,
+    "firstVersionId": 25307,
+    "oldProductId": 1232074,
+    "name": "Boliglån inntil 90%",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-06-08T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 160230,
+      "bankCompanyId": 105,
+      "productTypeId": 9,
+      "name": "Boliglån inntil 90%",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-06-09T08:17:11.033Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2026-06-09T09:16:48.735Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2026-06-08T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-06-09T22:03:30.484Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 2250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 55,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.55,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 90,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 0,
+      "establishmentFeeForLoan": 2250
+    },
+    "effectiveInterestRateRaw": 5.736409687027733,
+    "effectiveInterestRate": 5.74,
+    "nominalInterestRate": 5.55,
+    "monthlyPaymentRaw": 18586,
+    "monthlyPayment": 18586,
+    "estimatedTotalPayment": 5575800,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 55,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.55,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-06-08T22:00:00.000Z"
+  },
+  {
+    "id": 160251,
     "firstVersionId": 3460,
     "oldProductId": 50395,
     "name": "Boliglån 75%",
@@ -25044,14 +25044,14 @@
     "isPackageRequired": false,
     "isSpecificPackageOrCustomerProgramRequired": false,
     "isMembershipRequired": false,
-    "validFrom": "2026-06-04T22:00:00.000Z",
+    "validFrom": "2026-06-08T22:00:00.000Z",
     "product": {
       "status": "approved",
       "packageList": [],
       "membershipList": [],
       "packages": [],
       "memberships": [],
-      "id": 160137,
+      "id": 160251,
       "bankCompanyId": 172,
       "productTypeId": 9,
       "name": "Boliglån 75%",
@@ -25060,12 +25060,12 @@
       "isMembershipRequired": false,
       "isSalaryRequired": true,
       "isCurrentVersion": true,
-      "createdAt": "2026-06-05T14:39:47.480Z",
-      "createdBy": "Külli",
+      "createdAt": "2026-06-09T12:04:57.979Z",
+      "createdBy": "Andreas",
       "deletedAt": null,
-      "modifiedAt": "2026-06-05T14:39:47.673Z",
-      "modifiedBy": "Külli (automatically approved admin)",
-      "publishFrom": "2026-06-04T22:00:00.000Z",
+      "modifiedAt": "2026-06-09T12:09:08.506Z",
+      "modifiedBy": "Andreas",
+      "publishFrom": "2026-06-08T22:00:00.000Z",
       "publishTo": null,
       "isLatestVersion": true,
       "otherConditions": "Gjeldsbrevlån med pant i bolig/leilighet/hytte innenfor 75% av markedsverdi. Forutsetter brukskonto i banken.",
@@ -25080,7 +25080,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-06T16:20:08.398Z",
+      "plcLastCheckedAt": "2026-06-09T22:10:12.237Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -25244,6 +25244,10 @@
           "name": "Skien"
         },
         {
+          "id": 4005,
+          "name": "Notodden"
+        },
+        {
           "id": 4010,
           "name": "Siljan"
         },
@@ -25272,6 +25276,10 @@
           "name": "Seljord"
         },
         {
+          "id": 4024,
+          "name": "Hjartdal"
+        },
+        {
           "id": 4026,
           "name": "Tinn"
         },
@@ -25282,6 +25290,14 @@
         {
           "id": 4030,
           "name": "Nissedal"
+        },
+        {
+          "id": 4032,
+          "name": "Fyresdal"
+        },
+        {
+          "id": 4034,
+          "name": "Tokke"
         }
       ],
       "establishmentFee": 3250,
@@ -25342,6 +25358,344 @@
       "installmentFee": 65,
       "stepdownMortgageLoan": false,
       "nominalInterestRate": 5.74,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-06-04T22:00:00.000Z"
+  },
+  {
+    "id": 160258,
+    "firstVersionId": 160132,
+    "oldProductId": null,
+    "name": "Boliglån 90%",
+    "companyId": 172,
+    "companyName": "Telemark Sparebank",
+    "isPackageRequired": true,
+    "isSpecificPackageOrCustomerProgramRequired": true,
+    "isMembershipRequired": false,
+    "validFrom": "2026-06-08T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 160258,
+      "bankCompanyId": 172,
+      "productTypeId": 9,
+      "name": "Boliglån 90%",
+      "isPackageRequired": true,
+      "isSpecificPackageOrCustomerProgramRequired": false,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-06-09T12:10:16.147Z",
+      "createdBy": "Külli",
+      "deletedAt": null,
+      "modifiedAt": "2026-06-09T12:10:17.914Z",
+      "modifiedBy": "Külli (automatically approved admin)",
+      "publishFrom": "2026-06-08T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": null,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [
+        "checkingAccount"
+      ],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-06-09T22:10:12.237Z",
+      "bankCompany": {
+        "id": 172,
+        "fax": "",
+        "email": "post@drangedalsparebank.no",
+        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankEmail": "post@drangedalsparebank.no",
+        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
+        "haggleEmail": "post@drangedalsparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 172,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-02T10:08:42.798Z",
+          "createdAt": "2025-10-14T11:13:33.307Z",
+          "slug": "telemark_sparebank",
+          "organizationNumber": "937891601",
+          "url": "https://www.drangedalsparebank.no/",
+          "name": "Telemark Sparebank",
+          "addressId": 172,
+          "phone": "35997400",
+          "modifiedBy": "Külli",
+          "leverandorId": null,
+          "activeFrom": "2026-04-14T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 172,
+                        "fax": "35997410",
+                        "email": "post@drangedalsparebank.no",
+                        "haggleEmail": "post@drangedalsparebank.no",
+                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@drangedalsparebank.no",
+                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "Local",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [
+        {
+          "id": 3422,
+          "name": "Åmot"
+        },
+        {
+          "id": 4001,
+          "name": "Porsgrunn"
+        },
+        {
+          "id": 4003,
+          "name": "Skien"
+        },
+        {
+          "id": 4005,
+          "name": "Notodden"
+        },
+        {
+          "id": 4010,
+          "name": "Siljan"
+        },
+        {
+          "id": 4012,
+          "name": "Bamble"
+        },
+        {
+          "id": 4014,
+          "name": "Kragerø"
+        },
+        {
+          "id": 4016,
+          "name": "Drangedal"
+        },
+        {
+          "id": 4018,
+          "name": "Nome"
+        },
+        {
+          "id": 4020,
+          "name": "Midt-Telemark"
+        },
+        {
+          "id": 4022,
+          "name": "Seljord"
+        },
+        {
+          "id": 4024,
+          "name": "Hjartdal"
+        },
+        {
+          "id": 4026,
+          "name": "Tinn"
+        },
+        {
+          "id": 4028,
+          "name": "Kviteseid"
+        },
+        {
+          "id": 4030,
+          "name": "Nissedal"
+        },
+        {
+          "id": 4032,
+          "name": "Fyresdal"
+        },
+        {
+          "id": 4034,
+          "name": "Tokke"
+        }
+      ],
+      "establishmentFee": 3250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": 999999,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.24,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        },
+        {
+          "minimumLoanAmount": 1000000,
+          "maximumLoanAmount": null,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.94,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 90,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 10,
+      "establishmentFeeForLoan": 3250
+    },
+    "effectiveInterestRateRaw": 6.156687397911376,
+    "effectiveInterestRate": 6.16,
+    "nominalInterestRate": 5.94,
+    "monthlyPaymentRaw": 19310,
+    "monthlyPayment": 19310,
+    "estimatedTotalPayment": 5793000,
+    "interval": {
+      "minimumLoanAmount": 1000000,
+      "maximumLoanAmount": null,
+      "installmentFee": 65,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.94,
       "nominalInterestRate1": null,
       "nominalInterestRate2": null,
       "nominalInterestRate3": null,
