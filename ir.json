@@ -4550,7 +4550,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -4678,7 +4678,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -4812,7 +4812,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -4940,7 +4940,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -6294,7 +6294,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -6403,166 +6403,6 @@
     "interestAmount": 8775,
     "totalAmount": 158775,
     "interestRateChangedAt": "2025-10-23T22:00:00.000Z"
-  },
-  {
-    "id": 149993,
-    "firstVersionId": 105438,
-    "oldProductId": 476732,
-    "name": "Depositumkonto",
-    "companyId": 242,
-    "companyName": "Hegra Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2023-08-29T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 149993,
-      "bankCompanyId": 242,
-      "productTypeId": 10,
-      "name": "Depositumkonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-10-23T08:34:04.590Z",
-      "createdBy": "Pål",
-      "deletedAt": null,
-      "modifiedAt": "2025-10-23T11:30:32.635Z",
-      "modifiedBy": "Pål",
-      "publishFrom": "2023-08-29T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Det kreves signert husleiekontrakt der depositumsbeløpet framgår, samt gyldig legitimasjon fra leietaker og utleier. Det er utleiers ansvar å kontrollere at avtalt depositum er innbetalt til depositumkonto før nøkler utleveres.",
-      "ageFrom": 15,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
-      "bankCompany": {
-        "id": 242,
-        "fax": "74 80 26 30",
-        "email": "banken@hegrasparebank.no",
-        "becomeCustomerURL": "https://www.hegrasparebank.no/bli-kunde",
-        "changeBankURL": "https://www.hegrasparebank.no/bytte-bank",
-        "changeBankEmail": "banken@hegrasparebank.no",
-        "contactURL": "https://www.hegrasparebank.no/kontakt-oss",
-        "haggleEmail": "banken@hegrasparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.hegrasparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.hegrasparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.hegrasparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.hegrasparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.hegrasparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Vi ønsker kunder fra hele landet velkommen til å søke om boliglån og forsikring hos en trivelig bank med lokalbankens særpreg og personlige service.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Vi ønsker kunder fra hele landet velkommen til å søke om kundeforhold og tilbud om banksparing, forsikring og dagligbank tjenester hos en trivelig bank med lokalbankens særpreg og personlige service.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 242,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-25T10:56:24.783Z",
-          "createdAt": "2025-10-14T11:13:33.645Z",
-          "slug": "hegra_sparebank",
-          "organizationNumber": "937903235",
-          "url": "https://www.hegrasparebank.no",
-          "name": "Hegra Sparebank",
-          "addressId": 242,
-          "phone": "74 80 50 00",
-          "modifiedBy": "Pål",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 7,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 0.5,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 700,
-      "highestEstablishmentFee": 700,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "Fast etableringsgebyr",
-      "conditionsForHighestEstablishmentFee": "Fast etableringsgebyr"
-    },
-    "effectiveInterestRateRaw": 0.49999999999998934,
-    "interestAmountRaw": 750,
-    "totalAmountRaw": 150750,
-    "effectiveInterestRate": 0.5,
-    "interestAmount": 750,
-    "totalAmount": 150750,
-    "interestRateChangedAt": "2023-08-29T00:00:00.000Z"
   },
   {
     "id": 150020,
@@ -9654,7 +9494,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -9783,7 +9623,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -15043,7 +14883,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -15180,7 +15020,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -15440,7 +15280,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -33850,7 +33690,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -34014,7 +33854,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -46916,7 +46756,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -57073,7 +56913,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -57229,7 +57069,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -61030,7 +60870,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -61187,7 +61027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-04T22:05:46.906Z",
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -68952,7 +68792,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -75002,7 +74842,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -81739,7 +81579,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -81895,7 +81735,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -82051,7 +81891,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -82207,7 +82047,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -82367,7 +82207,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:57:17.210Z",
+      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -96108,7 +95948,7 @@
       "modifiedBy": "Lars",
       "publishFrom": "2026-06-08T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Renten fastsettes månedlig på bakgrunn av gjennomsnittlig 3 mnd. Nibor målt på den 5, 15 og 25 forrige måned.\nMelding om fastsatt rente neste måned sendes i Nett og Mobilbank.\n6 gebyrfrie uttak i året, deretter 2 % av uttaksbeløpet.\n",
       "ageFrom": 18,
       "ageTo": 100,
@@ -98443,7 +98283,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-23T22:05:31.743Z",
+      "plcLastCheckedAt": "2026-06-29T22:03:06.941Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -101863,5 +101703,165 @@
     "interestAmount": 0,
     "totalAmount": 150000,
     "interestRateChangedAt": "2020-10-06T00:00:00.000Z"
+  },
+  {
+    "id": 161063,
+    "firstVersionId": 105438,
+    "oldProductId": 476732,
+    "name": "Depositumkonto",
+    "companyId": 242,
+    "companyName": "Hegra Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-06-28T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161063,
+      "bankCompanyId": 242,
+      "productTypeId": 10,
+      "name": "Depositumkonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-06-29T13:26:08.725Z",
+      "createdBy": "Pål",
+      "deletedAt": null,
+      "modifiedAt": "2026-06-29T14:12:28.403Z",
+      "modifiedBy": "Pål",
+      "publishFrom": "2026-06-28T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Det kreves signert husleiekontrakt der depositumsbeløpet framgår, samt gyldig legitimasjon fra leietaker og utleier. Det er utleiers ansvar å kontrollere at avtalt depositum er innbetalt til depositumkonto før nøkler utleveres.",
+      "ageFrom": 15,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-06-29T22:01:59.843Z",
+      "bankCompany": {
+        "id": 242,
+        "fax": "74 80 26 30",
+        "email": "banken@hegrasparebank.no",
+        "becomeCustomerURL": "https://www.hegrasparebank.no/bli-kunde",
+        "changeBankURL": "https://www.hegrasparebank.no/bytte-bank",
+        "changeBankEmail": "banken@hegrasparebank.no",
+        "contactURL": "https://www.hegrasparebank.no/kontakt-oss",
+        "haggleEmail": "banken@hegrasparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.hegrasparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.hegrasparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.hegrasparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.hegrasparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.hegrasparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Vi ønsker kunder fra hele landet velkommen til å søke om boliglån og forsikring hos en trivelig bank med lokalbankens særpreg og personlige service.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Vi ønsker kunder fra hele landet velkommen til å søke om kundeforhold og tilbud om banksparing, forsikring og dagligbank tjenester hos en trivelig bank med lokalbankens særpreg og personlige service.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 242,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-25T10:56:24.783Z",
+          "createdAt": "2025-10-14T11:13:33.645Z",
+          "slug": "hegra_sparebank",
+          "organizationNumber": "937903235",
+          "url": "https://www.hegrasparebank.no",
+          "name": "Hegra Sparebank",
+          "addressId": 242,
+          "phone": "74 80 50 00",
+          "modifiedBy": "Pål",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 700,
+      "highestEstablishmentFee": 700,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Fast etableringsgebyr",
+      "conditionsForHighestEstablishmentFee": "Fast etableringsgebyr"
+    },
+    "effectiveInterestRateRaw": 2.0000000000000018,
+    "interestAmountRaw": 3000,
+    "totalAmountRaw": 153000,
+    "effectiveInterestRate": 2,
+    "interestAmount": 3000,
+    "totalAmount": 153000,
+    "interestRateChangedAt": "2026-06-28T22:00:00.000Z"
   }
 ]
