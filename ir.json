@@ -9370,7 +9370,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-17T22:03:34.686Z",
+      "plcLastCheckedAt": "2026-07-09T22:03:17.324Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -9917,7 +9917,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-17T22:03:34.686Z",
+      "plcLastCheckedAt": "2026-07-09T22:03:17.324Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -30309,170 +30309,6 @@
     "interestAmount": 3750,
     "totalAmount": 153750,
     "interestRateChangedAt": "2025-11-30T23:00:00.000Z"
-  },
-  {
-    "id": 153840,
-    "firstVersionId": 141568,
-    "oldProductId": 221260,
-    "name": "Høyrentekonto",
-    "companyId": 50,
-    "companyName": "Santander Consumer Bank AS",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-12-01T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153840,
-      "bankCompanyId": 50,
-      "productTypeId": 10,
-      "name": "Høyrentekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-12-01T09:26:23.772Z",
-      "createdBy": "Øystein",
-      "deletedAt": null,
-      "modifiedAt": "2025-12-02T07:56:02.479Z",
-      "modifiedBy": "Øystein",
-      "publishFrom": "2025-12-01T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Høyrentekonto i Santander Consumer Bank AS er en innskuddskonto med meget gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto hos Santander, kan din bank ta gebyr for dette. Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-17T22:03:34.686Z",
-      "bankCompany": {
-        "id": 50,
-        "fax": "+47 21 08 33 68",
-        "email": "sparing@santander.no",
-        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankEmail": "sparing@santander.no",
-        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "haggleEmail": "sparing@santander.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 50,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.509Z",
-          "slug": "Santander Consumer Bank AS",
-          "organizationNumber": "983521592",
-          "url": "https://www.santanderconsumer.no",
-          "name": "Santander Consumer Bank AS",
-          "addressId": 50,
-          "phone": "+47 21 08 30 00",
-          "modifiedBy": null,
-          "leverandorId": 246,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "mortgageUrl"
-              ],
-              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "creditcardUrl"
-              ],
-              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "dailyBankingUrl"
-              ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.1694,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 3.8802,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 3.8802,
-          "thresholdInterestRate": 1000000
-        },
-        {
-          "nominalInterestRate": 3.8802,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 1,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.249590673566339,
-    "interestAmountRaw": 6374,
-    "totalAmountRaw": 156374,
-    "effectiveInterestRate": 4.25,
-    "interestAmount": 6374,
-    "totalAmount": 156374,
-    "interestRateChangedAt": "2025-12-01T23:00:00.000Z"
   },
   {
     "id": 153842,
@@ -55845,7 +55681,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -56001,7 +55837,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -69536,170 +69372,6 @@
     "interestRateChangedAt": "2026-05-04T22:00:00.000Z"
   },
   {
-    "id": 157683,
-    "firstVersionId": 122147,
-    "oldProductId": 318762,
-    "name": "Høyrentekonto Pluss",
-    "companyId": 50,
-    "companyName": "Santander Consumer Bank AS",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-04-27T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 157683,
-      "bankCompanyId": 50,
-      "productTypeId": 10,
-      "name": "Høyrentekonto Pluss",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-04-28T12:23:28.846Z",
-      "createdBy": "Külli",
-      "deletedAt": null,
-      "modifiedAt": "2026-04-28T12:23:29.065Z",
-      "modifiedBy": "Külli (automatically approved admin)",
-      "publishFrom": "2026-04-27T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Høyrentekonto Pluss i Santander Consumer Bank AS er en innskuddskonto med gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank, og må bestilles 31 dager i forveien. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto Pluss hos oss, kan din bank ta gebyr for dette.  Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-. Skal penger overføres før notifisert periode på 31 dager vil det tilkomme et gebyr på 2 %, eller minimum kr. 1 000 av uttaksbeløpet.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-17T22:03:34.686Z",
-      "bankCompany": {
-        "id": 50,
-        "fax": "+47 21 08 33 68",
-        "email": "sparing@santander.no",
-        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankEmail": "sparing@santander.no",
-        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "haggleEmail": "sparing@santander.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 50,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.509Z",
-          "slug": "Santander Consumer Bank AS",
-          "organizationNumber": "983521592",
-          "url": "https://www.santanderconsumer.no",
-          "name": "Santander Consumer Bank AS",
-          "addressId": 50,
-          "phone": "+47 21 08 30 00",
-          "modifiedBy": null,
-          "leverandorId": 246,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "mortgageUrl"
-              ],
-              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "creditcardUrl"
-              ],
-              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "dailyBankingUrl"
-              ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.3137,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.0249,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 4.0249,
-          "thresholdInterestRate": 1000000
-        },
-        {
-          "nominalInterestRate": 4.0249,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 1,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.400329041900819,
-    "interestAmountRaw": 6600,
-    "totalAmountRaw": 156600,
-    "effectiveInterestRate": 4.4,
-    "interestAmount": 6600,
-    "totalAmount": 156600,
-    "interestRateChangedAt": "2025-12-01T23:00:00.000Z"
-  },
-  {
     "id": 157688,
     "firstVersionId": 141569,
     "oldProductId": 2976,
@@ -79918,7 +79590,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -80074,7 +79746,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -80230,7 +79902,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -80386,7 +80058,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -80546,7 +80218,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-29T22:04:27.156Z",
+      "plcLastCheckedAt": "2026-07-09T22:01:44.716Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -101815,6 +101487,334 @@
     "interestAmount": 7200,
     "totalAmount": 157200,
     "interestRateChangedAt": "2026-07-02T22:00:00.000Z"
+  },
+  {
+    "id": 161203,
+    "firstVersionId": 141568,
+    "oldProductId": 221260,
+    "name": "Høyrentekonto",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-08T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161203,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-03T12:12:32.119Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-09T08:06:25.608Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-07-08T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto i Santander Consumer Bank AS er en innskuddskonto med meget gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto hos Santander, kan din bank ta gebyr for dette. Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-09T22:03:17.324Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4098,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.500238136993873,
+    "interestAmountRaw": 6750,
+    "totalAmountRaw": 156750,
+    "effectiveInterestRate": 4.5,
+    "interestAmount": 6750,
+    "totalAmount": 156750,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": 161205,
+    "firstVersionId": 122147,
+    "oldProductId": 318762,
+    "name": "Høyrentekonto Pluss",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-08T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161205,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto Pluss",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-03T12:13:55.096Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-09T08:06:34.739Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-07-08T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto Pluss i Santander Consumer Bank AS er en innskuddskonto med gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank, og må bestilles 31 dager i forveien. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto Pluss hos oss, kan din bank ta gebyr for dette.  Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-. Skal penger overføres før notifisert periode på 31 dager vil det tilkomme et gebyr på 2 %, eller minimum kr. 1 000 av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-09T22:03:17.324Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4578,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.55022554385931,
+    "interestAmountRaw": 6825,
+    "totalAmountRaw": 156825,
+    "effectiveInterestRate": 4.55,
+    "interestAmount": 6825,
+    "totalAmount": 156825,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
   },
   {
     "id": 161253,
