@@ -2202,260 +2202,6 @@
     "interestRateChangedAt": "2023-11-20T00:00:00.000Z"
   },
   {
-    "id": 154046,
-    "firstVersionId": 32026,
-    "oldProductId": 1607658,
-    "name": "Boliglån innenfor 90%",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-08-27T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 154046,
-      "bankCompanyId": 62,
-      "productTypeId": 9,
-      "name": "Boliglån innenfor 90%",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2025-12-03T08:52:48.314Z",
-      "createdBy": "Signy",
-      "deletedAt": null,
-      "modifiedAt": "2025-12-03T10:19:25.780Z",
-      "modifiedBy": "Signy",
-      "publishFrom": "2025-08-27T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-27T00:29:23.703Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 650,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 60,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.35,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i prosent med min og maks",
-      "establishmentFeeMaximum": 5000,
-      "establishmentFeeMinimum": 1000,
-      "maximumLoanToValueRatio": 90,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "establishmentFeePercentage": 3,
-      "maxNumberOfYearsRepaymentFreePeriod": 0,
-      "establishmentFeeForLoan": 5000
-    },
-    "effectiveInterestRateRaw": 5.538710597126384,
-    "effectiveInterestRate": 5.54,
-    "nominalInterestRate": 5.35,
-    "monthlyPaymentRaw": 18249,
-    "monthlyPayment": 18249,
-    "estimatedTotalPayment": 5474700,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 60,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.35,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2025-08-27T00:00:00.000Z"
-  },
-  {
     "id": 154893,
     "firstVersionId": 53266,
     "oldProductId": 3843100,
@@ -6161,7 +5907,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-03T22:02:58.818Z",
+      "plcLastCheckedAt": "2026-07-15T22:05:12.903Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -7987,7 +7733,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-29T16:28:03.024Z",
+      "plcLastCheckedAt": "2026-07-15T22:10:12.131Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -9725,7 +9471,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-03T22:04:58.986Z",
+      "plcLastCheckedAt": "2026-07-15T22:08:28.666Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -10101,7 +9847,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-03T22:01:40.663Z",
+      "plcLastCheckedAt": "2026-07-15T22:02:14.258Z",
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -13192,7 +12938,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-07T22:02:28.235Z",
+      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -13356,7 +13102,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-07T22:02:28.235Z",
+      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -13558,7 +13304,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-07T22:02:28.235Z",
+      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -13722,7 +13468,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-07T22:02:28.235Z",
+      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -20032,7 +19778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-29T22:11:51.167Z",
+      "plcLastCheckedAt": "2026-07-15T22:05:51.251Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -20196,7 +19942,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-29T22:11:51.167Z",
+      "plcLastCheckedAt": "2026-07-15T22:05:51.251Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -21951,7 +21697,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-05T16:37:35.170Z",
+      "plcLastCheckedAt": "2026-07-15T22:03:28.298Z",
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -24939,7 +24685,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-12T22:03:13.273Z",
+      "plcLastCheckedAt": "2026-07-15T22:13:32.797Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -25141,7 +24887,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-12T22:03:13.273Z",
+      "plcLastCheckedAt": "2026-07-15T22:13:32.797Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -25516,7 +25262,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-15T22:11:18.941Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -25786,7 +25532,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-15T22:11:18.941Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -26205,5 +25951,259 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2026-06-23T22:00:00.000Z"
+  },
+  {
+    "id": 161292,
+    "firstVersionId": 32026,
+    "oldProductId": 1607658,
+    "name": "Boliglån innenfor 90%",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-13T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161292,
+      "bankCompanyId": 62,
+      "productTypeId": 9,
+      "name": "Boliglån innenfor 90%",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-14T09:41:24.252Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-15T07:38:59.272Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-07-13T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-15T22:14:12.180Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 650,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.45,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i prosent med min og maks",
+      "establishmentFeeMaximum": 5000,
+      "establishmentFeeMinimum": 1000,
+      "maximumLoanToValueRatio": 90,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "establishmentFeePercentage": 3,
+      "maxNumberOfYearsRepaymentFreePeriod": 0,
+      "establishmentFeeForLoan": 5000
+    },
+    "effectiveInterestRateRaw": 5.643754505769039,
+    "effectiveInterestRate": 5.64,
+    "nominalInterestRate": 5.45,
+    "monthlyPaymentRaw": 18428,
+    "monthlyPayment": 18428,
+    "estimatedTotalPayment": 5528400,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 60,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.45,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-07-13T22:00:00.000Z"
   }
 ]
