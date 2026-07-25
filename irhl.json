@@ -377,7 +377,7 @@
       "modifiedBy": "Rita",
       "publishFrom": "2025-10-02T00:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Terminbeløpet blir belastet konto i banken automatisk. Kunde kan søke lån med sikkerhet i egen bolig eller egen fritidsbolig. Avdragsfrihet ved belåningsgrad 60 % eller lavere og innvilges for inntil 5 år i gangen. Vi gir ikke lån med pant i aksjeleilighet, landbrukseiendom eller tomt. Det er ikke mulig å ha et kundeforhold i Himla og Fana Sparebank samtidig.",
       "ageFrom": 18,
       "ageTo": 100,
