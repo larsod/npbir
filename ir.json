@@ -3078,7 +3078,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-16T22:11:41.125Z",
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -3763,241 +3763,6 @@
     "interestAmount": 0,
     "totalAmount": 150000,
     "interestRateChangedAt": "2020-03-27T00:00:00.000Z"
-  },
-  {
-    "id": 149949,
-    "firstVersionId": 135821,
-    "oldProductId": 2418210,
-    "name": "Depositumskonto",
-    "companyId": 269,
-    "companyName": "Orkla Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-10-19T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 149949,
-      "bankCompanyId": 269,
-      "productTypeId": 10,
-      "name": "Depositumskonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-10-23T07:57:24.493Z",
-      "createdBy": "Jonas",
-      "deletedAt": null,
-      "modifiedAt": "2025-10-23T11:39:01.290Z",
-      "modifiedBy": "Jonas",
-      "publishFrom": "2025-10-19T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": null,
-      "bankCompany": {
-        "id": 269,
-        "fax": "72498010",
-        "email": "post@orklasparebank.no",
-        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankEmail": "post@orklasparebank.no",
-        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
-        "haggleEmail": "post@orklasparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.orklasparebank.no/priser",
-        "mortgageDailyCheck": false,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.orklasparebank.no/priser",
-        "creditcardDailyCheck": false,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-        "savingsAccountDailyCheck": false,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 269,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-15T09:57:43.967Z",
-          "createdAt": "2025-10-14T11:13:33.777Z",
-          "slug": "orkla_sparebank",
-          "organizationNumber": "947278770",
-          "url": "https://orklasparebank.no/",
-          "name": "Orkla Sparebank",
-          "addressId": 269,
-          "phone": "72498000",
-          "modifiedBy": "Jonas Olsen",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 269,
-                        "fax": "72498010",
-                        "email": "post@orklasparebank.no",
-                        "haggleEmail": "post@orklasparebank.no",
-                        "mortgageUrl": "https://www.orklasparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.orklasparebank.no/priser",
-                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-                        "changeBankEmail": "post@orklasparebank.no",
-                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-                        "mortgageDailyCheck": false,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": false,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": false,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "savingsAccountDailyCheck": false,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 7,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 0.5,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 2,
-          "thresholdInterestRate": 100000
-        },
-        {
-          "nominalInterestRate": 2.85,
-          "thresholdInterestRate": 250000
-        },
-        {
-          "nominalInterestRate": 3.25,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 3.5,
-          "thresholdInterestRate": 1000000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 500,
-      "highestEstablishmentFee": 500,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "Etablering ",
-      "conditionsForHighestEstablishmentFee": "Etablering "
-    },
-    "effectiveInterestRateRaw": 2.0000000000000018,
-    "interestAmountRaw": 3000,
-    "totalAmountRaw": 153000,
-    "effectiveInterestRate": 2,
-    "interestAmount": 3000,
-    "totalAmount": 153000,
-    "interestRateChangedAt": "2025-10-19T22:00:00.000Z"
   },
   {
     "id": 149950,
@@ -5145,236 +4910,6 @@
     "interestAmount": 0,
     "totalAmount": 150000,
     "interestRateChangedAt": "2020-07-09T00:00:00.000Z"
-  },
-  {
-    "id": 150118,
-    "firstVersionId": 139637,
-    "oldProductId": 1234523,
-    "name": "Sparekonto",
-    "companyId": 269,
-    "companyName": "Orkla Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-28T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 150118,
-      "bankCompanyId": 269,
-      "productTypeId": 10,
-      "name": "Sparekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-10-23T11:39:22.563Z",
-      "createdBy": "Jonas",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-04T07:56:07.504Z",
-      "modifiedBy": "Jonas",
-      "publishFrom": "2025-11-28T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": null,
-      "bankCompany": {
-        "id": 269,
-        "fax": "72498010",
-        "email": "post@orklasparebank.no",
-        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankEmail": "post@orklasparebank.no",
-        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
-        "haggleEmail": "post@orklasparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.orklasparebank.no/priser",
-        "mortgageDailyCheck": false,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.orklasparebank.no/priser",
-        "creditcardDailyCheck": false,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-        "savingsAccountDailyCheck": false,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 269,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-15T09:57:43.967Z",
-          "createdAt": "2025-10-14T11:13:33.777Z",
-          "slug": "orkla_sparebank",
-          "organizationNumber": "947278770",
-          "url": "https://orklasparebank.no/",
-          "name": "Orkla Sparebank",
-          "addressId": 269,
-          "phone": "72498000",
-          "modifiedBy": "Jonas Olsen",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 269,
-                        "fax": "72498010",
-                        "email": "post@orklasparebank.no",
-                        "haggleEmail": "post@orklasparebank.no",
-                        "mortgageUrl": "https://www.orklasparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.orklasparebank.no/priser",
-                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-                        "changeBankEmail": "post@orklasparebank.no",
-                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-                        "mortgageDailyCheck": false,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": false,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": false,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "savingsAccountDailyCheck": false,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 0.5,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 2,
-          "thresholdInterestRate": 100000
-        },
-        {
-          "nominalInterestRate": 2.85,
-          "thresholdInterestRate": 250000
-        },
-        {
-          "nominalInterestRate": 3.25,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 3.5,
-          "thresholdInterestRate": 1000000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 2.0000000000000018,
-    "interestAmountRaw": 3000,
-    "totalAmountRaw": 153000,
-    "effectiveInterestRate": 2,
-    "interestAmount": 3000,
-    "totalAmount": 153000,
-    "interestRateChangedAt": "2025-11-28T23:00:00.000Z"
   },
   {
     "id": 150131,
@@ -10615,7 +10150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:26:19.332Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:47.249Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -12252,7 +11787,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -12383,7 +11918,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -14889,225 +14424,6 @@
     "interestRateChangedAt": "2025-11-23T23:00:00.000Z"
   },
   {
-    "id": 153433,
-    "firstVersionId": 134973,
-    "oldProductId": 3316547,
-    "name": "Plasseringskonto 1 mnd oppsigelse",
-    "companyId": 269,
-    "companyName": "Orkla Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-28T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 153433,
-      "bankCompanyId": 269,
-      "productTypeId": 10,
-      "name": "Plasseringskonto 1 mnd oppsigelse",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-11-25T10:39:08.962Z",
-      "createdBy": "Jonas",
-      "deletedAt": null,
-      "modifiedAt": "2025-11-25T10:39:52.828Z",
-      "modifiedBy": "Jonas",
-      "publishFrom": "2025-11-28T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Konto har 31 dagers skriftlig varsel til banken før uttak.\nDersom du ønsker å ta ut penger før 31 dager har gått, må du betale et gebyr på 2,5 % av uttaksbeløpet.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": null,
-      "bankCompany": {
-        "id": 269,
-        "fax": "72498010",
-        "email": "post@orklasparebank.no",
-        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
-        "changeBankEmail": "post@orklasparebank.no",
-        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
-        "haggleEmail": "post@orklasparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.orklasparebank.no/priser",
-        "mortgageDailyCheck": false,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.orklasparebank.no/priser",
-        "creditcardDailyCheck": false,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-        "savingsAccountDailyCheck": false,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 269,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-15T09:57:43.967Z",
-          "createdAt": "2025-10-14T11:13:33.777Z",
-          "slug": "orkla_sparebank",
-          "organizationNumber": "947278770",
-          "url": "https://orklasparebank.no/",
-          "name": "Orkla Sparebank",
-          "addressId": 269,
-          "phone": "72498000",
-          "modifiedBy": "Jonas Olsen",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 269,
-                        "fax": "72498010",
-                        "email": "post@orklasparebank.no",
-                        "haggleEmail": "post@orklasparebank.no",
-                        "mortgageUrl": "https://www.orklasparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.orklasparebank.no/priser",
-                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
-                        "changeBankEmail": "post@orklasparebank.no",
-                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
-                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
-                        "mortgageDailyCheck": false,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": false,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": false,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
-                        "savingsAccountDailyCheck": false,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 0.05,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.3,
-          "thresholdInterestRate": 500000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 0.04999999999999449,
-    "interestAmountRaw": 75,
-    "totalAmountRaw": 150075,
-    "effectiveInterestRate": 0.05,
-    "interestAmount": 75,
-    "totalAmount": 150075,
-    "interestRateChangedAt": "2022-08-15T00:00:00.000Z"
-  },
-  {
     "id": 153454,
     "firstVersionId": 137333,
     "oldProductId": 3477402,
@@ -16136,7 +15452,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -16264,7 +15580,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -16392,7 +15708,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -23496,7 +22812,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-16T22:11:41.125Z",
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -32067,7 +31383,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -32203,7 +31519,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -32334,7 +31650,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -32465,7 +31781,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -38880,7 +38196,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -51326,7 +50642,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -51462,7 +50778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -58414,7 +57730,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -69308,7 +68624,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -69436,7 +68752,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:08:30.198Z",
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
       "bankCompany": {
         "id": 344,
         "fax": "",
@@ -76233,7 +75549,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-16T22:11:41.125Z",
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -76361,7 +75677,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-16T22:11:41.125Z",
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -80021,7 +79337,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-29T22:02:59.519Z",
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -90165,7 +89481,7 @@
       "modifiedBy": "Lars",
       "publishFrom": "2026-07-01T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Renten fastsettes månedlig på bakgrunn av gjennomsnittlig 3 mnd. Nibor målt på den 5, 15 og 25 forrige måned.\nMelding om fastsatt rente neste måned sendes i Nett og Mobilbank.\n6 gebyrfrie uttak i året, deretter 2 % av uttaksbeløpet.\n",
       "ageFrom": 18,
       "ageTo": 100,
@@ -91486,134 +90802,6 @@
     "interestAmount": 2925,
     "totalAmount": 152925,
     "interestRateChangedAt": "2026-07-14T22:00:00.000Z"
-  },
-  {
-    "id": 161147,
-    "firstVersionId": 157172,
-    "oldProductId": null,
-    "name": "Fastrenteinnskudd 12 mnd ",
-    "companyId": 280,
-    "companyName": "SpareBank 1 Hallingdal Valdres",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-07-01T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161147,
-      "bankCompanyId": 280,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 12 mnd ",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-07-02T19:05:16.413Z",
-      "createdBy": "Lars",
-      "deletedAt": null,
-      "modifiedAt": "2026-07-03T07:59:48.608Z",
-      "modifiedBy": "Lars",
-      "publishFrom": "2026-07-01T22:00:00.000Z",
-      "publishTo": "2026-07-30T22:00:00.000Z",
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd med 1 års binding. Bindingstiden opphører 31.07.27 Dersom du velger å avbryte avtalen før utløpstiden blir uttaket belastet med 5 % uttaksgebyr, men dette blir redusert i takt med hvor lenge du har igjen av bindingstiden.. \nTegningsperiode til og med 31.07.2026\n\nMinste beløp er 50.000 kroner.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": null,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:05:12.903Z",
-      "bankCompany": {
-        "id": 280,
-        "fax": "32023901",
-        "email": "post@sb1.no",
-        "becomeCustomerURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "changeBankURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "changeBankEmail": "post@sb1.no",
-        "contactURL": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-        "haggleEmail": "post@sb1.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/hallingdal/privat/kundeservice/bestill/prisliste-lo.html",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "SpareBank 1 Hallingdal Valdres opererer i markedsområdet Hallingdal og Valdres. Fra våre syv fullservicekontor i Ål, Gol, Hemsedal,Geilo,Fagernes,Heggenes og Beitostølen betjener vi kunder i nærområdet. I tillegg har vi et kundesenter som er en egen avdeling, og betjener kunder fra fjern og nær via telefon, e-post, nettbank og post.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "SpareBank 1 Hallingdal Valdres opererer i markedsområdet Hallingdal og Valdres. Fra våre syv fullservicekontor i Ål, Gol, Hemsedal,Geilo,Fagernes,Heggenes og Beitostølen betjener vi kunder i nærområdet. I tillegg har vi et kundesenter som er en egen avdeling, og betjener kunder fra fjern og nær via telefon, e-post, nettbank og post.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 280,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:33.829Z",
-          "slug": "SpareBank 1 Hallingdal Valdres",
-          "organizationNumber": "937889631",
-          "url": "https://www.sparebank1.no/nb/hallingdal/privat.html",
-          "name": "SpareBank 1 Hallingdal Valdres",
-          "addressId": 280,
-          "phone": "03202",
-          "modifiedBy": null,
-          "leverandorId": 345,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 20000000,
-      "minimumDeposit": 50000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.7,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.699999999999993,
-    "interestAmountRaw": 7050,
-    "totalAmountRaw": 157050,
-    "effectiveInterestRate": 4.7,
-    "interestAmount": 7050,
-    "totalAmount": 157050,
-    "interestRateChangedAt": "2026-07-01T22:00:00.000Z"
   },
   {
     "id": 161149,
@@ -100250,7 +99438,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -100378,7 +99566,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -100514,7 +99702,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-30T22:08:53.207Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -100646,7 +99834,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-07-30T22:03:47.249Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -101456,5 +100644,1073 @@
     "interestAmount": 7350,
     "totalAmount": 157350,
     "interestRateChangedAt": "2026-05-19T22:00:00.000Z"
+  },
+  {
+    "id": 161433,
+    "firstVersionId": 142887,
+    "oldProductId": 3841438,
+    "name": "Fastrenteinnskudd 3 måneder",
+    "companyId": 277,
+    "companyName": "Storebrand Bank ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161433,
+      "bankCompanyId": 277,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 3 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T07:58:43.274Z",
+      "createdBy": "Jan",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-30T09:37:19.790Z",
+      "modifiedBy": "Jan",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Beløpet må overføres til konto innen 10 dager fra kontoåpning, med maksbeløp på totalt 10 millioner kroner pr. kunde.\r\nI utgangspunktet kan du ikke disponere fastrenteinnskuddet i bindingstiden. Hvis du likevel vil ta ut penger, belastes et gebyr på 1 000 kroner, samt 1 prosent av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
+      "bankCompany": {
+        "id": 277,
+        "fax": "",
+        "email": "bankassist@storebrand.no",
+        "becomeCustomerURL": "http://www.storebrand.no/bank",
+        "changeBankURL": "http://www.storebrand.no/bank",
+        "changeBankEmail": "bankassist@storebrand.no",
+        "contactURL": "http://www.storebrand.no/bank",
+        "haggleEmail": "bankassist@storebrand.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Storebrand Bank har hele landet som markedsområde for boliglån.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Storebrand Bank tilbyr kundeforhold, banksparing og dagligbank tjenester til hele landet.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 277,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:33.814Z",
+          "slug": "Storebrand Bank",
+          "organizationNumber": "953299216",
+          "url": "https://www.storebrand.no/privat/bank-og-lan/",
+          "name": "Storebrand Bank ASA",
+          "addressId": 277,
+          "phone": "08880",
+          "modifiedBy": null,
+          "leverandorId": 429,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.7,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.699999999999993,
+    "interestAmountRaw": 7050,
+    "totalAmountRaw": 157050,
+    "effectiveInterestRate": 4.7,
+    "interestAmount": 7050,
+    "totalAmount": 157050,
+    "interestRateChangedAt": "2026-03-25T23:00:00.000Z"
+  },
+  {
+    "id": 161434,
+    "firstVersionId": 142673,
+    "oldProductId": 3881601,
+    "name": "Fastrenteinnskudd 6 måneder",
+    "companyId": 277,
+    "companyName": "Storebrand Bank ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161434,
+      "bankCompanyId": 277,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 6 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T07:59:30.314Z",
+      "createdBy": "Jan",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-30T09:35:51.175Z",
+      "modifiedBy": "Jan",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Beløpet må overføres til konto innen 10 dager fra kontoåpning, med maksbeløp på totalt 10 millioner kroner pr. kunde.\r\nI utgangspunktet kan du ikke disponere fastrenteinnskuddet i bindingstiden. Hvis du likevel vil ta ut penger, belastes et gebyr på 1 000 kroner, samt 1 prosent av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-30T22:03:25.957Z",
+      "bankCompany": {
+        "id": 277,
+        "fax": "",
+        "email": "bankassist@storebrand.no",
+        "becomeCustomerURL": "http://www.storebrand.no/bank",
+        "changeBankURL": "http://www.storebrand.no/bank",
+        "changeBankEmail": "bankassist@storebrand.no",
+        "contactURL": "http://www.storebrand.no/bank",
+        "haggleEmail": "bankassist@storebrand.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Storebrand Bank har hele landet som markedsområde for boliglån.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Storebrand Bank tilbyr kundeforhold, banksparing og dagligbank tjenester til hele landet.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 277,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:33.814Z",
+          "slug": "Storebrand Bank",
+          "organizationNumber": "953299216",
+          "url": "https://www.storebrand.no/privat/bank-og-lan/",
+          "name": "Storebrand Bank ASA",
+          "addressId": 277,
+          "phone": "08880",
+          "modifiedBy": null,
+          "leverandorId": 429,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.95,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.95000000000001,
+    "interestAmountRaw": 7425,
+    "totalAmountRaw": 157425,
+    "effectiveInterestRate": 4.95,
+    "interestAmount": 7425,
+    "totalAmount": 157425,
+    "interestRateChangedAt": "2026-07-29T22:00:00.000Z"
+  },
+  {
+    "id": 161435,
+    "firstVersionId": 132508,
+    "oldProductId": 3539455,
+    "name": "Fastrenteinnskudd 6 måneder bindingstid",
+    "companyId": 344,
+    "companyName": "SpareBank 1 Østfold Akershus",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161435,
+      "bankCompanyId": 344,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 6 måneder bindingstid",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T08:49:00.527Z",
+      "createdBy": "Jim André",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-30T09:35:35.789Z",
+      "modifiedBy": "Jim André",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Du kan ikke sette inn eller ta ut penger på kontoen i løpet av bindingstiden. Dersom du likevel må foreta uttak før bindingstiden er slutt, må du betale et uttaksgebyr på 5 %. Gebyret beregnes av uttaksbeløpet for resten av bindingstiden. Renten er oppgitt som p.a (per år) hvilket innebærer at en fastrenteavtale på 6mnd vil gi en utbetaling på halvparten av den oppgitte renten.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-30T22:06:13.857Z",
+      "bankCompany": {
+        "id": 344,
+        "fax": "",
+        "email": "kontakt@sparebank1oa.no",
+        "becomeCustomerURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "changeBankURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "changeBankEmail": "kontakt@sparebank1oa.no",
+        "contactURL": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+        "haggleEmail": "kontakt@sparebank1oa.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.sparebank1.no/nb/ostfold-akershus/privat/kundeservice/bestill/prisliste.html, https://www.sparebank1.no/nb/ostfold-akershus/privat/lofavor/lofavor-prisliste.html#par_hr",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Bankens markedsområde for lån og kreditt er landsdekkende.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 344,
+          "deletedAt": null,
+          "modifiedAt": "2025-11-11T08:03:42.696Z",
+          "createdAt": "2025-10-14T11:13:34.145Z",
+          "slug": "sparebank_1_østfold_akershus",
+          "organizationNumber": "837884942",
+          "url": "https://www.sparebank1.no/nb/ostfold-akershus/privat.html",
+          "name": "SpareBank 1 Østfold Akershus",
+          "addressId": 344,
+          "phone": "91505700",
+          "modifiedBy": "Hege",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 5000000,
+      "minimumDeposit": 50000,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.85,
+          "thresholdInterestRate": 50000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.849999999999999,
+    "interestAmountRaw": 7275,
+    "totalAmountRaw": 157275,
+    "effectiveInterestRate": 4.85,
+    "interestAmount": 7275,
+    "totalAmount": 157275,
+    "interestRateChangedAt": "2026-07-29T22:00:00.000Z"
+  },
+  {
+    "id": 161443,
+    "firstVersionId": 135821,
+    "oldProductId": 2418210,
+    "name": "Depositumskonto",
+    "companyId": 269,
+    "companyName": "Orkla Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161443,
+      "bankCompanyId": 269,
+      "productTypeId": 10,
+      "name": "Depositumskonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T13:14:21.993Z",
+      "createdBy": "Jonas",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-31T06:08:42.118Z",
+      "modifiedBy": "Jonas",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 269,
+        "fax": "72498010",
+        "email": "post@orklasparebank.no",
+        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankEmail": "post@orklasparebank.no",
+        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
+        "haggleEmail": "post@orklasparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.orklasparebank.no/priser",
+        "mortgageDailyCheck": false,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.orklasparebank.no/priser",
+        "creditcardDailyCheck": false,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+        "savingsAccountDailyCheck": false,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 269,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T09:57:43.967Z",
+          "createdAt": "2025-10-14T11:13:33.777Z",
+          "slug": "orkla_sparebank",
+          "organizationNumber": "947278770",
+          "url": "https://orklasparebank.no/",
+          "name": "Orkla Sparebank",
+          "addressId": 269,
+          "phone": "72498000",
+          "modifiedBy": "Jonas Olsen",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 269,
+                        "fax": "72498010",
+                        "email": "post@orklasparebank.no",
+                        "haggleEmail": "post@orklasparebank.no",
+                        "mortgageUrl": "https://www.orklasparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.orklasparebank.no/priser",
+                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+                        "changeBankEmail": "post@orklasparebank.no",
+                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+                        "mortgageDailyCheck": false,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": false,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": false,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "savingsAccountDailyCheck": false,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 0.75,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 100000
+        },
+        {
+          "nominalInterestRate": 3,
+          "thresholdInterestRate": 250000
+        },
+        {
+          "nominalInterestRate": 3.5,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 3.75,
+          "thresholdInterestRate": 1000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 500,
+      "highestEstablishmentFee": 500,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Etablering ",
+      "conditionsForHighestEstablishmentFee": "Etablering "
+    },
+    "effectiveInterestRateRaw": 2.2499999999999964,
+    "interestAmountRaw": 3375,
+    "totalAmountRaw": 153375,
+    "effectiveInterestRate": 2.25,
+    "interestAmount": 3375,
+    "totalAmount": 153375,
+    "interestRateChangedAt": "2026-07-29T22:00:00.000Z"
+  },
+  {
+    "id": 161444,
+    "firstVersionId": 139637,
+    "oldProductId": 1234523,
+    "name": "Sparekonto",
+    "companyId": 269,
+    "companyName": "Orkla Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161444,
+      "bankCompanyId": 269,
+      "productTypeId": 10,
+      "name": "Sparekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T13:15:16.388Z",
+      "createdBy": "Jonas",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-31T06:07:40.845Z",
+      "modifiedBy": "Jonas",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 269,
+        "fax": "72498010",
+        "email": "post@orklasparebank.no",
+        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankEmail": "post@orklasparebank.no",
+        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
+        "haggleEmail": "post@orklasparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.orklasparebank.no/priser",
+        "mortgageDailyCheck": false,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.orklasparebank.no/priser",
+        "creditcardDailyCheck": false,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+        "savingsAccountDailyCheck": false,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 269,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T09:57:43.967Z",
+          "createdAt": "2025-10-14T11:13:33.777Z",
+          "slug": "orkla_sparebank",
+          "organizationNumber": "947278770",
+          "url": "https://orklasparebank.no/",
+          "name": "Orkla Sparebank",
+          "addressId": 269,
+          "phone": "72498000",
+          "modifiedBy": "Jonas Olsen",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 269,
+                        "fax": "72498010",
+                        "email": "post@orklasparebank.no",
+                        "haggleEmail": "post@orklasparebank.no",
+                        "mortgageUrl": "https://www.orklasparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.orklasparebank.no/priser",
+                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+                        "changeBankEmail": "post@orklasparebank.no",
+                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+                        "mortgageDailyCheck": false,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": false,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": false,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "savingsAccountDailyCheck": false,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 0.75,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 100000
+        },
+        {
+          "nominalInterestRate": 3,
+          "thresholdInterestRate": 250000
+        },
+        {
+          "nominalInterestRate": 3.5,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 3.75,
+          "thresholdInterestRate": 1000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.2499999999999964,
+    "interestAmountRaw": 3375,
+    "totalAmountRaw": 153375,
+    "effectiveInterestRate": 2.25,
+    "interestAmount": 3375,
+    "totalAmount": 153375,
+    "interestRateChangedAt": "2026-07-29T22:00:00.000Z"
+  },
+  {
+    "id": 161446,
+    "firstVersionId": 134973,
+    "oldProductId": 3316547,
+    "name": "Plasseringskonto 1 mnd oppsigelse",
+    "companyId": 269,
+    "companyName": "Orkla Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-29T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161446,
+      "bankCompanyId": 269,
+      "productTypeId": 10,
+      "name": "Plasseringskonto 1 mnd oppsigelse",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-30T13:16:25.924Z",
+      "createdBy": "Jonas",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-31T06:05:40.154Z",
+      "modifiedBy": "Jonas",
+      "publishFrom": "2026-07-29T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Konto har 31 dagers skriftlig varsel til banken før uttak.\nDersom du ønsker å ta ut penger før 31 dager har gått, må du betale et gebyr på 2,5 % av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 269,
+        "fax": "72498010",
+        "email": "post@orklasparebank.no",
+        "becomeCustomerURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankURL": "https://www.orklasparebank.no/bli-kunde",
+        "changeBankEmail": "post@orklasparebank.no",
+        "contactURL": "https://www.orklasparebank.no/kontakt-oss",
+        "haggleEmail": "post@orklasparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.orklasparebank.no/priser",
+        "mortgageDailyCheck": false,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.orklasparebank.no/priser",
+        "creditcardDailyCheck": false,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+        "savingsAccountDailyCheck": false,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Orkland, Rindal, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 269,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T09:57:43.967Z",
+          "createdAt": "2025-10-14T11:13:33.777Z",
+          "slug": "orkla_sparebank",
+          "organizationNumber": "947278770",
+          "url": "https://orklasparebank.no/",
+          "name": "Orkla Sparebank",
+          "addressId": 269,
+          "phone": "72498000",
+          "modifiedBy": "Jonas Olsen",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 269,
+                        "fax": "72498010",
+                        "email": "post@orklasparebank.no",
+                        "haggleEmail": "post@orklasparebank.no",
+                        "mortgageUrl": "https://www.orklasparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.orklasparebank.no/priser",
+                        "smallLoansUrl": "https://www.orklasparebank.no/priser",
+                        "changeBankEmail": "post@orklasparebank.no",
+                        "dailyBankingUrl": "https://www.orklasparebank.no/priser,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-Basis-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-under-18-betaling-010621.pdf?la=nb-NO,https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-18-til-26-betaling-010621.pdf?la=nb-NO, https://orklasparebank.no/-/media/banker/orkla-sparebank/Prisliste/Prisliste-over-26-betaling-010621.pdf?la=nb-NO",
+                        "marketRegionInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.orklasparebank.no/priser",
+                        "mortgageDailyCheck": false,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": false,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": false,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Lokal tilstedeværelse i Meldal, Orkdal, Agdenes, Rennebu, Skaun og Trondheim, men produktene tilbys nasjonalt.",
+                        "savingsAccountDailyCheck": false,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 0.05,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.55,
+          "thresholdInterestRate": 500000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 0.04999999999999449,
+    "interestAmountRaw": 75,
+    "totalAmountRaw": 150075,
+    "effectiveInterestRate": 0.05,
+    "interestAmount": 75,
+    "totalAmount": 150075,
+    "interestRateChangedAt": "2022-08-15T00:00:00.000Z"
   }
 ]
