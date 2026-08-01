@@ -1064,7 +1064,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-12T22:05:37.567Z",
+      "plcLastCheckedAt": "2026-07-31T22:01:43.905Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -1521,302 +1521,6 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2025-09-19T00:00:00.000Z"
-  },
-  {
-    "id": 157297,
-    "firstVersionId": 38837,
-    "oldProductId": 3476419,
-    "name": "Boliglån utover 75% av verdi",
-    "companyId": 108,
-    "companyName": "Askim og Spydeberg Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-04-09T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 157297,
-      "bankCompanyId": 108,
-      "productTypeId": 9,
-      "name": "Boliglån utover 75% av verdi",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-04-10T09:05:42.064Z",
-      "createdBy": "Gry Anette",
-      "deletedAt": null,
-      "modifiedAt": "2026-04-10T10:00:17.519Z",
-      "modifiedBy": "Gry Anette",
-      "publishFrom": "2026-04-09T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-06-12T22:05:37.567Z",
-      "bankCompany": {
-        "id": 108,
-        "fax": "",
-        "email": "post@asbank.no",
-        "becomeCustomerURL": "https://www.asbank.no/bli_kunde",
-        "changeBankURL": "https://www.asbank.no/kundeservice",
-        "changeBankEmail": "post@asbank.no",
-        "contactURL": "https://www.asbank.no/kundeservice",
-        "haggleEmail": "post@asbank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
-        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Askim & Spydeberg Sparebank har sin primære markedsområder innenfor Indre Østfold kommune, Skiptvet, Ytre Enebakk og hele Nordre Follo-regionen. Innenfor Landbruk har vi utvidet til hele Østfold, Oslo og Østlandet. ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Askim & Spydeberg Sparebank har sin primære markedsområder innenfor Indre Østfold kommune, Skiptvet, Ytre Enebakk og hele Nordre Follo-regionen. ",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 108,
-          "deletedAt": null,
-          "modifiedAt": "2026-04-30T12:56:46.016Z",
-          "createdAt": "2025-10-14T11:13:32.990Z",
-          "slug": "askim_og_spydeberg_sparebank",
-          "organizationNumber": "937885199",
-          "url": "https://asbank.no",
-          "name": "Askim og Spydeberg Sparebank",
-          "addressId": 108,
-          "phone": "69816200",
-          "modifiedBy": "Gry Anette",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 108,
-                        "fax": "69884030",
-                        "email": "post@asbank.no",
-                        "haggleEmail": "post@asbank.no",
-                        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-                        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-                        "changeBankEmail": "post@asbank.no",
-                        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-                        "marketRegionInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 1000,
-      "marketArea": "Local",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [
-        {
-          "id": 301,
-          "name": "Oslo"
-        },
-        {
-          "id": 3103,
-          "name": "Moss"
-        },
-        {
-          "id": 3105,
-          "name": "Sarpsborg"
-        },
-        {
-          "id": 3107,
-          "name": "Fredrikstad"
-        },
-        {
-          "id": 3116,
-          "name": "Skiptvet"
-        },
-        {
-          "id": 3118,
-          "name": "Indre Østfold"
-        },
-        {
-          "id": 3120,
-          "name": "Rakkestad"
-        },
-        {
-          "id": 3207,
-          "name": "Nordre Follo"
-        },
-        {
-          "id": 3216,
-          "name": "Vestby"
-        },
-        {
-          "id": 3218,
-          "name": "Ås"
-        },
-        {
-          "id": 3220,
-          "name": "Enebakk"
-        }
-      ],
-      "establishmentFee": 2500,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 70,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.7,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 85,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 0,
-      "establishmentFeeForLoan": 2500
-    },
-    "effectiveInterestRateRaw": 5.904783189417384,
-    "effectiveInterestRate": 5.9,
-    "nominalInterestRate": 5.7,
-    "monthlyPaymentRaw": 18875,
-    "monthlyPayment": 18875,
-    "estimatedTotalPayment": 5662500,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 70,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.7,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   },
   {
     "id": 157389,
@@ -3299,7 +3003,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:05:12.903Z",
+      "plcLastCheckedAt": "2026-07-31T22:03:11.274Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -10330,7 +10034,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
+      "plcLastCheckedAt": "2026-07-31T22:04:50.979Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -10494,7 +10198,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
+      "plcLastCheckedAt": "2026-07-31T22:04:50.979Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -10696,7 +10400,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
+      "plcLastCheckedAt": "2026-07-31T22:04:50.979Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -10860,7 +10564,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-15T22:15:46.539Z",
+      "plcLastCheckedAt": "2026-07-31T22:04:50.979Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -26205,5 +25909,301 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2026-07-28T22:00:00.000Z"
+  },
+  {
+    "id": 161447,
+    "firstVersionId": 38837,
+    "oldProductId": 3476419,
+    "name": "Boliglån utover 75% av verdi",
+    "companyId": 108,
+    "companyName": "Askim og Spydeberg Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161447,
+      "bankCompanyId": 108,
+      "productTypeId": 9,
+      "name": "Boliglån utover 75% av verdi",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-07-31T06:31:13.667Z",
+      "createdBy": "Gry Anette",
+      "deletedAt": null,
+      "modifiedAt": "2026-07-31T11:34:53.009Z",
+      "modifiedBy": "Gry Anette",
+      "publishFrom": "2026-07-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-07-31T22:01:43.905Z",
+      "bankCompany": {
+        "id": 108,
+        "fax": "",
+        "email": "post@asbank.no",
+        "becomeCustomerURL": "https://www.asbank.no/bli_kunde",
+        "changeBankURL": "https://www.asbank.no/kundeservice",
+        "changeBankEmail": "post@asbank.no",
+        "contactURL": "https://www.asbank.no/kundeservice",
+        "haggleEmail": "post@asbank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
+        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Askim & Spydeberg Sparebank har sin primære markedsområder innenfor Indre Østfold kommune, Skiptvet, Ytre Enebakk og hele Nordre Follo-regionen. Innenfor Landbruk har vi utvidet til hele Østfold, Oslo og Østlandet. ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Askim & Spydeberg Sparebank har sin primære markedsområder innenfor Indre Østfold kommune, Skiptvet, Ytre Enebakk og hele Nordre Follo-regionen. ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 108,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-30T12:56:46.016Z",
+          "createdAt": "2025-10-14T11:13:32.990Z",
+          "slug": "askim_og_spydeberg_sparebank",
+          "organizationNumber": "937885199",
+          "url": "https://asbank.no",
+          "name": "Askim og Spydeberg Sparebank",
+          "addressId": 108,
+          "phone": "69816200",
+          "modifiedBy": "Gry Anette",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 108,
+                        "fax": "69884030",
+                        "email": "post@asbank.no",
+                        "haggleEmail": "post@asbank.no",
+                        "mortgageUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@asbank.no",
+                        "dailyBankingUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.asbank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Askim &amp; Spydeberg Sparebank er forsatt en liten lokal sparebank. Men når det kommer til det som betyr noe, er vi større. Det handler om å gjøre store drømmer til virkelighet og om å bidra til å skape et levende blomstrende lokalsamfunn.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 2500,
+      "marketArea": "Local",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [
+        {
+          "id": 301,
+          "name": "Oslo"
+        },
+        {
+          "id": 3103,
+          "name": "Moss"
+        },
+        {
+          "id": 3105,
+          "name": "Sarpsborg"
+        },
+        {
+          "id": 3107,
+          "name": "Fredrikstad"
+        },
+        {
+          "id": 3116,
+          "name": "Skiptvet"
+        },
+        {
+          "id": 3118,
+          "name": "Indre Østfold"
+        },
+        {
+          "id": 3120,
+          "name": "Rakkestad"
+        },
+        {
+          "id": 3207,
+          "name": "Nordre Follo"
+        },
+        {
+          "id": 3216,
+          "name": "Vestby"
+        },
+        {
+          "id": 3218,
+          "name": "Ås"
+        },
+        {
+          "id": 3220,
+          "name": "Enebakk"
+        }
+      ],
+      "establishmentFee": 2500,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 70,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.7,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 85,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 0,
+      "establishmentFeeForLoan": 2500
+    },
+    "effectiveInterestRateRaw": 5.910241605253352,
+    "effectiveInterestRate": 5.91,
+    "nominalInterestRate": 5.7,
+    "monthlyPaymentRaw": 18884,
+    "monthlyPayment": 18884,
+    "estimatedTotalPayment": 5665200,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 70,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.7,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2025-09-23T00:00:00.000Z"
   }
 ]
