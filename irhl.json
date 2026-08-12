@@ -422,7 +422,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr banksparing og dagligbank tjenester til hele landet.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:08:18.092Z",
         "company": {
           "id": 278,
           "deletedAt": null,
@@ -1465,7 +1465,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr banksparing og dagligbank tjenester til hele landet.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:08:18.092Z",
         "company": {
           "id": 278,
           "deletedAt": null,
@@ -1684,7 +1684,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr banksparing og dagligbank tjenester til hele landet.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:08:18.092Z",
         "company": {
           "id": 278,
           "deletedAt": null,
@@ -17703,7 +17703,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": ".",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:04:48.713Z",
         "company": {
           "id": 111,
           "deletedAt": null,
@@ -17883,7 +17883,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": ".",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:04:48.713Z",
         "company": {
           "id": 111,
           "deletedAt": null,
@@ -18238,7 +18238,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr kun boliglån",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:07:04.468Z",
         "company": {
           "id": 104,
           "deletedAt": null,
@@ -18402,7 +18402,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr kun boliglån",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T11:07:04.468Z",
         "company": {
           "id": 104,
           "deletedAt": null,
@@ -18566,7 +18566,7 @@
         "marketRegionDeposits": "Local",
         "marketRegionDepositsInfo": "Marker og Eidsberg Sparebank er en selvstendig og lokal sparebank med hele Østfold som markedsområde. Hovedkontoret ligger på Mysen.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T10:59:59.244Z",
         "company": {
           "id": 335,
           "deletedAt": null,
@@ -24672,7 +24672,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": " Vi ønsker å dekke hele landet, likevel er det likevel enkelte områder som ikke dekkes.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T10:58:31.274Z",
         "company": {
           "id": 281,
           "deletedAt": null,
@@ -24864,7 +24864,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": " Vi ønsker å dekke hele landet, likevel er det likevel enkelte områder som ikke dekkes.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T10:58:31.274Z",
         "company": {
           "id": 281,
           "deletedAt": null,
@@ -25056,7 +25056,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": " Vi ønsker å dekke hele landet, likevel er det likevel enkelte områder som ikke dekkes.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T10:58:31.274Z",
         "company": {
           "id": 281,
           "deletedAt": null,
@@ -25248,7 +25248,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": " Vi ønsker å dekke hele landet, likevel er det likevel enkelte områder som ikke dekkes.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-08-11T10:58:31.274Z",
         "company": {
           "id": 281,
           "deletedAt": null,
