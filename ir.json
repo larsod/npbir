@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:01:00.872Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:18.718Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -1876,7 +1876,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -4359,7 +4359,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -4516,7 +4516,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -5049,7 +5049,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -5179,7 +5179,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -7605,7 +7605,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -9175,7 +9175,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:05:35.286Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -9344,6 +9344,481 @@
     "interestAmount": 9300,
     "totalAmount": 159300,
     "interestRateChangedAt": "2024-04-02T00:00:00.000Z"
+  },
+  {
+    "id": 152700,
+    "firstVersionId": 140814,
+    "oldProductId": 185536,
+    "name": "Sparekonto/Kapitalkonto",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2025-09-08T00:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 152700,
+      "bankCompanyId": 105,
+      "productTypeId": 10,
+      "name": "Sparekonto/Kapitalkonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2025-11-04T08:41:58.679Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2025-11-04T10:55:59.957Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2025-09-08T00:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Tradisjonell banksparing er det beste alternativet når du ønsker størst mulig trygghet og tilgjengelighet for pengene dine. En sparekonto egner seg når du skal spare til noe bestemt eller for å ha pengar tilgjengelig dersom uforutsette utgifter skulle oppstå. Rente og sparevilkår kan variere. Du får bedre betingelser desto mer du sparer. Rente fra første krone, 12 gebyrfrie uttak pr. år, 2 % uttaksgebyr etter det.",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 2.3,
+          "thresholdInterestRate": 100000
+        },
+        {
+          "nominalInterestRate": 2.35,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 2.55,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 2.6,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.299999999999991,
+    "interestAmountRaw": 3450,
+    "totalAmountRaw": 153450,
+    "effectiveInterestRate": 2.3,
+    "interestAmount": 3450,
+    "totalAmount": 153450,
+    "interestRateChangedAt": "2025-09-08T00:00:00.000Z"
+  },
+  {
+    "id": 152743,
+    "firstVersionId": 137189,
+    "oldProductId": 2416595,
+    "name": "Sparekonto Ubekymra",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": true,
+    "isSpecificPackageOrCustomerProgramRequired": true,
+    "isMembershipRequired": false,
+    "validFrom": "2025-09-08T00:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [
+        {
+          "id": 1911,
+          "name": "Ubekymra"
+        }
+      ],
+      "memberships": [],
+      "id": 152743,
+      "bankCompanyId": 105,
+      "productTypeId": 10,
+      "name": "Sparekonto Ubekymra",
+      "isPackageRequired": true,
+      "isSpecificPackageOrCustomerProgramRequired": true,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2025-11-04T11:39:44.750Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2025-11-04T12:23:15.864Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2025-09-08T00:00:00.000Z",
+      "publishTo": "2026-12-15T23:00:00.000Z",
+      "isLatestVersion": false,
+      "otherConditions": "Sparekonto Ubekymra har 12 gebyrfrie uttak pr år, 2 % uttaksgebyr etter det. Overføring mellom egne konti regnes som uttak.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [
+        "checkingAccount",
+        "otherLoan",
+        "creditCard",
+        "insurance",
+        "fund"
+      ],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.3,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 2.5,
+          "thresholdInterestRate": 100000
+        },
+        {
+          "nominalInterestRate": 2.5,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 2.65,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 2.75,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.499999999999991,
+    "interestAmountRaw": 3750,
+    "totalAmountRaw": 153750,
+    "effectiveInterestRate": 2.5,
+    "interestAmount": 3750,
+    "totalAmount": 153750,
+    "interestRateChangedAt": "2025-09-08T00:00:00.000Z"
   },
   {
     "id": 152816,
@@ -9548,7 +10023,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:02:55.193Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:02.372Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -10143,7 +10618,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -10270,7 +10745,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -10428,7 +10903,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -13764,7 +14239,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -13893,7 +14368,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -14534,7 +15009,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:02:55.193Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:02.372Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -15212,7 +15687,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -15341,7 +15816,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -15470,7 +15945,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -15609,7 +16084,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:05:35.286Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -15827,7 +16302,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:05:35.286Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -21918,6 +22393,222 @@
     "interestRateChangedAt": "2020-05-18T00:00:00.000Z"
   },
   {
+    "id": 155045,
+    "firstVersionId": 129942,
+    "oldProductId": 754794,
+    "name": "ValdresSpar 2.0",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2025-12-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 155045,
+      "bankCompanyId": 105,
+      "productTypeId": 10,
+      "name": "ValdresSpar 2.0",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-01-06T08:35:19.444Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2026-01-06T08:44:35.247Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2025-12-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Oppsigelses tid på konto er 1 måned",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.6,
+          "thresholdInterestRate": 100000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 4,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.600000000000004,
+    "interestAmountRaw": 6900,
+    "totalAmountRaw": 156900,
+    "effectiveInterestRate": 4.6,
+    "interestAmount": 6900,
+    "totalAmount": 156900,
+    "interestRateChangedAt": "2025-12-15T23:00:00.000Z"
+  },
+  {
     "id": 155054,
     "firstVersionId": 143235,
     "oldProductId": 586648,
@@ -23428,6 +24119,226 @@
     "interestRateChangedAt": "2025-12-14T23:00:00.000Z"
   },
   {
+    "id": 155723,
+    "firstVersionId": 133320,
+    "oldProductId": 946069,
+    "name": "Depositumskonto",
+    "companyId": 105,
+    "companyName": "Valdres Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-02-12T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 155723,
+      "bankCompanyId": 105,
+      "productTypeId": 10,
+      "name": "Depositumskonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-02-10T14:16:15.048Z",
+      "createdBy": "Elin",
+      "deletedAt": null,
+      "modifiedAt": "2026-02-13T08:13:17.812Z",
+      "modifiedBy": "Elin",
+      "publishFrom": "2026-02-12T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
+      "bankCompany": {
+        "id": 105,
+        "fax": "",
+        "email": "post@valdressparebank.no",
+        "becomeCustomerURL": null,
+        "changeBankURL": null,
+        "changeBankEmail": "post@valdressparebank.no",
+        "contactURL": null,
+        "haggleEmail": "post@valdressparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.valdressparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.valdressparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 105,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.973Z",
+          "slug": "ValdresSparebank",
+          "organizationNumber": "937888759",
+          "url": "https://www.valdressparebank.no/",
+          "name": "Valdres Sparebank",
+          "addressId": 105,
+          "phone": "61343600",
+          "modifiedBy": null,
+          "leverandorId": 298,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 105,
+                        "fax": "",
+                        "email": "post@valdressparebank.no",
+                        "haggleEmail": "post@valdressparebank.no",
+                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.valdressparebank.no/priser",
+                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@valdressparebank.no",
+                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vårt primære markedsområde er  Valdres. Vi yter også banktjenester for utflyttede fra vårt primærområde. ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 500,
+      "highestEstablishmentFee": 500,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Ingen",
+      "conditionsForHighestEstablishmentFee": "Ingen"
+    },
+    "effectiveInterestRateRaw": 2.2499999999999964,
+    "interestAmountRaw": 3375,
+    "totalAmountRaw": 153375,
+    "effectiveInterestRate": 2.25,
+    "interestAmount": 3375,
+    "totalAmount": 153375,
+    "interestRateChangedAt": "2026-02-12T23:00:00.000Z"
+  },
+  {
     "id": 155971,
     "firstVersionId": 128500,
     "oldProductId": 820022,
@@ -23473,7 +24384,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -25203,7 +26114,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -25332,7 +26243,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -25618,7 +26529,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -25775,7 +26686,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -25932,7 +26843,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -26060,7 +26971,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -27465,7 +28376,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -27621,7 +28532,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -28036,7 +28947,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -31512,7 +32423,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -32970,7 +33881,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -33127,7 +34038,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -33284,7 +34195,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -33576,7 +34487,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -33658,141 +34569,6 @@
     "effectiveInterestRate": 0.1,
     "interestAmount": 150,
     "totalAmount": 150150,
-    "interestRateChangedAt": "2025-11-30T23:00:00.000Z"
-  },
-  {
-    "id": 157226,
-    "firstVersionId": 126812,
-    "oldProductId": 1279708,
-    "name": "BSU Pluss",
-    "companyId": 284,
-    "companyName": "Etnedal Sparebank",
-    "isPackageRequired": true,
-    "isSpecificPackageOrCustomerProgramRequired": true,
-    "isMembershipRequired": false,
-    "validFrom": "2026-04-08T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [
-        {
-          "id": 1892,
-          "name": "Boligsparing for ungdom (BSU)"
-        }
-      ],
-      "memberships": [],
-      "id": 157226,
-      "bankCompanyId": 284,
-      "productTypeId": 10,
-      "name": "BSU Pluss",
-      "isPackageRequired": true,
-      "isSpecificPackageOrCustomerProgramRequired": true,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-04-09T06:33:43.437Z",
-      "createdBy": "Lage",
-      "deletedAt": null,
-      "modifiedAt": "2026-04-09T06:45:55.124Z",
-      "modifiedBy": "Lage",
-      "publishFrom": "2026-04-08T22:00:00.000Z",
-      "publishTo": "2027-07-19T22:00:00.000Z",
-      "isLatestVersion": false,
-      "otherConditions": "Samme vilkår som Boligsparing for Ungdom (BSU), men UTEN skattefordel.",
-      "ageFrom": 13,
-      "ageTo": 33,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [
-        "checkingAccount"
-      ],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
-      "bankCompany": {
-        "id": 284,
-        "fax": "",
-        "email": "post@etnedalsparebank.no",
-        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
-        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
-        "changeBankEmail": "post@etnedalsparebank.no",
-        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
-        "haggleEmail": "post@etnedalsparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
-        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 284,
-          "deletedAt": null,
-          "modifiedAt": "2025-12-01T08:50:46.930Z",
-          "createdAt": "2025-10-14T11:13:33.850Z",
-          "slug": "etnedal_sparebank",
-          "organizationNumber": "937888570",
-          "url": "https://www.etnedalsparebank.no",
-          "name": "Etnedal Sparebank",
-          "addressId": 284,
-          "phone": "61121500",
-          "modifiedBy": "Lage",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 300000,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.55,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.5500000000000105,
-    "interestAmountRaw": 8325,
-    "totalAmountRaw": 158325,
-    "effectiveInterestRate": 5.55,
-    "interestAmount": 8325,
-    "totalAmount": 158325,
     "interestRateChangedAt": "2025-11-30T23:00:00.000Z"
   },
   {
@@ -34850,7 +35626,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -36556,7 +37332,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-17T01:23:59.174Z",
+      "plcLastCheckedAt": "2026-08-17T16:01:36.990Z",
       "bankCompany": {
         "id": 49,
         "fax": "+4773884440",
@@ -36810,7 +37586,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -36967,7 +37743,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -37652,7 +38428,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:01:00.872Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:18.718Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -38595,7 +39371,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -38726,7 +39502,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -38858,7 +39634,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -38989,7 +39765,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -39121,7 +39897,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -40029,7 +40805,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -40157,7 +40933,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -40964,7 +41740,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -41092,7 +41868,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -41248,7 +42024,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -41404,7 +42180,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -42599,7 +43375,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -43646,7 +44422,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -43806,7 +44582,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -43962,7 +44738,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -44118,7 +44894,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -44281,7 +45057,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -44436,7 +45212,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -44599,7 +45375,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:09:21.523Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:18.116Z",
       "bankCompany": {
         "id": 80,
         "fax": "",
@@ -47371,7 +48147,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:05:35.286Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:49.963Z",
       "bankCompany": {
         "id": 105,
         "fax": "",
@@ -49032,7 +49808,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -49188,7 +49964,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -49344,7 +50120,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -49500,7 +50276,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -49660,7 +50436,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:12:13.551Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:51.724Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -53600,7 +54376,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -53728,7 +54504,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -57362,7 +58138,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -57522,7 +58298,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -57678,7 +58454,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-05-26T23:02:25.440Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:28.745Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -60063,7 +60839,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -60239,7 +61015,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -60411,7 +61187,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -60567,7 +61343,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -60739,7 +61515,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-15T16:00:53.127Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:26.293Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -61330,6 +62106,141 @@
     "interestRateChangedAt": "2026-05-25T22:00:00.000Z"
   },
   {
+    "id": 159820,
+    "firstVersionId": 126812,
+    "oldProductId": 1279708,
+    "name": "BSU Pluss",
+    "companyId": 284,
+    "companyName": "Etnedal Sparebank",
+    "isPackageRequired": true,
+    "isSpecificPackageOrCustomerProgramRequired": true,
+    "isMembershipRequired": false,
+    "validFrom": "2026-07-19T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [
+        {
+          "id": 1892,
+          "name": "Boligsparing for ungdom (BSU)"
+        }
+      ],
+      "memberships": [],
+      "id": 159820,
+      "bankCompanyId": 284,
+      "productTypeId": 10,
+      "name": "BSU Pluss",
+      "isPackageRequired": true,
+      "isSpecificPackageOrCustomerProgramRequired": true,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-05-27T03:51:17.391Z",
+      "createdBy": "Lage",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-17T12:09:53.574Z",
+      "modifiedBy": "Lage",
+      "publishFrom": "2026-07-19T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Samme vilkår som Boligsparing for Ungdom (BSU), men UTEN skattefordel.",
+      "ageFrom": 13,
+      "ageTo": 33,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [
+        "checkingAccount"
+      ],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
+      "bankCompany": {
+        "id": 284,
+        "fax": "",
+        "email": "post@etnedalsparebank.no",
+        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
+        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
+        "changeBankEmail": "post@etnedalsparebank.no",
+        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
+        "haggleEmail": "post@etnedalsparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
+        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 284,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-01T08:50:46.930Z",
+          "createdAt": "2025-10-14T11:13:33.850Z",
+          "slug": "etnedal_sparebank",
+          "organizationNumber": "937888570",
+          "url": "https://www.etnedalsparebank.no",
+          "name": "Etnedal Sparebank",
+          "addressId": 284,
+          "phone": "61121500",
+          "modifiedBy": "Lage",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 300000,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5.75,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.750000000000011,
+    "interestAmountRaw": 8625,
+    "totalAmountRaw": 158625,
+    "effectiveInterestRate": 5.75,
+    "interestAmount": 8625,
+    "totalAmount": 158625,
+    "interestRateChangedAt": "2026-07-19T22:00:00.000Z"
+  },
+  {
     "id": 159821,
     "firstVersionId": 107866,
     "oldProductId": 139846,
@@ -61377,7 +62288,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -61505,7 +62416,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -61649,7 +62560,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:06:42.858Z",
+      "plcLastCheckedAt": "2026-08-17T16:05:38.255Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -63330,7 +64241,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -68056,7 +68967,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68183,7 +69094,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68315,7 +69226,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68443,7 +69354,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68571,7 +69482,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68703,7 +69614,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68835,7 +69746,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -68962,7 +69873,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-13T22:06:19.312Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:53.226Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -71417,7 +72328,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -71572,7 +72483,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -71728,7 +72639,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -71888,7 +72799,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -72052,7 +72963,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-18T22:01:43.269Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:22.881Z",
       "bankCompany": {
         "id": 220,
         "fax": "",
@@ -72216,7 +73127,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -72641,7 +73552,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:11:54.103Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:05.769Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -72769,7 +73680,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -72897,7 +73808,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -73025,7 +73936,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -73153,7 +74064,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:20.764Z",
+      "plcLastCheckedAt": "2026-08-17T16:07:30.748Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -74133,7 +75044,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -74273,7 +75184,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -74401,7 +75312,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -74541,7 +75452,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -74669,7 +75580,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -74797,7 +75708,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T16:00:42.915Z",
+      "plcLastCheckedAt": "2026-08-17T16:06:54.756Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -77522,7 +78433,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -77662,7 +78573,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -77794,7 +78705,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -77925,7 +78836,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -78052,7 +78963,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -79745,7 +80656,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -79877,7 +80788,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -80005,7 +80916,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -80133,7 +81044,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -80261,7 +81172,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -80417,7 +81328,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-02T22:09:58.141Z",
+      "plcLastCheckedAt": "2026-08-17T17:25:23.725Z",
       "bankCompany": {
         "id": 58,
         "fax": "",
@@ -81099,7 +82010,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-27T22:06:25.348Z",
+      "plcLastCheckedAt": "2026-08-17T16:03:23.980Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -82361,7 +83272,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:02:55.193Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:02.372Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -82500,7 +83411,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:02:55.193Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:02.372Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -82632,7 +83543,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:02:55.193Z",
+      "plcLastCheckedAt": "2026-08-17T16:04:02.372Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -83041,7 +83952,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83169,7 +84080,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83297,7 +84208,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83428,7 +84339,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -85350,7 +86261,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -85480,7 +86391,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -85608,7 +86519,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -85748,7 +86659,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:04:20.716Z",
+      "plcLastCheckedAt": "2026-08-17T16:02:47.917Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -92385,7 +93296,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -92513,7 +93424,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -100084,7 +100995,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-16T23:08:51.809Z",
+      "plcLastCheckedAt": "2026-08-18T00:05:05.077Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -100473,7 +101384,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-14T16:07:45.810Z",
+      "plcLastCheckedAt": "2026-08-17T16:00:41.874Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
