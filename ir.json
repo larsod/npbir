@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:56:25.379Z",
+      "plcLastCheckedAt": "2026-08-30T13:59:46.507Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -318,7 +318,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -515,7 +515,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -527,7 +554,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -1032,7 +1059,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -1044,7 +1098,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -1876,7 +1930,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -2985,7 +3039,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -2997,7 +3078,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -3127,8 +3208,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -3829,7 +3920,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -3847,7 +3938,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -3956,7 +4047,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -3974,7 +4065,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -5180,7 +5271,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -5337,7 +5428,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -5553,7 +5644,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:48:40.113Z",
+      "plcLastCheckedAt": "2026-08-31T08:05:07.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -5682,7 +5773,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -6642,7 +6733,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:10:04.868Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:13.846Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -7189,7 +7280,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:10:04.868Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:13.846Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -8146,7 +8237,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -8432,7 +8523,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -8625,7 +8716,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -8637,7 +8755,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             },
             {
               "code": "custom",
@@ -9027,7 +9145,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -9598,7 +9716,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -10131,7 +10249,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -10287,7 +10405,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -10443,7 +10561,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -10657,7 +10775,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:48:40.113Z",
+      "plcLastCheckedAt": "2026-08-31T08:05:07.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -10785,7 +10903,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:48:40.113Z",
+      "plcLastCheckedAt": "2026-08-31T08:05:07.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -10912,7 +11030,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:48:40.113Z",
+      "plcLastCheckedAt": "2026-08-31T08:05:07.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -13418,7 +13536,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -14904,7 +15022,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -14968,7 +15086,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -14980,7 +15125,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -15067,7 +15212,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -15229,7 +15374,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -15343,6 +15488,167 @@
     "interestRateChangedAt": "2025-12-01T23:00:00.000Z"
   },
   {
+    "id": 153973,
+    "firstVersionId": 141816,
+    "oldProductId": 3679541,
+    "name": "NBBO Sparekonto pluss ",
+    "companyId": 317,
+    "companyName": "Sparebanken Øst",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": true,
+    "validFrom": "2025-12-01T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [
+        {
+          "id": 240,
+          "name": "NBBO - Nedre Buskerud Boligbyggelag",
+          "type": "HousingAssociation"
+        }
+      ],
+      "id": 153973,
+      "bankCompanyId": 317,
+      "productTypeId": 10,
+      "name": "NBBO Sparekonto pluss ",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": true,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2025-12-02T14:35:00.048Z",
+      "createdBy": "Mats",
+      "deletedAt": null,
+      "modifiedAt": "2025-12-02T14:39:06.956Z",
+      "modifiedBy": "Mats",
+      "publishFrom": "2025-12-01T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Uttak må varsles banken minimum 31 dager i forkant for å være gebyrfritt. Uttaksgebyr lik Norges Banks styringsrente med tillegg av 1,25 prosentpoeng. For beløp over 10 mill. gjelder rente 1,50 %.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
+      "bankCompany": {
+        "id": 317,
+        "fax": "32201165",
+        "email": "post@oest.no",
+        "becomeCustomerURL": "https://www.oest.no/bli-kunde/",
+        "changeBankURL": "https://www.oest.no/bli-kunde/",
+        "changeBankEmail": "post@oest.no",
+        "contactURL": "https://www.oest.no/kundeservice/#call",
+        "haggleEmail": "post@oest.no",
+        "securityDepositAmount": "",
+        "depositGuaranteeSchema": "",
+        "smallLoansUrl": "https://www.oest.no/priser/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.oest.no/priser/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.oest.no/priser/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.oest.no/priser/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.oest.no/priser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Sparebanken Øst tilbyr lån for kunder bosatt i Østlandsområdet (Akershus, Oslo, Vestfold og Østfold, og Indre Østlandet med fylkene Hedmark, Oppland, Buskerud og Telemark).",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Sparebanken Øst tilbyr kundeforhold, banksparing og dagligbank-tjenester til kunder bosatt i Østlandsområdet (Akershus, Oslo, Vestfold og Østfold, og Indre Østlandet med fylkene Hedmark, Oppland, Buskerud og Telemark).",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 317,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T08:41:18.211Z",
+          "createdAt": "2025-10-14T11:13:34.016Z",
+          "slug": "sparebanken_øst",
+          "organizationNumber": "937888937",
+          "url": "https://www.oest.no",
+          "name": "Sparebanken Øst",
+          "addressId": 317,
+          "phone": "03220",
+          "modifiedBy": "Mats",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.200000000000004,
+    "interestAmountRaw": 6300,
+    "totalAmountRaw": 156300,
+    "effectiveInterestRate": 4.2,
+    "interestAmount": 6300,
+    "totalAmount": 156300,
+    "interestRateChangedAt": "2025-12-01T23:00:00.000Z"
+  },
+  {
     "id": 153974,
     "firstVersionId": 142827,
     "oldProductId": 3879315,
@@ -15394,7 +15700,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -15551,7 +15857,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -20550,7 +20856,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -20679,7 +20985,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -22403,7 +22709,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -22467,7 +22773,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -22479,7 +22812,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -22560,7 +22893,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -22624,7 +22957,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -22636,7 +22996,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -24314,7 +24674,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -24326,7 +24713,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -24470,7 +24857,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -24482,7 +24896,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -24821,7 +25235,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -24950,7 +25364,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -25599,7 +26013,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:23:21.961Z",
+      "plcLastCheckedAt": "2026-08-31T06:51:39.578Z",
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -27065,7 +27479,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -27794,7 +28208,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -27843,8 +28257,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -28443,7 +28867,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -28659,7 +29083,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -28879,7 +29303,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -29409,7 +29833,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -30840,7 +31264,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -32419,7 +32843,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T02:44:30.316Z",
+      "plcLastCheckedAt": "2026-08-31T06:03:42.327Z",
       "bankCompany": {
         "id": 49,
         "fax": "+4773884440",
@@ -32673,7 +33097,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -32830,7 +33254,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -32894,7 +33318,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -32906,7 +33357,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -33301,7 +33752,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:56:25.379Z",
+      "plcLastCheckedAt": "2026-08-30T13:59:46.507Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -34112,7 +34563,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -34243,7 +34694,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -34375,7 +34826,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -34506,7 +34957,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -34638,7 +35089,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -34766,7 +35217,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -34894,7 +35345,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -35022,7 +35473,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -35150,7 +35601,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -35546,7 +35997,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -35674,7 +36125,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -36609,7 +37060,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -36765,7 +37216,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -36921,7 +37372,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -37333,7 +37784,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -37615,7 +38066,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -37633,7 +38084,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -37747,7 +38198,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -37765,7 +38216,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -37874,7 +38325,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -37892,7 +38343,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -37988,7 +38439,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -38571,7 +39022,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T19:08:33.327Z",
+      "plcLastCheckedAt": "2026-08-30T22:53:07.893Z",
       "bankCompany": {
         "id": 358,
         "fax": "",
@@ -42108,7 +42559,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -42238,7 +42689,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -42374,7 +42825,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -42501,7 +42952,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -42628,7 +43079,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -42958,7 +43409,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -42970,7 +43448,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -43114,7 +43592,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -43126,7 +43631,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -43270,7 +43775,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -43282,7 +43814,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -43430,7 +43962,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -43442,7 +44001,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -45856,7 +46415,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -45905,8 +46464,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -45984,7 +46553,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -46033,8 +46602,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -46111,7 +46690,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -46160,8 +46739,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -46242,7 +46831,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -46291,8 +46880,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -46378,7 +46977,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -46427,8 +47026,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -46506,7 +47115,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -46555,8 +47164,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -47448,7 +48067,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -47512,7 +48131,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -47524,7 +48170,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -47604,7 +48250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -47668,7 +48314,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -47680,7 +48353,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -47760,7 +48433,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -47824,7 +48497,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -47836,7 +48536,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -49145,7 +49845,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -49157,7 +49884,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -49312,7 +50039,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -49324,7 +50078,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -49468,7 +50222,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -49480,7 +50261,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -49632,7 +50413,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -49644,7 +50452,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -50938,7 +51746,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -51002,7 +51810,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -51014,7 +51849,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -51098,7 +51933,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -51162,7 +51997,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -51174,7 +52036,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -51254,7 +52116,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -51318,7 +52180,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -51330,7 +52219,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -51409,7 +52298,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -51565,7 +52454,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -53639,7 +54528,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -53815,7 +54704,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -53987,7 +54876,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -54143,7 +55032,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -54315,7 +55204,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -54604,7 +55493,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -57041,7 +57930,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -59984,8 +60873,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -60112,8 +61011,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -60634,7 +61543,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -60849,7 +61758,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -61068,7 +61977,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -61295,7 +62204,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -61464,134 +62373,6 @@
     "interestAmount": 0,
     "totalAmount": 150000,
     "interestRateChangedAt": "2026-06-04T22:00:00.000Z"
-  },
-  {
-    "id": 160139,
-    "firstVersionId": 141262,
-    "oldProductId": 7638,
-    "name": "Fastrente 12 mnd",
-    "companyId": 115,
-    "companyName": "Luster Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-06-07T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 160139,
-      "bankCompanyId": 115,
-      "productTypeId": 10,
-      "name": "Fastrente 12 mnd",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-08T05:35:57.110Z",
-      "createdBy": "Lene",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-08T06:18:48.150Z",
-      "modifiedBy": "Lene",
-      "publishFrom": "2026-06-07T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": " Tilbod på fastrente blir varsla annakvar veke. Minsteinnskot er 50 000,-. Tilbodet kan bli trekt utan varsel. Ved evt. uttak i bindingsperioden blir det rekna eit gebyr på 2% av uttaksbeløpet. Gebyret blir berekna frå tidspunktet for uttak fram til sluttdato for bindingstida. Uttaksgebyret blir automatisk belasta konto.",
-      "ageFrom": 1,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
-      "bankCompany": {
-        "id": 115,
-        "fax": "",
-        "email": "post@luster-sparebank.no",
-        "becomeCustomerURL": "https://luster-sparebank.no/bli-kunde-i-luster-sparebank/",
-        "changeBankURL": "https://luster-sparebank.no/bli-kunde-i-luster-sparebank/",
-        "changeBankEmail": "post@luster-sparebank.no",
-        "contactURL": "https://luster-sparebank.no/kontakt-oss/",
-        "haggleEmail": "post@luster-sparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": "https://luster-sparebank.no/prisar/prisliste-utlan/",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://luster-sparebank.no/prisar/prisliste-utlan/, https://luster-sparebank.no/prisar/",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://luster-sparebank.no/wp-content/uploads/2022/02/Prisar-Betalingstenester-og-produkt-nov-2020.pdf",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://luster-sparebank.no/prisar/prisliste-betaling/,  https://luster-sparebank.no/prisar/",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": " https://luster-sparebank.no/prisar/prisliste-sparing/, https://luster-sparebank.no/prisar/",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Luster Sparebank er ein av få attverande sparebankane i Sogn og Fjordane som har hatt mot og styrke til å vera sjølvstendig utan å setja handlefridomen på spel.  Banken har opp gjennom åra søkt samarbeid og utvikla tenester etter behov til beste for kundane sine over heile landet.  Luster Sparebank framstår i dag som ein solild bank med moderne produkt og tenester.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Luster Sparebank er ein av få attverande sparebankane i Sogn og Fjordane som har hatt mot og styrke til å vera sjølvstendig utan å setja handlefridomen på spel.  Banken har opp gjennom åra søkt samarbeid og utvikla tenester etter behov til beste for kundane sine over heile landet.  Luster Sparebank framstår i dag som ein solild bank med moderne produkt og tenester.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 115,
-          "deletedAt": null,
-          "modifiedAt": "2026-02-16T09:33:35.053Z",
-          "createdAt": "2025-10-14T11:13:33.023Z",
-          "slug": "luster_sparebank",
-          "organizationNumber": "937898614",
-          "url": "https://luster-sparebank.no/",
-          "name": "Luster Sparebank",
-          "addressId": 115,
-          "phone": "57682700",
-          "modifiedBy": "Lene",
-          "leverandorId": null,
-          "activeFrom": "2026-02-15T23:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 50000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.75,
-          "thresholdInterestRate": 50000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.75000000000001,
-    "interestAmountRaw": 7125,
-    "totalAmountRaw": 157125,
-    "effectiveInterestRate": 4.75,
-    "interestAmount": 7125,
-    "totalAmount": 157125,
-    "interestRateChangedAt": "2026-06-07T22:00:00.000Z"
   },
   {
     "id": 160167,
@@ -62627,162 +63408,6 @@
     "interestRateChangedAt": "2026-07-12T22:00:00.000Z"
   },
   {
-    "id": 160248,
-    "firstVersionId": 154190,
-    "oldProductId": null,
-    "name": "Fastrente 6 mnd",
-    "companyId": 69,
-    "companyName": "Ørskog Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-06-08T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 160248,
-      "bankCompanyId": 69,
-      "productTypeId": 10,
-      "name": "Fastrente 6 mnd",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-09T11:36:31.239Z",
-      "createdBy": "Roar",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-09T11:43:29.127Z",
-      "modifiedBy": "Roar",
-      "publishFrom": "2026-06-08T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd passer for deg som ønsker forutsigbar avkastning på pengene dine. Du binder pengene for 6 måneder, og i denne perioden mottar du den garanterte renten. Minste beløp for å gjøre en avtale om fastrenteinnskudd er kr 100.000 og maksbeløp er kr. 10 mill. Pengene blir sperret for både uttak og innskudd i løpet av perioden. Opptjente renter godskrives kontoen når utløpsdatoen er passert. Vi vil kontakte deg før avtalen utløper og gjøre avtale om eventuell ny avtale.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": null,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
-      "bankCompany": {
-        "id": 69,
-        "fax": "70273570",
-        "email": "post@orskogsparebank.no",
-        "becomeCustomerURL": "",
-        "changeBankURL": "",
-        "changeBankEmail": "post@orskogsparebank.no",
-        "contactURL": "",
-        "haggleEmail": "post@orskogsparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.orskogsparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.orskogsparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.orskogsparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.orskogsparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.orskogsparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 69,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.797Z",
-          "slug": "Ørskog Sparebank",
-          "organizationNumber": "837900212",
-          "url": "https://www.orskogsparebank.no/",
-          "name": "Ørskog Sparebank",
-          "addressId": 69,
-          "phone": "70273550",
-          "modifiedBy": null,
-          "leverandorId": 352,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 10000000,
-      "minimumDeposit": 100000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.75,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.75000000000001,
-    "interestAmountRaw": 7125,
-    "totalAmountRaw": 157125,
-    "effectiveInterestRate": 4.75,
-    "interestAmount": 7125,
-    "totalAmount": 157125,
-    "interestRateChangedAt": "2026-06-08T22:00:00.000Z"
-  },
-  {
     "id": 160627,
     "firstVersionId": 154215,
     "oldProductId": null,
@@ -62908,6 +63533,134 @@
     "effectiveInterestRate": 4.5,
     "interestAmount": 6750,
     "totalAmount": 156750,
+    "interestRateChangedAt": "2026-06-10T22:00:00.000Z"
+  },
+  {
+    "id": 160629,
+    "firstVersionId": 142637,
+    "oldProductId": 3843665,
+    "name": "Fastrenteinnskudd 12 mnd",
+    "companyId": 102,
+    "companyName": "Evje og Hornnes Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-06-10T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 160629,
+      "bankCompanyId": 102,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 12 mnd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-06-11T06:03:31.717Z",
+      "createdBy": "Kari",
+      "deletedAt": null,
+      "modifiedAt": "2026-06-11T06:08:58.738Z",
+      "modifiedBy": "Kari",
+      "publishFrom": "2026-06-10T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fastrenteinnskudd er en spareform der du binder pengene dine til en fast rente over en bestemt periode. Innskuddet har bindingstid og du kan velge enten 6 eller 12 måneder. Innskudd minimum kr 100.000. Innskudd maksimum kr 5.000.000. Uttaksgebyr i bindingsperioden er 2 % av uttaksbeløpet",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-20T16:01:37.469Z",
+      "bankCompany": {
+        "id": 102,
+        "fax": "37929201",
+        "email": "post@eh-sparebank.no",
+        "becomeCustomerURL": "http://www.eh-sparebank.no",
+        "changeBankURL": "http://www.eh-sparebank.no",
+        "changeBankEmail": "post@eh-sparebank.no",
+        "contactURL": "http://www.eh-sparebank.no",
+        "haggleEmail": "post@eh-sparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.eh-sparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.eh-sparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.eh-sparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.eh-sparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.eh-sparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 102,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-04T07:16:50.560Z",
+          "createdAt": "2025-10-14T11:13:32.961Z",
+          "slug": "evje_og_hornnes_sparebank",
+          "organizationNumber": "937894171",
+          "url": "https://www.eh-sparebank.no",
+          "name": "Evje og Hornnes Sparebank",
+          "addressId": 102,
+          "phone": "37929200",
+          "modifiedBy": "Kari",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 5000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.75,
+          "thresholdInterestRate": 250000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 0,
+    "interestAmountRaw": 0,
+    "totalAmountRaw": 150000,
+    "effectiveInterestRate": 0,
+    "interestAmount": 0,
+    "totalAmount": 150000,
     "interestRateChangedAt": "2026-06-10T22:00:00.000Z"
   },
   {
@@ -63084,7 +63837,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -65261,7 +66014,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -65310,8 +66063,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -65389,7 +66152,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -65517,7 +66280,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -65645,7 +66408,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -65773,7 +66536,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -65901,7 +66664,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -66881,7 +67644,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67021,7 +67784,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67149,7 +67912,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67289,7 +68052,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67417,7 +68180,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67545,7 +68308,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -67680,7 +68443,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -67895,7 +68658,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -68117,7 +68880,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -68460,7 +69223,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -68684,7 +69447,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -68900,7 +69663,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -70139,7 +70902,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -70279,7 +71042,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -70411,7 +71174,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -70542,7 +71305,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -70669,7 +71432,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -73198,7 +73961,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -73326,7 +74089,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -73457,7 +74220,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -73589,7 +74352,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -73808,162 +74571,6 @@
     "interestAmount": 4800,
     "totalAmount": 154800,
     "interestRateChangedAt": "2026-07-21T22:00:00.000Z"
-  },
-  {
-    "id": 161178,
-    "firstVersionId": 130622,
-    "oldProductId": 1990450,
-    "name": "1 års fastrenteinnskudd",
-    "companyId": 69,
-    "companyName": "Ørskog Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-07-02T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161178,
-      "bankCompanyId": 69,
-      "productTypeId": 10,
-      "name": "1 års fastrenteinnskudd",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-07-03T11:08:07.004Z",
-      "createdBy": "Roar",
-      "deletedAt": null,
-      "modifiedAt": "2026-07-03T11:09:50.678Z",
-      "modifiedBy": "Roar",
-      "publishFrom": "2026-07-02T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd passer for deg som ønsker forutsigbar avkastning på pengene dine. Du binder pengene for 12 måneder, og i denne perioden mottar du den garanterte renten. Minste beløp for å gjøre en avtale om fastrenteinnskudd er kr 100.000 og maksbeløp er kr. 10 mill. Pengene blir sperret for både uttak og innskudd i løpet av perioden. Opptjente renter godskrives kontoen når utløpsdatoen er passert. Vi vil kontakte deg før avtalen utløper og gjøre avtale om eventuell ny avtale.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
-      "bankCompany": {
-        "id": 69,
-        "fax": "70273570",
-        "email": "post@orskogsparebank.no",
-        "becomeCustomerURL": "",
-        "changeBankURL": "",
-        "changeBankEmail": "post@orskogsparebank.no",
-        "contactURL": "",
-        "haggleEmail": "post@orskogsparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": "https://www.orskogsparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.orskogsparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.orskogsparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.orskogsparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.orskogsparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 69,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.797Z",
-          "slug": "Ørskog Sparebank",
-          "organizationNumber": "837900212",
-          "url": "https://www.orskogsparebank.no/",
-          "name": "Ørskog Sparebank",
-          "addressId": 69,
-          "phone": "70273550",
-          "modifiedBy": null,
-          "leverandorId": 352,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 5000000,
-      "minimumDeposit": 100000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.8,
-          "thresholdInterestRate": 100000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.800000000000004,
-    "interestAmountRaw": 7200,
-    "totalAmountRaw": 157200,
-    "effectiveInterestRate": 4.8,
-    "interestAmount": 7200,
-    "totalAmount": 157200,
-    "interestRateChangedAt": "2026-07-02T22:00:00.000Z"
   },
   {
     "id": 161179,
@@ -74650,7 +75257,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -74789,7 +75396,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -74921,7 +75528,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -78080,7 +78687,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -78216,7 +78823,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -78352,7 +78959,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -78489,7 +79096,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -78616,7 +79223,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -78744,7 +79351,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -79714,8 +80321,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -79842,8 +80459,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -79978,8 +80605,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -80773,7 +81410,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -80901,7 +81538,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -81157,7 +81794,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -82895,7 +83532,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83023,7 +83660,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83855,7 +84492,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -83983,7 +84620,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -84111,7 +84748,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -84242,7 +84879,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -84370,7 +85007,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -84502,7 +85139,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -86771,7 +87408,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-08-31T06:51:39.578Z",
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -86919,7 +87556,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-08-31T06:51:39.578Z",
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -87047,7 +87684,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-08-31T06:51:39.578Z",
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -87195,7 +87832,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-08-31T06:51:39.578Z",
       "bankCompany": {
         "id": 131,
         "fax": "38 35 13 02",
@@ -87323,7 +87960,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -87450,7 +88087,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -87578,7 +88215,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -87706,7 +88343,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T08:47:59.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:33:37.380Z",
       "bankCompany": {
         "id": 140,
         "fax": "55919910",
@@ -88606,7 +89243,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -88734,7 +89371,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -88911,8 +89548,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -90594,7 +91241,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -90741,7 +91388,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -90759,7 +91406,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -90983,7 +91630,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -92293,7 +92940,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -92591,6 +93238,165 @@
     "effectiveInterestRate": 4.76,
     "interestAmount": 7141,
     "totalAmount": 157141,
+    "interestRateChangedAt": "2026-08-17T22:00:00.000Z"
+  },
+  {
+    "id": 161738,
+    "firstVersionId": 152623,
+    "oldProductId": null,
+    "name": "Depositumskonto",
+    "companyId": 317,
+    "companyName": "Sparebanken Øst",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-17T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161738,
+      "bankCompanyId": 317,
+      "productTypeId": 10,
+      "name": "Depositumskonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-18T13:51:36.926Z",
+      "createdBy": "Siri",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-19T06:47:55.872Z",
+      "modifiedBy": "Siri",
+      "publishFrom": "2026-08-17T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": null,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
+      "bankCompany": {
+        "id": 317,
+        "fax": "32201165",
+        "email": "post@oest.no",
+        "becomeCustomerURL": "https://www.oest.no/bli-kunde/",
+        "changeBankURL": "https://www.oest.no/bli-kunde/",
+        "changeBankEmail": "post@oest.no",
+        "contactURL": "https://www.oest.no/kundeservice/#call",
+        "haggleEmail": "post@oest.no",
+        "securityDepositAmount": "",
+        "depositGuaranteeSchema": "",
+        "smallLoansUrl": "https://www.oest.no/priser/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.oest.no/priser/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.oest.no/priser/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.oest.no/priser/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.oest.no/priser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Sparebanken Øst tilbyr lån for kunder bosatt i Østlandsområdet (Akershus, Oslo, Vestfold og Østfold, og Indre Østlandet med fylkene Hedmark, Oppland, Buskerud og Telemark).",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Sparebanken Øst tilbyr kundeforhold, banksparing og dagligbank-tjenester til kunder bosatt i Østlandsområdet (Akershus, Oslo, Vestfold og Østfold, og Indre Østlandet med fylkene Hedmark, Oppland, Buskerud og Telemark).",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 317,
+          "deletedAt": null,
+          "modifiedAt": "2026-04-15T08:41:18.211Z",
+          "createdAt": "2025-10-14T11:13:34.016Z",
+          "slug": "sparebanken_øst",
+          "organizationNumber": "937888937",
+          "url": "https://www.oest.no",
+          "name": "Sparebanken Øst",
+          "addressId": 317,
+          "phone": "03220",
+          "modifiedBy": "Mats",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 750,
+      "highestEstablishmentFee": 2000,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Depositumskonto opprettet på nett.",
+      "conditionsForHighestEstablishmentFee": "Depositumskonto opprettet i filial."
+    },
+    "effectiveInterestRateRaw": 2.0000000000000018,
+    "interestAmountRaw": 3000,
+    "totalAmountRaw": 153000,
+    "effectiveInterestRate": 2,
+    "interestAmount": 3000,
+    "totalAmount": 153000,
     "interestRateChangedAt": "2026-08-17T22:00:00.000Z"
   },
   {
@@ -95176,7 +95982,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -95338,7 +96144,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -95494,7 +96300,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -97275,7 +98081,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T07:28:01.618Z",
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -97531,7 +98337,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -97659,7 +98465,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -97787,7 +98593,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -97918,7 +98724,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -98046,7 +98852,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -98242,7 +99048,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -98254,7 +99087,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -98415,5 +99248,965 @@
     "interestAmount": 6900,
     "totalAmount": 156900,
     "interestRateChangedAt": "2026-06-09T22:00:00.000Z"
+  },
+  {
+    "id": 161928,
+    "firstVersionId": 142885,
+    "oldProductId": 3881607,
+    "name": "Fastrenteinnskudd 12 måneder",
+    "companyId": 277,
+    "companyName": "Storebrand Bank ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161928,
+      "bankCompanyId": 277,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 12 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T05:36:49.570Z",
+      "createdBy": "Christian",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T07:46:45.275Z",
+      "modifiedBy": "Christian",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Beløpet må overføres til konto innen 10 dager fra kontoåpning, med maksbeløp på totalt 10 millioner kroner pr. kunde.\nI utgangspunktet kan du ikke disponere fastrenteinnskuddet i bindingstiden. Hvis du likevel vil ta ut penger, belastes et gebyr på 1 000 kroner, samt 1 prosent av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T07:48:54.315Z",
+      "bankCompany": {
+        "id": 277,
+        "fax": "",
+        "email": "bankassist@storebrand.no",
+        "becomeCustomerURL": "http://www.storebrand.no/bank",
+        "changeBankURL": "http://www.storebrand.no/bank",
+        "changeBankEmail": "bankassist@storebrand.no",
+        "contactURL": "http://www.storebrand.no/bank",
+        "haggleEmail": "bankassist@storebrand.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-renter-og-lan,https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/prisliste-dagligbank,https://www.storebrand.no/privat/bank-og-lan/fastrenteinnskudd, https://www.storebrand.no/privat/bank-og-lan/banksparing, https://www.storebrand.no/privat/bank-og-lan/fastrentelan,https://www.storebrand.no/privat/bank-og-lan/forbrukslan, https://www.storebrand.no/privat/bank-og-lan/prisliste-bank/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Storebrand Bank har hele landet som markedsområde for boliglån.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Storebrand Bank tilbyr kundeforhold, banksparing og dagligbank tjenester til hele landet.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 277,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:33.814Z",
+          "slug": "Storebrand Bank",
+          "organizationNumber": "953299216",
+          "url": "https://www.storebrand.no/privat/bank-og-lan/",
+          "name": "Storebrand Bank ASA",
+          "addressId": 277,
+          "phone": "08880",
+          "modifiedBy": null,
+          "leverandorId": 429,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.7,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.699999999999993,
+    "interestAmountRaw": 7050,
+    "totalAmountRaw": 157050,
+    "effectiveInterestRate": 4.7,
+    "interestAmount": 7050,
+    "totalAmount": 157050,
+    "interestRateChangedAt": "2026-05-17T22:00:00.000Z"
+  },
+  {
+    "id": 161930,
+    "firstVersionId": 141262,
+    "oldProductId": 7638,
+    "name": "Fastrente 12 mnd",
+    "companyId": 115,
+    "companyName": "Luster Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161930,
+      "bankCompanyId": 115,
+      "productTypeId": 10,
+      "name": "Fastrente 12 mnd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T06:22:33.493Z",
+      "createdBy": "Lene",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T07:48:49.296Z",
+      "modifiedBy": "Lene",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": " Tilbod på fastrente blir varsla annakvar veke. Minsteinnskot er 50 000,-. Tilbodet kan bli trekt utan varsel. Ved evt. uttak i bindingsperioden blir det rekna eit gebyr på 2% av uttaksbeløpet. Gebyret blir berekna frå tidspunktet for uttak fram til sluttdato for bindingstida. Uttaksgebyret blir automatisk belasta konto.",
+      "ageFrom": 1,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
+      "bankCompany": {
+        "id": 115,
+        "fax": "",
+        "email": "post@luster-sparebank.no",
+        "becomeCustomerURL": "https://luster-sparebank.no/bli-kunde-i-luster-sparebank/",
+        "changeBankURL": "https://luster-sparebank.no/bli-kunde-i-luster-sparebank/",
+        "changeBankEmail": "post@luster-sparebank.no",
+        "contactURL": "https://luster-sparebank.no/kontakt-oss/",
+        "haggleEmail": "post@luster-sparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": "https://luster-sparebank.no/prisar/prisliste-utlan/",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://luster-sparebank.no/prisar/prisliste-utlan/, https://luster-sparebank.no/prisar/",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://luster-sparebank.no/wp-content/uploads/2022/02/Prisar-Betalingstenester-og-produkt-nov-2020.pdf",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://luster-sparebank.no/prisar/prisliste-betaling/,  https://luster-sparebank.no/prisar/",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": " https://luster-sparebank.no/prisar/prisliste-sparing/, https://luster-sparebank.no/prisar/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Luster Sparebank er ein av få attverande sparebankane i Sogn og Fjordane som har hatt mot og styrke til å vera sjølvstendig utan å setja handlefridomen på spel.  Banken har opp gjennom åra søkt samarbeid og utvikla tenester etter behov til beste for kundane sine over heile landet.  Luster Sparebank framstår i dag som ein solild bank med moderne produkt og tenester.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Luster Sparebank er ein av få attverande sparebankane i Sogn og Fjordane som har hatt mot og styrke til å vera sjølvstendig utan å setja handlefridomen på spel.  Banken har opp gjennom åra søkt samarbeid og utvikla tenester etter behov til beste for kundane sine over heile landet.  Luster Sparebank framstår i dag som ein solild bank med moderne produkt og tenester.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 115,
+          "deletedAt": null,
+          "modifiedAt": "2026-02-16T09:33:35.053Z",
+          "createdAt": "2025-10-14T11:13:33.023Z",
+          "slug": "luster_sparebank",
+          "organizationNumber": "937898614",
+          "url": "https://luster-sparebank.no/",
+          "name": "Luster Sparebank",
+          "addressId": 115,
+          "phone": "57682700",
+          "modifiedBy": "Lene",
+          "leverandorId": null,
+          "activeFrom": "2026-02-15T23:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 50000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.85,
+          "thresholdInterestRate": 50000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.849999999999999,
+    "interestAmountRaw": 7275,
+    "totalAmountRaw": 157275,
+    "effectiveInterestRate": 4.85,
+    "interestAmount": 7275,
+    "totalAmount": 157275,
+    "interestRateChangedAt": "2026-08-30T22:00:00.000Z"
+  },
+  {
+    "id": 161937,
+    "firstVersionId": 122147,
+    "oldProductId": 318762,
+    "name": "Høyrentekonto Pluss",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161937,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto Pluss",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T07:53:55.999Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T08:00:16.156Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto Pluss i Santander Consumer Bank AS er en innskuddskonto med gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank, og må bestilles 31 dager i forveien. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto Pluss hos oss, kan din bank ta gebyr for dette.  Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-. Skal penger overføres før notifisert periode på 31 dager vil det tilkomme et gebyr på 2 %, eller minimum kr. 1 000 av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T08:04:13.846Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4578,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.55022554385931,
+    "interestAmountRaw": 6825,
+    "totalAmountRaw": 156825,
+    "effectiveInterestRate": 4.55,
+    "interestAmount": 6825,
+    "totalAmount": 156825,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": 161938,
+    "firstVersionId": 141568,
+    "oldProductId": 221260,
+    "name": "Høyrentekonto",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161938,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T07:54:29.463Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T08:02:05.910Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto i Santander Consumer Bank AS er en innskuddskonto med meget gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto hos Santander, kan din bank ta gebyr for dette. Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T08:04:13.846Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser, https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz,https://www.santanderconsumer.no/billan-og-fritidslan/, https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/,https://www.santanderconsumer.no/lan/forbrukslan/, https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan,https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.santanderconsumer.no/sparing/priser-og-betingelser/",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4098,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 1000000
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.500238136993873,
+    "interestAmountRaw": 6750,
+    "totalAmountRaw": 156750,
+    "effectiveInterestRate": 4.5,
+    "interestAmount": 6750,
+    "totalAmount": 156750,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": 161939,
+    "firstVersionId": 130622,
+    "oldProductId": 1990450,
+    "name": "1 års fastrenteinnskudd",
+    "companyId": 69,
+    "companyName": "Ørskog Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161939,
+      "bankCompanyId": 69,
+      "productTypeId": 10,
+      "name": "1 års fastrenteinnskudd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T08:01:02.838Z",
+      "createdBy": "Monica",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T08:02:38.888Z",
+      "modifiedBy": "Monica",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fastrenteinnskudd passer for deg som ønsker forutsigbar avkastning på pengene dine. Du binder pengene for 12 måneder, og i denne perioden mottar du den garanterte renten. Minste beløp for å gjøre en avtale om fastrenteinnskudd er kr 100.000 og maksbeløp er kr. 10 mill. Pengene blir sperret for både uttak og innskudd i løpet av perioden. Opptjente renter godskrives kontoen når utløpsdatoen er passert. Vi vil kontakte deg før avtalen utløper og gjøre avtale om eventuell ny avtale.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
+      "bankCompany": {
+        "id": 69,
+        "fax": "70273570",
+        "email": "post@orskogsparebank.no",
+        "becomeCustomerURL": "",
+        "changeBankURL": "",
+        "changeBankEmail": "post@orskogsparebank.no",
+        "contactURL": "",
+        "haggleEmail": "post@orskogsparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.orskogsparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.orskogsparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.orskogsparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.orskogsparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.orskogsparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 69,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.797Z",
+          "slug": "Ørskog Sparebank",
+          "organizationNumber": "837900212",
+          "url": "https://www.orskogsparebank.no/",
+          "name": "Ørskog Sparebank",
+          "addressId": 69,
+          "phone": "70273550",
+          "modifiedBy": null,
+          "leverandorId": 352,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 5000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.9,
+          "thresholdInterestRate": 100000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.899999999999993,
+    "interestAmountRaw": 7350,
+    "totalAmountRaw": 157350,
+    "effectiveInterestRate": 4.9,
+    "interestAmount": 7350,
+    "totalAmount": 157350,
+    "interestRateChangedAt": "2026-08-30T22:00:00.000Z"
+  },
+  {
+    "id": 161940,
+    "firstVersionId": 154190,
+    "oldProductId": null,
+    "name": "Fastrente 6 mnd",
+    "companyId": 69,
+    "companyName": "Ørskog Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-08-30T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 161940,
+      "bankCompanyId": 69,
+      "productTypeId": 10,
+      "name": "Fastrente 6 mnd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-08-31T08:01:35.198Z",
+      "createdBy": "Monica",
+      "deletedAt": null,
+      "modifiedAt": "2026-08-31T08:02:45.672Z",
+      "modifiedBy": "Monica",
+      "publishFrom": "2026-08-30T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fastrenteinnskudd passer for deg som ønsker forutsigbar avkastning på pengene dine. Du binder pengene for 6 måneder, og i denne perioden mottar du den garanterte renten. Minste beløp for å gjøre en avtale om fastrenteinnskudd er kr 100.000 og maksbeløp er kr. 10 mill. Pengene blir sperret for både uttak og innskudd i løpet av perioden. Opptjente renter godskrives kontoen når utløpsdatoen er passert. Vi vil kontakte deg før avtalen utløper og gjøre avtale om eventuell ny avtale.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": null,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
+      "bankCompany": {
+        "id": 69,
+        "fax": "70273570",
+        "email": "post@orskogsparebank.no",
+        "becomeCustomerURL": "",
+        "changeBankURL": "",
+        "changeBankEmail": "post@orskogsparebank.no",
+        "contactURL": "",
+        "haggleEmail": "post@orskogsparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.orskogsparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.orskogsparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.orskogsparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.orskogsparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.orskogsparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Våre personkunder er spredt over hele landet, mens vi for næringsengasjement har definert egen og nærliggende kommuner som primærmarked.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 69,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.797Z",
+          "slug": "Ørskog Sparebank",
+          "organizationNumber": "837900212",
+          "url": "https://www.orskogsparebank.no/",
+          "name": "Ørskog Sparebank",
+          "addressId": 69,
+          "phone": "70273550",
+          "modifiedBy": null,
+          "leverandorId": 352,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.95,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.95000000000001,
+    "interestAmountRaw": 7425,
+    "totalAmountRaw": 157425,
+    "effectiveInterestRate": 4.95,
+    "interestAmount": 7425,
+    "totalAmount": 157425,
+    "interestRateChangedAt": "2026-08-30T22:00:00.000Z"
   }
 ]

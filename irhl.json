@@ -390,7 +390,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -554,7 +554,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -718,7 +718,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:16.595Z",
+      "plcLastCheckedAt": "2026-08-31T06:48:45.748Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -1055,7 +1055,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -1274,7 +1274,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:05:32.842Z",
+      "plcLastCheckedAt": "2026-08-31T07:54:58.361Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -1655,7 +1655,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-03T22:06:45.567Z",
+      "plcLastCheckedAt": "2026-08-31T07:58:49.028Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -2858,8 +2858,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -3103,8 +3113,18 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -3702,7 +3722,7 @@
         "mortgageUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger, https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering, https://www.handelsbanken.no/no/privat/prislister/prisliste-boliglan, https://www.handelsbanken.no/no/privat/lane/boliglan/rammelan, https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet,https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene, https://www.handelsbanken.no/no/privat/forening/tekna,https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
-        "creditcardUrl": "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624, https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+        "creditcardUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-gold, https://www.handelsbanken.no/no/privat/prislister/prisliste-kredittkort-platinum, https://www.handelsbanken.no/no/privat/forening/tekna, https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": true,
         "dailyBankingUrl": "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort, https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard, https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043, https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
@@ -3720,7 +3740,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T10:42:43.467Z",
+          "modifiedAt": "2026-08-31T08:57:19.792Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -3848,7 +3868,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-07-16T22:02:47.262Z",
+      "plcLastCheckedAt": "2026-08-30T22:01:27.590Z",
       "bankCompany": {
         "id": 40,
         "fax": "56512747",
@@ -5009,7 +5029,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T08:41:26.064Z",
+      "plcLastCheckedAt": "2026-08-31T00:30:43.492Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -5777,7 +5797,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -5991,7 +6011,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -6189,7 +6209,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T10:36:02.273Z",
+      "plcLastCheckedAt": "2026-08-31T06:32:02.198Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -6381,7 +6401,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -6744,7 +6764,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:59:34.453Z",
+      "plcLastCheckedAt": "2026-08-30T14:04:07.721Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -8152,7 +8172,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -8164,7 +8211,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -8343,7 +8390,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -8355,7 +8429,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -10305,7 +10379,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -10469,7 +10543,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-25T16:01:36.179Z",
+      "plcLastCheckedAt": "2026-08-31T07:08:27.078Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -11222,7 +11296,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -11271,8 +11345,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -11434,7 +11518,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:16:02.490Z",
+      "plcLastCheckedAt": "2026-08-31T07:53:50.155Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -11483,8 +11567,18 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "savingsAccountUrl"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
         }
       },
       "productType": {
@@ -11646,7 +11740,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:06:31.963Z",
+      "plcLastCheckedAt": "2026-08-31T06:16:21.956Z",
       "bankCompany": {
         "id": 222,
         "fax": "72830050",
@@ -11710,7 +11804,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -11722,7 +11843,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -12551,7 +12672,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-19T16:04:40.745Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:38.143Z",
       "bankCompany": {
         "id": 69,
         "fax": "70273570",
@@ -12615,7 +12736,34 @@
               "code": "invalid_string",
               "path": [
                 "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
                 "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
               ],
               "message": "Ugyldig URL",
               "validation": "url"
@@ -12627,7 +12775,7 @@
                 "contactURL"
               ],
               "message": "Ugyldig URL",
-              "validation": "url"
+              "validation": "regex"
             }
           ]
         }
@@ -14287,7 +14435,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -14511,7 +14659,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T18:03:25.004Z",
+      "plcLastCheckedAt": "2026-08-31T06:04:17.453Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -14735,7 +14883,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-05T16:48:40.113Z",
+      "plcLastCheckedAt": "2026-08-31T08:05:07.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -14899,7 +15047,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -15150,7 +15298,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -15401,7 +15549,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-18T16:02:38.946Z",
+      "plcLastCheckedAt": "2026-08-31T08:04:47.915Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -15996,7 +16144,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T20:09:53.496Z",
+      "plcLastCheckedAt": "2026-08-30T10:14:13.455Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -18123,7 +18271,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-29T13:56:25.379Z",
+      "plcLastCheckedAt": "2026-08-30T13:59:46.507Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -19581,7 +19729,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -19919,7 +20067,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-21T16:09:34.875Z",
+      "plcLastCheckedAt": "2026-08-31T08:59:52.669Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -21115,7 +21263,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -21310,7 +21458,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -21580,7 +21728,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-12T16:08:41.883Z",
+      "plcLastCheckedAt": "2026-08-30T22:00:52.673Z",
       "bankCompany": {
         "id": 361,
         "fax": "",
@@ -21850,7 +21998,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-20T16:11:18.341Z",
+      "plcLastCheckedAt": "2026-08-31T05:24:17.351Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -22378,7 +22526,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -22558,7 +22706,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-08-28T15:30:47.922Z",
+      "plcLastCheckedAt": "2026-08-31T08:02:05.246Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
