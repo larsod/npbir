@@ -1492,7 +1492,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T00:23:23.984Z",
+      "plcLastCheckedAt": "2026-09-21T00:25:27.831Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -1661,7 +1661,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T00:23:23.984Z",
+      "plcLastCheckedAt": "2026-09-21T00:25:27.831Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -3874,7 +3874,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T02:08:11.970Z",
+      "plcLastCheckedAt": "2026-09-21T02:10:08.818Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -5999,7 +5999,7 @@
         "mortgageUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.lbkredittkort.no/priser",
+        "creditcardUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
@@ -6017,7 +6017,7 @@
         "company": {
           "id": 156,
           "deletedAt": null,
-          "modifiedAt": "2026-04-13T12:02:15.977Z",
+          "modifiedAt": "2026-09-21T06:36:32.633Z",
           "createdAt": "2025-10-14T11:13:33.226Z",
           "slug": "tolga-os_sparebank",
           "organizationNumber": "816793432",
@@ -6025,7 +6025,7 @@
           "name": "Tolga-Os Sparebank",
           "addressId": 156,
           "phone": "62496100",
-          "modifiedBy": "Emil",
+          "modifiedBy": "Külli",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -6781,7 +6781,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:02:14.856Z",
+      "plcLastCheckedAt": "2026-09-20T16:01:27.926Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -6978,7 +6978,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:02:14.856Z",
+      "plcLastCheckedAt": "2026-09-20T16:01:27.926Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -8764,7 +8764,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:01:29.923Z",
+      "plcLastCheckedAt": "2026-09-20T16:00:51.563Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -8928,7 +8928,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:01:29.923Z",
+      "plcLastCheckedAt": "2026-09-20T16:00:51.563Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -9130,7 +9130,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:01:29.923Z",
+      "plcLastCheckedAt": "2026-09-20T16:00:51.563Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -9294,7 +9294,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:01:29.923Z",
+      "plcLastCheckedAt": "2026-09-20T16:00:51.563Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16358,7 +16358,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-19T16:00:29.899Z",
+      "plcLastCheckedAt": "2026-09-20T16:00:32.737Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -18244,7 +18244,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T00:19:26.700Z",
+      "plcLastCheckedAt": "2026-09-21T00:21:32.290Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -20218,7 +20218,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T00:23:23.984Z",
+      "plcLastCheckedAt": "2026-09-21T00:25:27.831Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -24646,7 +24646,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-20T00:23:23.984Z",
+      "plcLastCheckedAt": "2026-09-21T00:25:27.831Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
