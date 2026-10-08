@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-28T16:00:24.477Z",
+      "plcLastCheckedAt": "2026-10-07T16:00:19.650Z",
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -390,7 +390,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:02:42.750Z",
+      "plcLastCheckedAt": "2026-10-07T16:06:08.421Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -554,7 +554,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:02:42.750Z",
+      "plcLastCheckedAt": "2026-10-07T16:06:08.421Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -718,7 +718,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-02T03:28:24.324Z",
+      "plcLastCheckedAt": "2026-10-07T16:05:32.531Z",
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -1103,7 +1103,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T16:02:10.564Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:26.251Z",
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -1299,7 +1299,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T16:02:10.564Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:26.251Z",
       "bankCompany": {
         "id": 194,
         "fax": "32113301",
@@ -1691,7 +1691,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T16:04:17.370Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:40.751Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -2917,7 +2917,7 @@
       "modifiedBy": "Mats",
       "publishFrom": "2026-05-17T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Boligkreditt.no tilbyr lån med sikkerhet innenfor 75 % av eiendommens markedsverdi med 1. prioritets pant i; Enebolig, Rekkehus, Selveierleilighet eller Borettslagsleilighet. Vi tar forbehold om godkjenning av panteobjektet. Det godtas ikke realkausjon. Vi tilbyr ikke mellomfinansiering. Betingelser: Ingen termingebyr. Kun månedlige terminbeløp som foretas med avtalegiro. Avdragsfrihet kan innvilges for inntil 5 år av gangen. Øvre beløpsgrense for lån kr 8 mill. Det tillates ingen betalingsanmerkninger. Kredittsjekk vil bli foretatt. Lån med sikkerhet i flere eiendommer gir ett lån pr. sikkerhet. Lån med sikkerhet i utleiebolig blir priset 0,5 prosentpoeng høyere.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -2930,7 +2930,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:45:08.124Z",
+      "plcLastCheckedAt": "2026-10-08T03:58:53.171Z",
       "bankCompany": {
         "id": 313,
         "fax": "32757601",
@@ -3825,7 +3825,7 @@
       "modifiedBy": "Anna-Karin",
       "publishFrom": "2026-07-21T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "I Penni tilbyr vi foreløpig kun flytting av eksisterende lån.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -3838,7 +3838,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:14:22.991Z",
+      "plcLastCheckedAt": "2026-10-07T16:14:43.152Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -4196,7 +4196,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:29:32.641Z",
+      "plcLastCheckedAt": "2026-10-08T03:44:17.682Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -5084,334 +5084,6 @@
     "interestRateChangedAt": "2026-07-20T22:00:00.000Z"
   },
   {
-    "id": 159814,
-    "firstVersionId": 37739,
-    "oldProductId": 139838,
-    "name": "Boliglån innenfor 80 %",
-    "companyId": 284,
-    "companyName": "Etnedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-26T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159814,
-      "bankCompanyId": 284,
-      "productTypeId": 9,
-      "name": "Boliglån innenfor 80 %",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-05-27T03:43:40.922Z",
-      "createdBy": "Lage",
-      "deletedAt": null,
-      "modifiedAt": "2026-05-27T06:51:07.843Z",
-      "modifiedBy": "Lage",
-      "publishFrom": "2026-05-26T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": ".",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-03T03:50:59.853Z",
-      "bankCompany": {
-        "id": 284,
-        "fax": "",
-        "email": "post@etnedalsparebank.no",
-        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
-        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
-        "changeBankEmail": "post@etnedalsparebank.no",
-        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
-        "haggleEmail": "post@etnedalsparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
-        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 284,
-          "deletedAt": null,
-          "modifiedAt": "2025-12-01T08:50:46.930Z",
-          "createdAt": "2025-10-14T11:13:33.850Z",
-          "slug": "etnedal_sparebank",
-          "organizationNumber": "937888570",
-          "url": "https://www.etnedalsparebank.no",
-          "name": "Etnedal Sparebank",
-          "addressId": 284,
-          "phone": "61121500",
-          "modifiedBy": "Lage",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "establishmentFee": 2500,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 60,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.64,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 80,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 1,
-      "establishmentFeeForLoan": 2500
-    },
-    "effectiveInterestRateRaw": 5.83490387943657,
-    "effectiveInterestRate": 5.83,
-    "nominalInterestRate": 5.64,
-    "monthlyPaymentRaw": 18755,
-    "monthlyPayment": 18755,
-    "estimatedTotalPayment": 5626500,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 60,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.64,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2026-05-26T22:00:00.000Z"
-  },
-  {
-    "id": 159815,
-    "firstVersionId": 40215,
-    "oldProductId": 2249939,
-    "name": "Boliglån innenfor 90 %",
-    "companyId": 284,
-    "companyName": "Etnedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-26T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159815,
-      "bankCompanyId": 284,
-      "productTypeId": 9,
-      "name": "Boliglån innenfor 90 %",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-05-27T03:44:11.696Z",
-      "createdBy": "Lage",
-      "deletedAt": null,
-      "modifiedAt": "2026-05-27T06:50:59.022Z",
-      "modifiedBy": "Lage",
-      "publishFrom": "2026-05-26T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-03T03:50:59.853Z",
-      "bankCompany": {
-        "id": 284,
-        "fax": "",
-        "email": "post@etnedalsparebank.no",
-        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
-        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
-        "changeBankEmail": "post@etnedalsparebank.no",
-        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
-        "haggleEmail": "post@etnedalsparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
-        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 284,
-          "deletedAt": null,
-          "modifiedAt": "2025-12-01T08:50:46.930Z",
-          "createdAt": "2025-10-14T11:13:33.850Z",
-          "slug": "etnedal_sparebank",
-          "organizationNumber": "937888570",
-          "url": "https://www.etnedalsparebank.no",
-          "name": "Etnedal Sparebank",
-          "addressId": 284,
-          "phone": "61121500",
-          "modifiedBy": "Lage",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "establishmentFee": 2500,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 60,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.74,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 90,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 1,
-      "establishmentFeeForLoan": 2500
-    },
-    "effectiveInterestRateRaw": 5.94017931040709,
-    "effectiveInterestRate": 5.94,
-    "nominalInterestRate": 5.74,
-    "monthlyPaymentRaw": 18935,
-    "monthlyPayment": 18935,
-    "estimatedTotalPayment": 5680500,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 60,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.74,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2026-05-26T22:00:00.000Z"
-  },
-  {
     "id": 159829,
     "firstVersionId": 20415,
     "oldProductId": 1110804,
@@ -5457,7 +5129,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-03T16:00:33.181Z",
+      "plcLastCheckedAt": "2026-10-07T16:06:30.218Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -6295,7 +5967,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-03T03:47:48.976Z",
+      "plcLastCheckedAt": "2026-10-08T03:53:56.800Z",
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -6487,7 +6159,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T03:40:47.844Z",
+      "plcLastCheckedAt": "2026-10-08T03:40:56.467Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -7320,680 +6992,6 @@
     "interestRateChangedAt": "2026-06-08T22:00:00.000Z"
   },
   {
-    "id": 160251,
-    "firstVersionId": 3460,
-    "oldProductId": 50395,
-    "name": "Boliglån 75%",
-    "companyId": 172,
-    "companyName": "Telemark Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-06-08T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 160251,
-      "bankCompanyId": 172,
-      "productTypeId": 9,
-      "name": "Boliglån 75%",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-09T12:04:57.979Z",
-      "createdBy": "Andreas",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-09T12:09:08.506Z",
-      "modifiedBy": "Andreas",
-      "publishFrom": "2026-06-08T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Gjeldsbrevlån med pant i bolig/leilighet/hytte innenfor 75% av markedsverdi. Forutsetter brukskonto i banken.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:26:12.236Z",
-      "bankCompany": {
-        "id": 172,
-        "fax": "",
-        "email": "post@drangedalsparebank.no",
-        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
-        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
-        "changeBankEmail": "post@drangedalsparebank.no",
-        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
-        "haggleEmail": "post@drangedalsparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "creditcardDailyCheck": false,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 172,
-          "deletedAt": null,
-          "modifiedAt": "2026-09-07T11:54:08.856Z",
-          "createdAt": "2025-10-14T11:13:33.307Z",
-          "slug": "telemark_sparebank",
-          "organizationNumber": "937891601",
-          "url": "https://www.drangedalsparebank.no/",
-          "name": "Telemark Sparebank",
-          "addressId": 172,
-          "phone": "35997400",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": "2026-04-14T22:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 172,
-                        "fax": "35997410",
-                        "email": "post@drangedalsparebank.no",
-                        "haggleEmail": "post@drangedalsparebank.no",
-                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "changeBankEmail": "post@drangedalsparebank.no",
-                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "Local",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [
-        {
-          "id": 3422,
-          "name": "Åmot"
-        },
-        {
-          "id": 4001,
-          "name": "Porsgrunn"
-        },
-        {
-          "id": 4003,
-          "name": "Skien"
-        },
-        {
-          "id": 4005,
-          "name": "Notodden"
-        },
-        {
-          "id": 4010,
-          "name": "Siljan"
-        },
-        {
-          "id": 4012,
-          "name": "Bamble"
-        },
-        {
-          "id": 4014,
-          "name": "Kragerø"
-        },
-        {
-          "id": 4016,
-          "name": "Drangedal"
-        },
-        {
-          "id": 4018,
-          "name": "Nome"
-        },
-        {
-          "id": 4020,
-          "name": "Midt-Telemark"
-        },
-        {
-          "id": 4022,
-          "name": "Seljord"
-        },
-        {
-          "id": 4024,
-          "name": "Hjartdal"
-        },
-        {
-          "id": 4026,
-          "name": "Tinn"
-        },
-        {
-          "id": 4028,
-          "name": "Kviteseid"
-        },
-        {
-          "id": 4030,
-          "name": "Nissedal"
-        },
-        {
-          "id": 4032,
-          "name": "Fyresdal"
-        },
-        {
-          "id": 4034,
-          "name": "Tokke"
-        }
-      ],
-      "establishmentFee": 3250,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": 999999,
-          "installmentFee": 65,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.99,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        },
-        {
-          "minimumLoanAmount": 1000000,
-          "maximumLoanAmount": null,
-          "installmentFee": 65,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.74,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 75,
-      "installmentFreeRepayment": true,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 10,
-      "establishmentFeeForLoan": 3250
-    },
-    "effectiveInterestRateRaw": 5.9458196148307385,
-    "effectiveInterestRate": 5.95,
-    "nominalInterestRate": 5.74,
-    "monthlyPaymentRaw": 18945,
-    "monthlyPayment": 18945,
-    "estimatedTotalPayment": 5683500,
-    "interval": {
-      "minimumLoanAmount": 1000000,
-      "maximumLoanAmount": null,
-      "installmentFee": 65,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.74,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2026-06-04T22:00:00.000Z"
-  },
-  {
-    "id": 160258,
-    "firstVersionId": 160132,
-    "oldProductId": null,
-    "name": "Boliglån 90%",
-    "companyId": 172,
-    "companyName": "Telemark Sparebank",
-    "isPackageRequired": true,
-    "isSpecificPackageOrCustomerProgramRequired": true,
-    "isMembershipRequired": false,
-    "validFrom": "2026-06-08T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 160258,
-      "bankCompanyId": 172,
-      "productTypeId": 9,
-      "name": "Boliglån 90%",
-      "isPackageRequired": true,
-      "isSpecificPackageOrCustomerProgramRequired": false,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-09T12:10:16.147Z",
-      "createdBy": "Külli",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-09T12:10:17.914Z",
-      "modifiedBy": "Külli (automatically approved admin)",
-      "publishFrom": "2026-06-08T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": null,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [
-        "checkingAccount"
-      ],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:26:12.236Z",
-      "bankCompany": {
-        "id": 172,
-        "fax": "",
-        "email": "post@drangedalsparebank.no",
-        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
-        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
-        "changeBankEmail": "post@drangedalsparebank.no",
-        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
-        "haggleEmail": "post@drangedalsparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "creditcardDailyCheck": false,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Kragerø kommune, Storgt. 96 C i Porsgrunn og på Myren i Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 172,
-          "deletedAt": null,
-          "modifiedAt": "2026-09-07T11:54:08.856Z",
-          "createdAt": "2025-10-14T11:13:33.307Z",
-          "slug": "telemark_sparebank",
-          "organizationNumber": "937891601",
-          "url": "https://www.drangedalsparebank.no/",
-          "name": "Telemark Sparebank",
-          "addressId": 172,
-          "phone": "35997400",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": "2026-04-14T22:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 172,
-                        "fax": "35997410",
-                        "email": "post@drangedalsparebank.no",
-                        "haggleEmail": "post@drangedalsparebank.no",
-                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "changeBankEmail": "post@drangedalsparebank.no",
-                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 750,
-      "marketArea": "Local",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [
-        {
-          "id": 3422,
-          "name": "Åmot"
-        },
-        {
-          "id": 4001,
-          "name": "Porsgrunn"
-        },
-        {
-          "id": 4003,
-          "name": "Skien"
-        },
-        {
-          "id": 4005,
-          "name": "Notodden"
-        },
-        {
-          "id": 4010,
-          "name": "Siljan"
-        },
-        {
-          "id": 4012,
-          "name": "Bamble"
-        },
-        {
-          "id": 4014,
-          "name": "Kragerø"
-        },
-        {
-          "id": 4016,
-          "name": "Drangedal"
-        },
-        {
-          "id": 4018,
-          "name": "Nome"
-        },
-        {
-          "id": 4020,
-          "name": "Midt-Telemark"
-        },
-        {
-          "id": 4022,
-          "name": "Seljord"
-        },
-        {
-          "id": 4024,
-          "name": "Hjartdal"
-        },
-        {
-          "id": 4026,
-          "name": "Tinn"
-        },
-        {
-          "id": 4028,
-          "name": "Kviteseid"
-        },
-        {
-          "id": 4030,
-          "name": "Nissedal"
-        },
-        {
-          "id": 4032,
-          "name": "Fyresdal"
-        },
-        {
-          "id": 4034,
-          "name": "Tokke"
-        }
-      ],
-      "establishmentFee": 3250,
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": 999999,
-          "installmentFee": 65,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 6.24,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        },
-        {
-          "minimumLoanAmount": 1000000,
-          "maximumLoanAmount": null,
-          "installmentFee": 65,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.94,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "gebyr i kr",
-      "maximumLoanToValueRatio": 90,
-      "installmentFreeRepayment": true,
-      "maxNumberOfYearsMaturity": 30,
-      "maxNumberOfYearsRepaymentFreePeriod": 10,
-      "establishmentFeeForLoan": 3250
-    },
-    "effectiveInterestRateRaw": 6.156687397911376,
-    "effectiveInterestRate": 6.16,
-    "nominalInterestRate": 5.94,
-    "monthlyPaymentRaw": 19310,
-    "monthlyPayment": 19310,
-    "estimatedTotalPayment": 5793000,
-    "interval": {
-      "minimumLoanAmount": 1000000,
-      "maximumLoanAmount": null,
-      "installmentFee": 65,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.94,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2026-06-04T22:00:00.000Z"
-  },
-  {
     "id": 160890,
     "firstVersionId": 54052,
     "oldProductId": 46567,
@@ -8753,7 +7751,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T03:55:11.076Z",
+      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -8933,7 +7931,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T03:55:11.076Z",
+      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -10122,7 +9120,7 @@
       "modifiedBy": "Anna-Karin",
       "publishFrom": "2026-08-12T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "I Penni tilbyr vi foreløpig kun flytting av eksisterende lån.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -10135,7 +9133,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:14:22.991Z",
+      "plcLastCheckedAt": "2026-10-07T16:14:43.152Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -10312,7 +9310,7 @@
       "modifiedBy": "Anna-Karin",
       "publishFrom": "2026-08-12T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "I Penni tilbyr vi foreløpig kun flytting av eksisterende lån.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -10325,7 +9323,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:14:22.991Z",
+      "plcLastCheckedAt": "2026-10-07T16:14:43.152Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -10502,7 +9500,7 @@
       "modifiedBy": "Anna-Karin",
       "publishFrom": "2026-08-12T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "I Penni tilbyr vi foreløpig kun flytting av eksisterende lån.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -10515,7 +9513,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:14:22.991Z",
+      "plcLastCheckedAt": "2026-10-07T16:14:43.152Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -10706,7 +9704,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:18:50.353Z",
+      "plcLastCheckedAt": "2026-10-07T16:00:55.901Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -10859,7 +9857,7 @@
       "modifiedBy": "Inger Anne",
       "publishFrom": "2026-09-01T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
@@ -10872,7 +9870,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T16:01:17.967Z",
+      "plcLastCheckedAt": "2026-10-07T16:15:07.593Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -11894,7 +10892,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:22:55.385Z",
+      "plcLastCheckedAt": "2026-10-07T16:24:37.316Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -13067,7 +12065,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:12:58.928Z",
+      "plcLastCheckedAt": "2026-10-07T16:04:15.920Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -13291,7 +12289,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-05T16:07:48.851Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:09.728Z",
       "bankCompany": {
         "id": 137,
         "fax": "",
@@ -16835,7 +15833,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:04:22.960Z",
+      "plcLastCheckedAt": "2026-10-07T16:06:51.868Z",
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -17820,7 +16818,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T16:04:17.370Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:40.751Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -18417,7 +17415,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-01T16:04:17.370Z",
+      "plcLastCheckedAt": "2026-10-07T16:10:40.751Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -21200,7 +20198,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:11:14.474Z",
+      "plcLastCheckedAt": "2026-10-07T16:03:00.945Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -21397,7 +20395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:11:14.474Z",
+      "plcLastCheckedAt": "2026-10-07T16:03:00.945Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -24434,7 +23432,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-06T16:00:33.346Z",
+      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -24598,7 +23596,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -25695,7 +24693,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-10-07T16:02:44.655Z",
       "bankCompany": {
         "id": 130,
         "fax": "37 26 92 01",
@@ -25904,5 +24902,1203 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2026-10-05T22:00:00.000Z"
+  },
+  {
+    "id": 164166,
+    "firstVersionId": 31382,
+    "oldProductId": 102416,
+    "name": "Boliglån innenfor 75 % av markedsverdi",
+    "companyId": 156,
+    "companyName": "Tolga-Os Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-06T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 164166,
+      "bankCompanyId": 156,
+      "productTypeId": 9,
+      "name": "Boliglån innenfor 75 % av markedsverdi",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-07T12:22:55.057Z",
+      "createdBy": "Emil",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-07T12:29:12.292Z",
+      "modifiedBy": "Emil",
+      "publishFrom": "2026-10-06T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Termingebyr forutsetter at terminbeløp for lån belastes brukskonto med lønnsinngang uten melding.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-10-07T16:04:53.353Z",
+      "bankCompany": {
+        "id": 156,
+        "fax": "62494123",
+        "email": "post@tos.no",
+        "becomeCustomerURL": "https://www.tos.no/nb/bli_kunde",
+        "changeBankURL": "https://www.tos.no/nb/bli_kunde",
+        "changeBankEmail": "post@tos.no",
+        "contactURL": "https://www.tos.no/nb/kundeservice",
+        "haggleEmail": "post@tos.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.tos.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Gir tilbud på boliglån over hele landet.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Tilbyr kundeforhold, banksparing og dagligbank-tjenester til hele landet.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 156,
+          "deletedAt": null,
+          "modifiedAt": "2026-09-21T06:36:32.633Z",
+          "createdAt": "2025-10-14T11:13:33.226Z",
+          "slug": "tolga-os_sparebank",
+          "organizationNumber": "816793432",
+          "url": "https://tos.no/",
+          "name": "Tolga-Os Sparebank",
+          "addressId": 156,
+          "phone": "62496100",
+          "modifiedBy": "Külli",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 1000,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 2500,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": 999999,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.85,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        },
+        {
+          "minimumLoanAmount": 1000000,
+          "maximumLoanAmount": 1999999,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.5,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        },
+        {
+          "minimumLoanAmount": 2000000,
+          "maximumLoanAmount": null,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.25,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 10,
+      "establishmentFeeForLoan": 2500
+    },
+    "effectiveInterestRateRaw": 6.479584442741082,
+    "effectiveInterestRate": 6.48,
+    "nominalInterestRate": 6.25,
+    "monthlyPaymentRaw": 19873,
+    "monthlyPayment": 19873,
+    "estimatedTotalPayment": 5961900,
+    "interval": {
+      "minimumLoanAmount": 2000000,
+      "maximumLoanAmount": null,
+      "installmentFee": 60,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 6.25,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-06T22:00:00.000Z"
+  },
+  {
+    "id": 164709,
+    "firstVersionId": 160132,
+    "oldProductId": null,
+    "name": "Boliglån 90%",
+    "companyId": 172,
+    "companyName": "Telemark Sparebank",
+    "isPackageRequired": true,
+    "isSpecificPackageOrCustomerProgramRequired": true,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-06T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 164709,
+      "bankCompanyId": 172,
+      "productTypeId": 9,
+      "name": "Boliglån 90%",
+      "isPackageRequired": true,
+      "isSpecificPackageOrCustomerProgramRequired": false,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-07T15:04:15.149Z",
+      "createdBy": "Andreas",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-08T08:42:10.830Z",
+      "modifiedBy": "Andreas",
+      "publishFrom": "2026-10-06T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": null,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [
+        "checkingAccount"
+      ],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 172,
+        "fax": "",
+        "email": "post@drangedalsparebank.no",
+        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankEmail": "post@telemarksparebank.no",
+        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
+        "haggleEmail": "post@telemarksparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": false,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Telemark Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Bø i Telemark, Seljord, Drangedal, Notodden, Åmot, Kragerø, Porsgrunn og Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Telemark Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Bø i Telemark, Seljord, Drangedal, Notodden, Åmot, Kragerø, Porsgrunn og Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 172,
+          "deletedAt": null,
+          "modifiedAt": "2026-10-07T15:06:45.637Z",
+          "createdAt": "2025-10-14T11:13:33.307Z",
+          "slug": "telemark_sparebank",
+          "organizationNumber": "937891601",
+          "url": "https://www.drangedalsparebank.no/",
+          "name": "Telemark Sparebank",
+          "addressId": 172,
+          "phone": "35997400",
+          "modifiedBy": "Andreas",
+          "leverandorId": null,
+          "activeFrom": "2026-04-14T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 172,
+                        "fax": "35997410",
+                        "email": "post@drangedalsparebank.no",
+                        "haggleEmail": "post@drangedalsparebank.no",
+                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@drangedalsparebank.no",
+                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "Local",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [
+        {
+          "id": 3422,
+          "name": "Åmot"
+        },
+        {
+          "id": 4001,
+          "name": "Porsgrunn"
+        },
+        {
+          "id": 4003,
+          "name": "Skien"
+        },
+        {
+          "id": 4005,
+          "name": "Notodden"
+        },
+        {
+          "id": 4010,
+          "name": "Siljan"
+        },
+        {
+          "id": 4012,
+          "name": "Bamble"
+        },
+        {
+          "id": 4014,
+          "name": "Kragerø"
+        },
+        {
+          "id": 4016,
+          "name": "Drangedal"
+        },
+        {
+          "id": 4018,
+          "name": "Nome"
+        },
+        {
+          "id": 4020,
+          "name": "Midt-Telemark"
+        },
+        {
+          "id": 4022,
+          "name": "Seljord"
+        },
+        {
+          "id": 4024,
+          "name": "Hjartdal"
+        },
+        {
+          "id": 4026,
+          "name": "Tinn"
+        },
+        {
+          "id": 4028,
+          "name": "Kviteseid"
+        },
+        {
+          "id": 4030,
+          "name": "Nissedal"
+        },
+        {
+          "id": 4032,
+          "name": "Fyresdal"
+        },
+        {
+          "id": 4034,
+          "name": "Tokke"
+        }
+      ],
+      "establishmentFee": 3250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": 999999,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.49,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        },
+        {
+          "minimumLoanAmount": 1000000,
+          "maximumLoanAmount": null,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.24,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 90,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 10,
+      "establishmentFeeForLoan": 3250
+    },
+    "effectiveInterestRateRaw": 6.4737321169211715,
+    "effectiveInterestRate": 6.47,
+    "nominalInterestRate": 6.24,
+    "monthlyPaymentRaw": 19863,
+    "monthlyPayment": 19863,
+    "estimatedTotalPayment": 5958900,
+    "interval": {
+      "minimumLoanAmount": 1000000,
+      "maximumLoanAmount": null,
+      "installmentFee": 65,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 6.24,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-06T22:00:00.000Z"
+  },
+  {
+    "id": 164710,
+    "firstVersionId": 3460,
+    "oldProductId": 50395,
+    "name": "Boliglån 75%",
+    "companyId": 172,
+    "companyName": "Telemark Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-06T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 164710,
+      "bankCompanyId": 172,
+      "productTypeId": 9,
+      "name": "Boliglån 75%",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-07T15:04:35.029Z",
+      "createdBy": "Andreas",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-08T08:41:04.921Z",
+      "modifiedBy": "Andreas",
+      "publishFrom": "2026-10-06T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Gjeldsbrevlån med pant i bolig/leilighet/hytte innenfor 75% av markedsverdi. Forutsetter brukskonto i banken.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 172,
+        "fax": "",
+        "email": "post@drangedalsparebank.no",
+        "becomeCustomerURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankURL": "https://www.drangedalsparebank.no/bli_kunde",
+        "changeBankEmail": "post@telemarksparebank.no",
+        "contactURL": "https://www.drangedalsparebank.no/kundeservice",
+        "haggleEmail": "post@telemarksparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "creditcardDailyCheck": false,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Telemark Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Bø i Telemark, Seljord, Drangedal, Notodden, Åmot, Kragerø, Porsgrunn og Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Telemark Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Bø i Telemark, Seljord, Drangedal, Notodden, Åmot, Kragerø, Porsgrunn og Skien. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\n            ",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 172,
+          "deletedAt": null,
+          "modifiedAt": "2026-10-07T15:06:45.637Z",
+          "createdAt": "2025-10-14T11:13:33.307Z",
+          "slug": "telemark_sparebank",
+          "organizationNumber": "937891601",
+          "url": "https://www.drangedalsparebank.no/",
+          "name": "Telemark Sparebank",
+          "addressId": 172,
+          "phone": "35997400",
+          "modifiedBy": "Andreas",
+          "leverandorId": null,
+          "activeFrom": "2026-04-14T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 172,
+                        "fax": "35997410",
+                        "email": "post@drangedalsparebank.no",
+                        "haggleEmail": "post@drangedalsparebank.no",
+                        "mortgageUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "smallLoansUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "changeBankEmail": "post@drangedalsparebank.no",
+                        "dailyBankingUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "marketRegionInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.drangedalsparebank.no/om_oss/om_banken/prisliste",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Drangedal Sparebank er en solid og selvstendig sparebank med lokal forankring. Banken har kontorer i Drangedal sentrum, i Sannidal i Kragerø kommune og i Storgt. 96 C i Porsgrunn. Nettopp fordi vi er en liten lokal sparebank har vi god kontakt og et personlig forhold til kundene, i tillegg til at vi er konkurransedyktige på alle plan.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "Local",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [
+        {
+          "id": 3422,
+          "name": "Åmot"
+        },
+        {
+          "id": 4001,
+          "name": "Porsgrunn"
+        },
+        {
+          "id": 4003,
+          "name": "Skien"
+        },
+        {
+          "id": 4005,
+          "name": "Notodden"
+        },
+        {
+          "id": 4010,
+          "name": "Siljan"
+        },
+        {
+          "id": 4012,
+          "name": "Bamble"
+        },
+        {
+          "id": 4014,
+          "name": "Kragerø"
+        },
+        {
+          "id": 4016,
+          "name": "Drangedal"
+        },
+        {
+          "id": 4018,
+          "name": "Nome"
+        },
+        {
+          "id": 4020,
+          "name": "Midt-Telemark"
+        },
+        {
+          "id": 4022,
+          "name": "Seljord"
+        },
+        {
+          "id": 4024,
+          "name": "Hjartdal"
+        },
+        {
+          "id": 4026,
+          "name": "Tinn"
+        },
+        {
+          "id": 4028,
+          "name": "Kviteseid"
+        },
+        {
+          "id": 4030,
+          "name": "Nissedal"
+        },
+        {
+          "id": 4032,
+          "name": "Fyresdal"
+        },
+        {
+          "id": 4034,
+          "name": "Tokke"
+        }
+      ],
+      "establishmentFee": 3250,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": 999999,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 6.24,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        },
+        {
+          "minimumLoanAmount": 1000000,
+          "maximumLoanAmount": null,
+          "installmentFee": 65,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.99,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": true,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 10,
+      "establishmentFeeForLoan": 3250
+    },
+    "effectiveInterestRateRaw": 6.209464417331234,
+    "effectiveInterestRate": 6.21,
+    "nominalInterestRate": 5.99,
+    "monthlyPaymentRaw": 19401,
+    "monthlyPayment": 19401,
+    "estimatedTotalPayment": 5820300,
+    "interval": {
+      "minimumLoanAmount": 1000000,
+      "maximumLoanAmount": null,
+      "installmentFee": 65,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.99,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-06T22:00:00.000Z"
+  },
+  {
+    "id": 164717,
+    "firstVersionId": 37739,
+    "oldProductId": 139838,
+    "name": "Boliglån innenfor 80 %",
+    "companyId": 284,
+    "companyName": "Etnedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-07T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 164717,
+      "bankCompanyId": 284,
+      "productTypeId": 9,
+      "name": "Boliglån innenfor 80 %",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-08T03:43:30.412Z",
+      "createdBy": "Lage",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-08T08:33:21.751Z",
+      "modifiedBy": "Lage",
+      "publishFrom": "2026-10-07T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": ".",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 284,
+        "fax": "",
+        "email": "post@etnedalsparebank.no",
+        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
+        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
+        "changeBankEmail": "post@etnedalsparebank.no",
+        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
+        "haggleEmail": "post@etnedalsparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
+        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 284,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-01T08:50:46.930Z",
+          "createdAt": "2025-10-14T11:13:33.850Z",
+          "slug": "etnedal_sparebank",
+          "organizationNumber": "937888570",
+          "url": "https://www.etnedalsparebank.no",
+          "name": "Etnedal Sparebank",
+          "addressId": 284,
+          "phone": "61121500",
+          "modifiedBy": "Lage",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 2500,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.89,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 80,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 1,
+      "establishmentFeeForLoan": 2500
+    },
+    "effectiveInterestRateRaw": 6.098287039750483,
+    "effectiveInterestRate": 6.1,
+    "nominalInterestRate": 5.89,
+    "monthlyPaymentRaw": 19209,
+    "monthlyPayment": 19209,
+    "estimatedTotalPayment": 5762700,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 60,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.89,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-07T22:00:00.000Z"
+  },
+  {
+    "id": 164718,
+    "firstVersionId": 40215,
+    "oldProductId": 2249939,
+    "name": "Boliglån innenfor 90 %",
+    "companyId": 284,
+    "companyName": "Etnedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-07T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 164718,
+      "bankCompanyId": 284,
+      "productTypeId": 9,
+      "name": "Boliglån innenfor 90 %",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-08T03:43:58.734Z",
+      "createdBy": "Lage",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-08T08:33:27.692Z",
+      "modifiedBy": "Lage",
+      "publishFrom": "2026-10-07T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 284,
+        "fax": "",
+        "email": "post@etnedalsparebank.no",
+        "becomeCustomerURL": "https://www.etnedalsparebank.no/bli-kunde",
+        "changeBankURL": "https://www.etnedalsparebank.no/bytte%20bank",
+        "changeBankEmail": "post@etnedalsparebank.no",
+        "contactURL": "https://www.etnedalsparebank.no/Kontakt-oss",
+        "haggleEmail": "post@etnedalsparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]",
+        "smallLoansUrl": "https://www.etnedalsparebank.no/priser",
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.etnedalsparebank.no/priser",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.etnedalsparebank.no/priser",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.etnedalsparebank.no/priser",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.etnedalsparebank.no/priser",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Etnedal Sparebank er en selvstendig sparebank. Banken har sitt hovedkontor på Bruflat i Etnedal, og har en filial i Storgata på Dokka i Nordre Land. \nVi har også kontor på Gjøvik i Nedre Torvgate 6. Tidlig i 2026 flytter vi til nye lokaler på Gjøvik: Nedre Torvgate 12.\nBankens målsetting er å være en lønnsom og selvstendig sparebank med sterk lokal forankring.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 284,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-01T08:50:46.930Z",
+          "createdAt": "2025-10-14T11:13:33.850Z",
+          "slug": "etnedal_sparebank",
+          "organizationNumber": "937888570",
+          "url": "https://www.etnedalsparebank.no",
+          "name": "Etnedal Sparebank",
+          "addressId": 284,
+          "phone": "61121500",
+          "modifiedBy": "Lage",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 750,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "establishmentFee": 2500,
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 60,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.99,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "gebyr i kr",
+      "maximumLoanToValueRatio": 90,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "maxNumberOfYearsRepaymentFreePeriod": 1,
+      "establishmentFeeForLoan": 2500
+    },
+    "effectiveInterestRateRaw": 6.203812982497636,
+    "effectiveInterestRate": 6.2,
+    "nominalInterestRate": 5.99,
+    "monthlyPaymentRaw": 19392,
+    "monthlyPayment": 19392,
+    "estimatedTotalPayment": 5817600,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 60,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.99,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-07T22:00:00.000Z"
   }
 ]
