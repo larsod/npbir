@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-16T03:47:17.940Z",
+      "plcLastCheckedAt": "2026-10-16T16:02:03.141Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -438,7 +438,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2025-10-19T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 0,
       "ageTo": 100,
@@ -451,7 +451,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -3198,7 +3198,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -3544,7 +3544,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3671,7 +3671,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -5251,7 +5251,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -5380,7 +5380,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -7027,7 +7027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
+      "plcLastCheckedAt": "2026-10-16T16:00:31.521Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -7649,7 +7649,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -8091,7 +8091,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -9858,7 +9858,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -9994,7 +9994,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -11909,7 +11909,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
+      "plcLastCheckedAt": "2026-10-16T16:00:31.521Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -15013,7 +15013,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -15142,7 +15142,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -16939,7 +16939,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -17324,7 +17324,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -17894,7 +17894,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -18788,7 +18788,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -18917,7 +18917,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -19571,7 +19571,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -19699,7 +19699,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -21418,7 +21418,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -27159,7 +27159,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -27292,7 +27292,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T03:48:31.662Z",
+      "plcLastCheckedAt": "2026-10-17T03:52:21.487Z",
       "bankCompany": {
         "id": 180,
         "fax": "",
@@ -28602,7 +28602,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:05:32.531Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:00.804Z",
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -29042,7 +29042,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-16T03:47:17.940Z",
+      "plcLastCheckedAt": "2026-10-16T16:02:03.141Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -29998,7 +29998,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -30126,7 +30126,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -30258,7 +30258,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -30385,7 +30385,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -33576,7 +33576,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T03:48:31.662Z",
+      "plcLastCheckedAt": "2026-10-17T03:52:21.487Z",
       "bankCompany": {
         "id": 180,
         "fax": "",
@@ -33736,7 +33736,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T03:48:31.662Z",
+      "plcLastCheckedAt": "2026-10-17T03:52:21.487Z",
       "bankCompany": {
         "id": 180,
         "fax": "",
@@ -36374,7 +36374,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2026-05-18T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 34,
@@ -36390,7 +36390,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -36592,7 +36592,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2026-05-18T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Rentebetingelse avgjøres av innskuddets størrelse og beregnes fra første krone.\r\nDet er 4 gebyrfrie uttak per år. Ved ytterligere uttak påløper kr 100,- per overføring i uttaksgebyr.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -36605,7 +36605,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -36824,7 +36824,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2026-05-18T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
@@ -36837,7 +36837,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -37051,7 +37051,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2026-05-18T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Fra 2021 er det kun de som ikke eier bolig som får skattefradrag når de sparer i BSU.",
       "ageFrom": 13,
       "ageTo": 33,
@@ -37064,7 +37064,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -42306,7 +42306,7 @@
       "modifiedBy": "Roger",
       "publishFrom": "2026-05-31T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Det er 12 gebyrfrie uttak per år. Ved ytterligere uttak påløper kr 100,- per overføring i uttaksgebyr.",
       "ageFrom": 0,
       "ageTo": 100,
@@ -42319,7 +42319,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:01:08.449Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:46.478Z",
       "bankCompany": {
         "id": 187,
         "fax": "72404000",
@@ -42496,641 +42496,6 @@
     "interestAmount": 4125,
     "totalAmount": 154125,
     "interestRateChangedAt": "2026-05-18T22:00:00.000Z"
-  },
-  {
-    "id": 159994,
-    "firstVersionId": 139109,
-    "oldProductId": 213227,
-    "name": "Sparekonto",
-    "companyId": 276,
-    "companyName": "Cultura Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-28T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159994,
-      "bankCompanyId": 276,
-      "productTypeId": 10,
-      "name": "Sparekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-02T07:03:01.744Z",
-      "createdBy": "Mie",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-02T10:04:04.959Z",
-      "modifiedBy": "Mie",
-      "publishFrom": "2026-05-28T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 0,
-      "ageTo": 150,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
-      "bankCompany": {
-        "id": 276,
-        "fax": "22 36 17 95",
-        "email": "cultura@cultura.no",
-        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankEmail": "cultura@cultura.no",
-        "contactURL": "https://www.cultura.no/kontaktinformasjon",
-        "haggleEmail": "cultura@cultura.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": null,
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 276,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-23T17:17:18.028Z",
-          "createdAt": "2025-10-14T11:13:33.809Z",
-          "slug": "cultura_sparebank",
-          "organizationNumber": "977041244",
-          "url": "https://www.cultura.no/",
-          "name": "Cultura Sparebank",
-          "addressId": 276,
-          "phone": "22 99 51 99",
-          "modifiedBy": "Steinar",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 2.0000000000000018,
-    "interestAmountRaw": 3000,
-    "totalAmountRaw": 153000,
-    "effectiveInterestRate": 2,
-    "interestAmount": 3000,
-    "totalAmount": 153000,
-    "interestRateChangedAt": "2026-05-28T22:00:00.000Z"
-  },
-  {
-    "id": 159995,
-    "firstVersionId": 137593,
-    "oldProductId": 213224,
-    "name": "Høyrentekonto",
-    "companyId": 276,
-    "companyName": "Cultura Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-28T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159995,
-      "bankCompanyId": 276,
-      "productTypeId": 10,
-      "name": "Høyrentekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-02T07:04:12.725Z",
-      "createdBy": "Mie",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-02T10:03:52.726Z",
-      "modifiedBy": "Mie",
-      "publishFrom": "2026-05-28T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": " På Høyrentekonto er det en begrensning på 12 uttak per år. Uttak utover dette blir belastet med et gebyr på 0,75 prosent av uttatt beløp (uttaksdekort).",
-      "ageFrom": 0,
-      "ageTo": 150,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
-      "bankCompany": {
-        "id": 276,
-        "fax": "22 36 17 95",
-        "email": "cultura@cultura.no",
-        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankEmail": "cultura@cultura.no",
-        "contactURL": "https://www.cultura.no/kontaktinformasjon",
-        "haggleEmail": "cultura@cultura.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": null,
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 276,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-23T17:17:18.028Z",
-          "createdAt": "2025-10-14T11:13:33.809Z",
-          "slug": "cultura_sparebank",
-          "organizationNumber": "977041244",
-          "url": "https://www.cultura.no/",
-          "name": "Cultura Sparebank",
-          "addressId": 276,
-          "phone": "22 99 51 99",
-          "modifiedBy": "Steinar",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2.7,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 3,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 4,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 2.6999999999999913,
-    "interestAmountRaw": 4050,
-    "totalAmountRaw": 154050,
-    "effectiveInterestRate": 2.7,
-    "interestAmount": 4050,
-    "totalAmount": 154050,
-    "interestRateChangedAt": "2026-05-28T22:00:00.000Z"
-  },
-  {
-    "id": 159996,
-    "firstVersionId": 113531,
-    "oldProductId": 213231,
-    "name": "Depositumskonto ",
-    "companyId": 276,
-    "companyName": "Cultura Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-06-01T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159996,
-      "bankCompanyId": 276,
-      "productTypeId": 10,
-      "name": "Depositumskonto ",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-02T07:05:28.178Z",
-      "createdBy": "Mie",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-02T10:03:26.889Z",
-      "modifiedBy": "Mie",
-      "publishFrom": "2026-06-01T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Kontoen skal brukes til husleiedepositum og disponeres av utleier og leietaker i fellesskap. Det er en forutsetning at utleier har en konto i Cultura Bank, hvor husleien betales inn. Dette skal også fremgå i husleiekontrakten. Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto. Åpning av kontoen koster kr 750 (betales av utleier).",
-      "ageFrom": 18,
-      "ageTo": 150,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
-      "bankCompany": {
-        "id": 276,
-        "fax": "22 36 17 95",
-        "email": "cultura@cultura.no",
-        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankEmail": "cultura@cultura.no",
-        "contactURL": "https://www.cultura.no/kontaktinformasjon",
-        "haggleEmail": "cultura@cultura.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": null,
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 276,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-23T17:17:18.028Z",
-          "createdAt": "2025-10-14T11:13:33.809Z",
-          "slug": "cultura_sparebank",
-          "organizationNumber": "977041244",
-          "url": "https://www.cultura.no/",
-          "name": "Cultura Sparebank",
-          "addressId": 276,
-          "phone": "22 99 51 99",
-          "modifiedBy": "Steinar",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 7,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 750,
-      "highestEstablishmentFee": 750,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto.",
-      "conditionsForHighestEstablishmentFee": "Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto."
-    },
-    "effectiveInterestRateRaw": 2.0000000000000018,
-    "interestAmountRaw": 3000,
-    "totalAmountRaw": 153000,
-    "effectiveInterestRate": 2,
-    "interestAmount": 3000,
-    "totalAmount": 153000,
-    "interestRateChangedAt": "2026-06-01T22:00:00.000Z"
-  },
-  {
-    "id": 159998,
-    "firstVersionId": 130462,
-    "oldProductId": 2343251,
-    "name": "Støttekonto",
-    "companyId": 276,
-    "companyName": "Cultura Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-28T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 159998,
-      "bankCompanyId": 276,
-      "productTypeId": 10,
-      "name": "Støttekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-06-02T07:06:16.370Z",
-      "createdBy": "Mie",
-      "deletedAt": null,
-      "modifiedAt": "2026-06-02T10:03:08.636Z",
-      "modifiedBy": "Mie",
-      "publishFrom": "2026-05-28T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Cultura Bank gir, i tillegg til den renten innskyteren får, et årlig bidrag til organisasjonen som tilsvarer 0,9 % av innestående på kontoen. På støttekonto er det en begrensning på 12 gebyrfrie uttak per år. Uttak utover dette blir belastet med et gebyr på kr 50,- per uttak. Gebyr for betalingstjenester belastes ellers i henhold til prislisten.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
-      "bankCompany": {
-        "id": 276,
-        "fax": "22 36 17 95",
-        "email": "cultura@cultura.no",
-        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
-        "changeBankEmail": "cultura@cultura.no",
-        "contactURL": "https://www.cultura.no/kontaktinformasjon",
-        "haggleEmail": "cultura@cultura.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": null,
-        "smallLoansDailyCheck": false,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 276,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-23T17:17:18.028Z",
-          "createdAt": "2025-10-14T11:13:33.809Z",
-          "slug": "cultura_sparebank",
-          "organizationNumber": "977041244",
-          "url": "https://www.cultura.no/",
-          "name": "Cultura Sparebank",
-          "addressId": 276,
-          "phone": "22 99 51 99",
-          "modifiedBy": "Steinar",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 1.25,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 1.2499999999999956,
-    "interestAmountRaw": 1875,
-    "totalAmountRaw": 151875,
-    "effectiveInterestRate": 1.25,
-    "interestAmount": 1875,
-    "totalAmount": 151875,
-    "interestRateChangedAt": "2026-05-28T22:00:00.000Z"
   },
   {
     "id": 160046,
@@ -43706,7 +43071,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:00:23.687Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:19.249Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -43922,7 +43287,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44049,7 +43414,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44181,7 +43546,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44309,7 +43674,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44437,7 +43802,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44569,7 +43934,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44701,7 +44066,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44828,7 +44193,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:10:13.426Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:19.786Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -45761,7 +45126,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -45889,7 +45254,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -46017,7 +45382,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -46145,7 +45510,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -46679,7 +46044,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -46834,7 +46199,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T03:59:23.666Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -46991,7 +46356,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47131,7 +46496,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47259,7 +46624,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47399,7 +46764,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47527,7 +46892,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47655,7 +47020,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:05.151Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:52.262Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -49422,7 +48787,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -49562,7 +48927,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -49694,7 +49059,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -49825,7 +49190,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -49952,7 +49317,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -50083,7 +49448,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -50239,7 +49604,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -50398,7 +49763,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -50562,7 +49927,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -51110,7 +50475,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51238,7 +50603,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51369,7 +50734,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -52274,7 +51639,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
+      "plcLastCheckedAt": "2026-10-16T16:00:31.521Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -52413,7 +51778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
+      "plcLastCheckedAt": "2026-10-16T16:00:31.521Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -52545,7 +51910,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T04:00:23.450Z",
+      "plcLastCheckedAt": "2026-10-16T16:00:31.521Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -60681,7 +60046,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -60813,7 +60178,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -60941,7 +60306,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -61076,7 +60441,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -63370,7 +62735,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -65465,7 +64830,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -65726,7 +65091,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -65854,7 +65219,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -65990,7 +65355,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -66118,7 +65483,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -66246,7 +65611,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -69246,7 +68611,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -71273,7 +70638,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:14:16.614Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:57.817Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -71401,7 +70766,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -71529,7 +70894,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -71660,7 +71025,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -71788,7 +71153,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -71920,7 +71285,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:12:31.643Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:14.154Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -72084,7 +71449,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:12:31.643Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:14.154Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -72569,7 +71934,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -72697,7 +72062,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -72829,7 +72194,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -72957,7 +72322,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:30:02.957Z",
+      "plcLastCheckedAt": "2026-10-16T16:30:43.553Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -81025,7 +80390,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:16:10.842Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:47.568Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -81153,7 +80518,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -83991,7 +83356,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -84119,7 +83484,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -84247,7 +83612,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:20:23.158Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:59.309Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -84631,7 +83996,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -84759,7 +84124,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:35.808Z",
+      "plcLastCheckedAt": "2026-10-16T16:05:00.523Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -85015,7 +84380,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -85153,7 +84518,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -87499,7 +86864,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -87627,7 +86992,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:19:47.625Z",
+      "plcLastCheckedAt": "2026-10-16T16:16:06.542Z",
       "bankCompany": {
         "id": 153,
         "fax": "72 52 30 41",
@@ -87758,7 +87123,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:19:53.404Z",
+      "plcLastCheckedAt": "2026-10-16T16:02:08.314Z",
       "bankCompany": {
         "id": 334,
         "fax": "",
@@ -91851,7 +91216,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -91986,7 +91351,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92114,7 +91479,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92242,7 +91607,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92370,7 +91735,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92498,7 +91863,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -93435,7 +92800,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:02:18.861Z",
+      "plcLastCheckedAt": "2026-10-16T16:10:33.299Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -94270,7 +93635,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:12:31.643Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:14.154Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -94423,7 +93788,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:12:31.643Z",
+      "plcLastCheckedAt": "2026-10-16T16:13:14.154Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -96447,7 +95812,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:05:32.531Z",
+      "plcLastCheckedAt": "2026-10-16T16:14:00.804Z",
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -97620,7 +96985,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:00:23.687Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:19.249Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -97847,7 +97212,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:00:23.687Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:19.249Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -98066,7 +97431,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:00:23.687Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:19.249Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -98281,7 +97646,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:00:23.687Z",
+      "plcLastCheckedAt": "2026-10-16T16:04:19.249Z",
       "bankCompany": {
         "id": 172,
         "fax": "",
@@ -98496,7 +97861,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -98652,7 +98017,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -98808,7 +98173,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:27.057Z",
+      "plcLastCheckedAt": "2026-10-16T16:01:22.271Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -100297,7 +99662,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -100425,7 +99790,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-14T16:07:17.904Z",
+      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -100829,7 +100194,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:08:38.797Z",
+      "plcLastCheckedAt": "2026-10-16T16:09:18.772Z",
       "bankCompany": {
         "id": 166,
         "fax": "",
@@ -100957,7 +100322,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:02:13.554Z",
+      "plcLastCheckedAt": "2026-10-16T16:03:04.050Z",
       "bankCompany": {
         "id": 49,
         "fax": "+4773884443",
@@ -103101,7 +102466,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-10-16T16:02:03.141Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -103232,7 +102597,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-10-16T16:02:08.314Z",
       "bankCompany": {
         "id": 334,
         "fax": "",
@@ -103311,6 +102676,641 @@
     "effectiveInterestRate": 4.65,
     "interestAmount": 6969,
     "totalAmount": 156969,
+    "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
+  },
+  {
+    "id": 165275,
+    "firstVersionId": 139109,
+    "oldProductId": 213227,
+    "name": "Sparekonto",
+    "companyId": 276,
+    "companyName": "Cultura Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-15T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165275,
+      "bankCompanyId": 276,
+      "productTypeId": 10,
+      "name": "Sparekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-16T09:42:08.131Z",
+      "createdBy": "Steinar",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-16T12:58:23.308Z",
+      "modifiedBy": "Steinar",
+      "publishFrom": "2026-10-15T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 0,
+      "ageTo": 150,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
+      "bankCompany": {
+        "id": 276,
+        "fax": "22 36 17 95",
+        "email": "cultura@cultura.no",
+        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankEmail": "cultura@cultura.no",
+        "contactURL": "https://www.cultura.no/kontaktinformasjon",
+        "haggleEmail": "cultura@cultura.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": null,
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 276,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-23T17:17:18.028Z",
+          "createdAt": "2025-10-14T11:13:33.809Z",
+          "slug": "cultura_sparebank",
+          "organizationNumber": "977041244",
+          "url": "https://www.cultura.no/",
+          "name": "Cultura Sparebank",
+          "addressId": 276,
+          "phone": "22 99 51 99",
+          "modifiedBy": "Steinar",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.2499999999999964,
+    "interestAmountRaw": 3375,
+    "totalAmountRaw": 153375,
+    "effectiveInterestRate": 2.25,
+    "interestAmount": 3375,
+    "totalAmount": 153375,
+    "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
+  },
+  {
+    "id": 165276,
+    "firstVersionId": 137593,
+    "oldProductId": 213224,
+    "name": "Høyrentekonto",
+    "companyId": 276,
+    "companyName": "Cultura Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-15T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165276,
+      "bankCompanyId": 276,
+      "productTypeId": 10,
+      "name": "Høyrentekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-16T09:48:03.195Z",
+      "createdBy": "Steinar",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-16T12:58:40.523Z",
+      "modifiedBy": "Steinar",
+      "publishFrom": "2026-10-15T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": " På Høyrentekonto er det en begrensning på 12 uttak per år. Uttak utover dette blir belastet med et gebyr på 0,75 prosent av uttatt beløp (uttaksdekort).",
+      "ageFrom": 0,
+      "ageTo": 150,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
+      "bankCompany": {
+        "id": 276,
+        "fax": "22 36 17 95",
+        "email": "cultura@cultura.no",
+        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankEmail": "cultura@cultura.no",
+        "contactURL": "https://www.cultura.no/kontaktinformasjon",
+        "haggleEmail": "cultura@cultura.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": null,
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 276,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-23T17:17:18.028Z",
+          "createdAt": "2025-10-14T11:13:33.809Z",
+          "slug": "cultura_sparebank",
+          "organizationNumber": "977041244",
+          "url": "https://www.cultura.no/",
+          "name": "Cultura Sparebank",
+          "addressId": 276,
+          "phone": "22 99 51 99",
+          "modifiedBy": "Steinar",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.95,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 3.25,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 4.25,
+          "thresholdInterestRate": 2000000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.950000000000008,
+    "interestAmountRaw": 4425,
+    "totalAmountRaw": 154425,
+    "effectiveInterestRate": 2.95,
+    "interestAmount": 4425,
+    "totalAmount": 154425,
+    "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
+  },
+  {
+    "id": 165277,
+    "firstVersionId": 113531,
+    "oldProductId": 213231,
+    "name": "Depositumskonto ",
+    "companyId": 276,
+    "companyName": "Cultura Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-15T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165277,
+      "bankCompanyId": 276,
+      "productTypeId": 10,
+      "name": "Depositumskonto ",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-16T09:49:09.209Z",
+      "createdBy": "Steinar",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-16T12:58:55.140Z",
+      "modifiedBy": "Steinar",
+      "publishFrom": "2026-10-15T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Kontoen skal brukes til husleiedepositum og disponeres av utleier og leietaker i fellesskap. Det er en forutsetning at utleier har en konto i Cultura Bank, hvor husleien betales inn. Dette skal også fremgå i husleiekontrakten. Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto. Åpning av kontoen koster kr 750 (betales av utleier).",
+      "ageFrom": 18,
+      "ageTo": 150,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
+      "bankCompany": {
+        "id": 276,
+        "fax": "22 36 17 95",
+        "email": "cultura@cultura.no",
+        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankEmail": "cultura@cultura.no",
+        "contactURL": "https://www.cultura.no/kontaktinformasjon",
+        "haggleEmail": "cultura@cultura.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": null,
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 276,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-23T17:17:18.028Z",
+          "createdAt": "2025-10-14T11:13:33.809Z",
+          "slug": "cultura_sparebank",
+          "organizationNumber": "977041244",
+          "url": "https://www.cultura.no/",
+          "name": "Cultura Sparebank",
+          "addressId": 276,
+          "phone": "22 99 51 99",
+          "modifiedBy": "Steinar",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.25,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 750,
+      "highestEstablishmentFee": 750,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto.",
+      "conditionsForHighestEstablishmentFee": "Utleier skal ha hatt et aktivt kundeforhold i banken i minst 6 måneder før opprettelse av depositumskonto."
+    },
+    "effectiveInterestRateRaw": 2.2499999999999964,
+    "interestAmountRaw": 3375,
+    "totalAmountRaw": 153375,
+    "effectiveInterestRate": 2.25,
+    "interestAmount": 3375,
+    "totalAmount": 153375,
+    "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
+  },
+  {
+    "id": 165278,
+    "firstVersionId": 130462,
+    "oldProductId": 2343251,
+    "name": "Støttekonto",
+    "companyId": 276,
+    "companyName": "Cultura Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-15T22:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165278,
+      "bankCompanyId": 276,
+      "productTypeId": 10,
+      "name": "Støttekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-16T09:54:25.434Z",
+      "createdBy": "Steinar",
+      "deletedAt": null,
+      "modifiedAt": "2026-10-16T12:59:15.353Z",
+      "modifiedBy": "Steinar",
+      "publishFrom": "2026-10-15T22:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Cultura Bank gir, i tillegg til den renten innskyteren får, et årlig bidrag til organisasjonen som tilsvarer 0,9 % av innestående på kontoen. På støttekonto er det en begrensning på 12 gebyrfrie uttak per år. Uttak utover dette blir belastet med et gebyr på kr 50,- per uttak. Gebyr for betalingstjenester belastes ellers i henhold til prislisten.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-10-16T16:03:13.760Z",
+      "bankCompany": {
+        "id": 276,
+        "fax": "22 36 17 95",
+        "email": "cultura@cultura.no",
+        "becomeCustomerURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankURL": "https://www.cultura.no/privat/bli-privatkunde",
+        "changeBankEmail": "cultura@cultura.no",
+        "contactURL": "https://www.cultura.no/kontaktinformasjon",
+        "haggleEmail": "cultura@cultura.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": null,
+        "smallLoansDailyCheck": false,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": "https://www.cultura.no/privat/prisliste?fane=Ln",
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": "https://www.cultura.no/privat/prisliste?fane=Kort",
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": "https://www.cultura.no/privat/prisliste?fane=Betaling, https://www.cultura.no/privat/prisliste?fane=Kort",
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank gir lån til formål som kan tilføre samfunnet en kvalitativ verdi basert på et reellt behov. Cultura Bank gir blant annet lån til økologisk jordbruk og miljøprosjekter, For øvrig finansierer vi også miljøboliger og gir ordinære boliglån. ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 276,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-23T17:17:18.028Z",
+          "createdAt": "2025-10-14T11:13:33.809Z",
+          "slug": "cultura_sparebank",
+          "organizationNumber": "977041244",
+          "url": "https://www.cultura.no/",
+          "name": "Cultura Sparebank",
+          "addressId": 276,
+          "phone": "22 99 51 99",
+          "modifiedBy": "Steinar",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 1.5,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 1.4999999999999902,
+    "interestAmountRaw": 2250,
+    "totalAmountRaw": 152250,
+    "effectiveInterestRate": 1.5,
+    "interestAmount": 2250,
+    "totalAmount": 152250,
     "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
   }
 ]
