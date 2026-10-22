@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-07T16:00:19.650Z",
+      "plcLastCheckedAt": "2026-10-21T16:15:56.605Z",
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -390,7 +390,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:32.050Z",
+      "plcLastCheckedAt": "2026-10-21T16:19:46.164Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -554,7 +554,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:13:32.050Z",
+      "plcLastCheckedAt": "2026-10-21T16:19:46.164Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -3052,7 +3052,7 @@
       "modifiedBy": "Siri",
       "publishFrom": "2026-07-20T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
@@ -3303,7 +3303,7 @@
       "modifiedBy": "Siri",
       "publishFrom": "2026-07-20T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
@@ -3554,7 +3554,7 @@
       "modifiedBy": "Siri",
       "publishFrom": "2026-07-20T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Vårt ordinære boliglån er for deg som skal låne under 2 millioner eller med pant i fritidseiendom.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -4344,7 +4344,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:06:56.351Z",
+      "plcLastCheckedAt": "2026-10-21T16:07:48.337Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -7536,7 +7536,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:05:53.105Z",
+      "plcLastCheckedAt": "2026-10-21T16:06:55.199Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -8709,7 +8709,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:06:14.415Z",
+      "plcLastCheckedAt": "2026-10-21T16:07:11.697Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -9448,7 +9448,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-15T16:18:32.111Z",
+      "plcLastCheckedAt": "2026-10-21T16:24:28.194Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -10200,7 +10200,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:25:35.667Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:55.535Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10370,7 +10370,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:25:35.667Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:55.535Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10539,7 +10539,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:25:35.667Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:55.535Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10960,7 +10960,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:17:19.872Z",
+      "plcLastCheckedAt": "2026-10-21T16:00:53.367Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -11182,7 +11182,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:17:19.872Z",
+      "plcLastCheckedAt": "2026-10-21T16:00:53.367Z",
       "bankCompany": {
         "id": 115,
         "fax": "",
@@ -12313,7 +12313,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:25:35.667Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:55.535Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -14942,7 +14942,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:06:34.495Z",
+      "plcLastCheckedAt": "2026-10-21T16:00:28.346Z",
       "bankCompany": {
         "id": 159,
         "fax": "61 21 90 01",
@@ -17066,7 +17066,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:26:38.234Z",
+      "plcLastCheckedAt": "2026-10-21T16:19:24.304Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17263,7 +17263,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:26:38.234Z",
+      "plcLastCheckedAt": "2026-10-21T16:19:24.304Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17640,7 +17640,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-09T16:00:12.745Z",
+      "plcLastCheckedAt": "2026-10-21T16:17:48.993Z",
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -17803,7 +17803,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-09T16:00:12.745Z",
+      "plcLastCheckedAt": "2026-10-21T16:17:48.993Z",
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -19714,7 +19714,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:13:04.461Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:10.771Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -20007,7 +20007,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:13:04.461Z",
+      "plcLastCheckedAt": "2026-10-21T16:16:10.771Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -23359,7 +23359,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-16T16:11:11.550Z",
+      "plcLastCheckedAt": "2026-10-21T16:18:55.275Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -23710,7 +23710,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-09T16:00:12.745Z",
+      "plcLastCheckedAt": "2026-10-21T16:17:48.993Z",
       "bankCompany": {
         "id": 286,
         "fax": "",
@@ -25777,7 +25777,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:01:08.549Z",
+      "plcLastCheckedAt": "2026-10-21T16:03:14.105Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
