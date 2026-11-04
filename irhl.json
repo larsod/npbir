@@ -2512,16 +2512,23 @@
                         "fax": "72404000",
                         "email": "post@oppdalsbanken.no",
                         "haggleEmail": "post@oppdalsbanken.no",
-                        "mortgageUrl": "https://oppdalsbanken.no/priser",
+                        "mortgageUrl": [
+                          "https://oppdalsbanken.no/priser"
+                        ],
                         "bankHasOwnATM": false,
-                        "creditcardUrl": "",
-                        "smallLoansUrl": "",
+                        "creditcardUrl": [],
+                        "smallLoansUrl": [],
                         "plcRetriggerAt": null,
                         "changeBankEmail": "post@oppdalsbanken.no",
-                        "dailyBankingUrl": "https://oppdalsbanken.no/priser",
+                        "dailyBankingUrl": [
+                          "https://oppdalsbanken.no/priser"
+                        ],
                         "marketRegionInfo": "Vi skal være det naturlige bankvalget for alle i Oppdal og vi skal være en viktig bidragsyter og medspiller for å utvikle bygda videre.\r\n            ",
                         "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://oppdalsbanken.no/priser, https://www.oppdalsbanken.no/dagligbank/fastrentekonto",
+                        "savingsAccountUrl": [
+                          "https://oppdalsbanken.no/priser",
+                          "https://www.oppdalsbanken.no/dagligbank/fastrentekonto"
+                        ],
                         "mortgageDailyCheck": false,
                         "mortgageDynamicPage": false,
                         "creditcardDailyCheck": false,
@@ -3601,7 +3608,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:09:55.035Z",
+      "plcLastCheckedAt": "2026-11-03T17:20:08.218Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -4143,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:23:37.049Z",
+      "plcLastCheckedAt": "2026-11-03T17:23:55.738Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -7316,7 +7323,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:03:40.930Z",
+      "plcLastCheckedAt": "2026-11-03T17:03:24.790Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -7518,7 +7525,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:01:31.682Z",
+      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -7711,7 +7718,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:03:10.458Z",
+      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -7922,7 +7929,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:03:10.458Z",
+      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -8132,7 +8139,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:02:22.644Z",
+      "plcLastCheckedAt": "2026-11-03T17:05:31.578Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -8360,7 +8367,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:02:22.644Z",
+      "plcLastCheckedAt": "2026-11-03T17:05:31.578Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -9191,7 +9198,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:06:51.629Z",
+      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -9378,7 +9385,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:03:40.930Z",
+      "plcLastCheckedAt": "2026-11-03T17:03:24.790Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -9572,7 +9579,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:04:17.943Z",
+      "plcLastCheckedAt": "2026-11-03T17:03:02.966Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -9783,7 +9790,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:05:15.067Z",
+      "plcLastCheckedAt": "2026-11-03T17:01:13.787Z",
       "bankCompany": {
         "id": 125,
         "fax": "38051521",
@@ -9989,7 +9996,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:03:40.930Z",
+      "plcLastCheckedAt": "2026-11-03T17:03:24.790Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -10184,7 +10191,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:03:40.930Z",
+      "plcLastCheckedAt": "2026-11-03T17:03:24.790Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -11241,7 +11248,7 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false,
+          "validated": true,
           "validationErrors": [
             {
               "code": "invalid_string",
@@ -11476,7 +11483,7 @@
           "activeFrom": "2026-02-15T23:00:00.000Z",
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false,
+          "validated": true,
           "validationErrors": [
             {
               "code": "invalid_string",
@@ -13118,7 +13125,7 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false,
+          "validated": true,
           "validationErrors": [
             {
               "code": "invalid_string",
@@ -13388,7 +13395,7 @@
           "activeFrom": null,
           "activeTo": null,
           "autoAcceptChanges": false,
-          "validated": false,
+          "validated": true,
           "validationErrors": [
             {
               "code": "invalid_string",
@@ -15568,7 +15575,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-22T16:00:26.366Z",
+      "plcLastCheckedAt": "2026-11-03T17:05:13.724Z",
       "bankCompany": {
         "id": 246,
         "fax": "62949101",
@@ -15808,7 +15815,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:05:55.478Z",
+      "plcLastCheckedAt": "2026-11-03T17:20:40.478Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -15998,7 +16005,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:05:55.478Z",
+      "plcLastCheckedAt": "2026-11-03T17:20:40.478Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16654,7 +16661,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:05:55.478Z",
+      "plcLastCheckedAt": "2026-11-03T17:20:40.478Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16870,7 +16877,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-29T17:05:55.478Z",
+      "plcLastCheckedAt": "2026-11-03T17:20:40.478Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -17646,7 +17653,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:15:07.282Z",
+      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17859,7 +17866,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:15:07.282Z",
+      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -22181,7 +22188,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-26T17:05:20.553Z",
+      "plcLastCheckedAt": "2026-11-03T17:21:09.531Z",
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -22404,7 +22411,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-26T17:05:20.553Z",
+      "plcLastCheckedAt": "2026-11-03T17:21:09.531Z",
       "bankCompany": {
         "id": 60,
         "fax": "73531521",
@@ -23162,7 +23169,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:15:52.239Z",
+      "plcLastCheckedAt": "2026-11-03T17:06:42.616Z",
       "bankCompany": {
         "id": 261,
         "fax": "",
@@ -23364,7 +23371,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:18:59.792Z",
+      "plcLastCheckedAt": "2026-11-03T17:04:08.356Z",
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -24219,202 +24226,6 @@
     "interestRateChangedAt": "2026-10-07T22:00:00.000Z"
   },
   {
-    "id": 164874,
-    "firstVersionId": 52520,
-    "oldProductId": 46689,
-    "name": "Bustadlån 75% Flytande rente",
-    "companyId": 66,
-    "companyName": "Voss Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-10-07T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 164874,
-      "bankCompanyId": 66,
-      "productTypeId": 9,
-      "name": "Bustadlån 75% Flytande rente",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": true,
-      "isCurrentVersion": true,
-      "createdAt": "2026-10-08T09:52:36.776Z",
-      "createdBy": "Martin ",
-      "deletedAt": null,
-      "modifiedAt": "2026-10-08T13:14:56.617Z",
-      "modifiedBy": "Martin ",
-      "publishFrom": "2026-10-07T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-01T17:06:26.393Z",
-      "bankCompany": {
-        "id": 66,
-        "fax": "56520310",
-        "email": "post@vossabanken.no",
-        "becomeCustomerURL": "http://www.voss-sparebank.no/",
-        "changeBankURL": "http://www.voss-sparebank.no/",
-        "changeBankEmail": "post@vossabanken.no",
-        "contactURL": "http://www.voss-sparebank.no/",
-        "haggleEmail": "post@vossabanken.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfondsamme bank.",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://vossabanken.no/prislister/prisliste-lan/"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://vossabanken.no/prislister/prisliste-lan/"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://vossabanken.no/bruke/kort/lokalbank-privat/",
-          "https://vossabanken.no/produkt/prisar-og-vilkar/prislister/#utlan"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://vossabanken.no/prislister/prisliste-produkt-og-tenester/"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://vossabanken.no/prislister/prisliste-innskot/"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Voss og omkringliggjande kommunar",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Voss og omkringliggjande kommunar",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 66,
-          "deletedAt": null,
-          "modifiedAt": "2026-09-24T08:45:49.931Z",
-          "createdAt": "2025-10-14T11:13:32.782Z",
-          "slug": "voss_sparebank",
-          "organizationNumber": "937897286",
-          "url": "https://vossabanken.no/",
-          "name": "Voss Sparebank",
-          "addressId": 66,
-          "phone": "56520300",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 9,
-        "name": "Boliglån",
-        "category": "bank"
-      },
-      "type": "Mortgage",
-      "custodyFee": 0,
-      "marketArea": "NationWide",
-      "interestType": "Flytende",
-      "mortgageType": "standardlån",
-      "municipalities": [],
-      "provisionPerTerm": 0,
-      "interestOnLoanData": [
-        {
-          "minimumLoanAmount": 0,
-          "maximumLoanAmount": null,
-          "installmentFee": 50,
-          "stepdownMortgageLoan": false,
-          "nominalInterestRate": 5.94,
-          "nominalInterestRate1": null,
-          "nominalInterestRate2": null,
-          "nominalInterestRate3": null,
-          "minimumLoanToValueRatio1": null,
-          "maximumLoanToValueRatio1": null,
-          "minimumLoanToValueRatio2": null,
-          "maximumLoanToValueRatio2": null,
-          "minimumLoanToValueRatio3": null,
-          "maximumLoanToValueRatio3": null
-        }
-      ],
-      "interestCalculation": "etterskudd",
-      "provisionPerQuarter": 0,
-      "capitalizationPeriod": 1,
-      "establishmentFeeType": "intervall",
-      "maximumLoanToValueRatio": 75,
-      "installmentFreeRepayment": false,
-      "maxNumberOfYearsMaturity": 30,
-      "establishmentFeesInterval": [
-        {
-          "maximumLoanAmount": 100000,
-          "minimumLoanAmount": 0,
-          "establishmentFee": 250
-        },
-        {
-          "maximumLoanAmount": 500000,
-          "minimumLoanAmount": 100001,
-          "establishmentFee": 500
-        },
-        {
-          "maximumLoanAmount": 2500000,
-          "minimumLoanAmount": 500001,
-          "establishmentFee": 2000
-        },
-        {
-          "maximumLoanAmount": null,
-          "minimumLoanAmount": 2500001,
-          "establishmentFee": 3000
-        }
-      ],
-      "maxNumberOfYearsRepaymentFreePeriod": 0,
-      "establishmentFeeForLoan": 3000
-    },
-    "effectiveInterestRateRaw": 6.144347787856241,
-    "effectiveInterestRate": 6.14,
-    "nominalInterestRate": 5.94,
-    "monthlyPaymentRaw": 19288,
-    "monthlyPayment": 19288,
-    "estimatedTotalPayment": 5786400,
-    "interval": {
-      "minimumLoanAmount": 0,
-      "maximumLoanAmount": null,
-      "installmentFee": 50,
-      "stepdownMortgageLoan": false,
-      "nominalInterestRate": 5.94,
-      "nominalInterestRate1": null,
-      "nominalInterestRate2": null,
-      "nominalInterestRate3": null,
-      "minimumLoanToValueRatio1": null,
-      "maximumLoanToValueRatio1": null,
-      "minimumLoanToValueRatio2": null,
-      "maximumLoanToValueRatio2": null,
-      "minimumLoanToValueRatio3": null,
-      "maximumLoanToValueRatio3": null
-    },
-    "interestRateChangedAt": "2026-10-07T22:00:00.000Z"
-  },
-  {
     "id": 164891,
     "firstVersionId": 20854,
     "oldProductId": 1067466,
@@ -24462,7 +24273,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-02T17:01:55.213Z",
+      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -25286,16 +25097,26 @@
                         "fax": "",
                         "email": "post@valdressparebank.no",
                         "haggleEmail": "post@valdressparebank.no",
-                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.valdressparebank.no/priser",
-                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "creditcardUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
+                        "smallLoansUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "plcRetriggerAt": null,
                         "changeBankEmail": "post@valdressparebank.no",
-                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "dailyBankingUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
                         "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "savingsAccountUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "mortgageDailyCheck": true,
                         "mortgageDynamicPage": false,
                         "creditcardDailyCheck": true,
@@ -25548,16 +25369,26 @@
                         "fax": "",
                         "email": "post@valdressparebank.no",
                         "haggleEmail": "post@valdressparebank.no",
-                        "mortgageUrl": "https://www.valdressparebank.no/priser",
+                        "mortgageUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.valdressparebank.no/priser",
-                        "smallLoansUrl": "https://www.valdressparebank.no/priser",
+                        "creditcardUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
+                        "smallLoansUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "plcRetriggerAt": null,
                         "changeBankEmail": "post@valdressparebank.no",
-                        "dailyBankingUrl": "https://www.valdressparebank.no/priser",
+                        "dailyBankingUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "marketRegionInfo": "Vårt primærområde for boliglån er  Valdres. Vi gir også boliglån til utflyttede fra vårt primærområde.",
                         "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.valdressparebank.no/priser",
+                        "savingsAccountUrl": [
+                          "https://www.valdressparebank.no/priser"
+                        ],
                         "mortgageDailyCheck": true,
                         "mortgageDynamicPage": false,
                         "creditcardDailyCheck": true,
@@ -25727,7 +25558,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:18:28.397Z",
+      "plcLastCheckedAt": "2026-11-03T17:04:38.117Z",
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -25977,7 +25808,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-19T16:18:28.397Z",
+      "plcLastCheckedAt": "2026-11-03T17:04:38.117Z",
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -26575,7 +26406,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-20T16:07:07.324Z",
+      "plcLastCheckedAt": "2026-11-03T17:05:50.756Z",
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -26792,7 +26623,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-01T17:05:47.068Z",
+      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -27748,5 +27579,196 @@
       "maximumLoanToValueRatio3": null
     },
     "interestRateChangedAt": "2026-12-15T23:00:00.000Z"
+  },
+  {
+    "id": 165806,
+    "firstVersionId": 52520,
+    "oldProductId": 46689,
+    "name": "Bustadlån 75% Flytande rente",
+    "companyId": 66,
+    "companyName": "Voss Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-10-31T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165806,
+      "bankCompanyId": 66,
+      "productTypeId": 9,
+      "name": "Bustadlån 75% Flytande rente",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": true,
+      "isCurrentVersion": true,
+      "createdAt": "2026-10-30T12:34:28.809Z",
+      "createdBy": "Martin ",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-03T14:08:01.968Z",
+      "modifiedBy": "Martin ",
+      "publishFrom": "2026-10-31T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "bankCompany": {
+        "id": 66,
+        "fax": "56520310",
+        "email": "post@vossabanken.no",
+        "becomeCustomerURL": "http://www.voss-sparebank.no/",
+        "changeBankURL": "http://www.voss-sparebank.no/",
+        "changeBankEmail": "post@vossabanken.no",
+        "contactURL": "http://www.voss-sparebank.no/",
+        "haggleEmail": "post@vossabanken.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfondsamme bank.",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://vossabanken.no/prislister/prisliste-lan/"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://vossabanken.no/prislister/prisliste-lan/"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://vossabanken.no/bruke/kort/lokalbank-privat/",
+          "https://vossabanken.no/produkt/prisar-og-vilkar/prislister/#utlan"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://vossabanken.no/prislister/prisliste-produkt-og-tenester/"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://vossabanken.no/prislister/prisliste-innskot/"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Voss og omkringliggjande kommunar",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Voss og omkringliggjande kommunar",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 66,
+          "deletedAt": null,
+          "modifiedAt": "2026-09-24T08:45:49.931Z",
+          "createdAt": "2025-10-14T11:13:32.782Z",
+          "slug": "voss_sparebank",
+          "organizationNumber": "937897286",
+          "url": "https://vossabanken.no/",
+          "name": "Voss Sparebank",
+          "addressId": 66,
+          "phone": "56520300",
+          "modifiedBy": "Külli",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 9,
+        "name": "Boliglån",
+        "category": "bank"
+      },
+      "type": "Mortgage",
+      "custodyFee": 0,
+      "marketArea": "NationWide",
+      "interestType": "Flytende",
+      "mortgageType": "standardlån",
+      "municipalities": [],
+      "provisionPerTerm": 0,
+      "interestOnLoanData": [
+        {
+          "minimumLoanAmount": 0,
+          "maximumLoanAmount": null,
+          "installmentFee": 50,
+          "stepdownMortgageLoan": false,
+          "nominalInterestRate": 5.94,
+          "nominalInterestRate1": null,
+          "nominalInterestRate2": null,
+          "nominalInterestRate3": null,
+          "minimumLoanToValueRatio1": null,
+          "maximumLoanToValueRatio1": null,
+          "minimumLoanToValueRatio2": null,
+          "maximumLoanToValueRatio2": null,
+          "minimumLoanToValueRatio3": null,
+          "maximumLoanToValueRatio3": null
+        }
+      ],
+      "interestCalculation": "etterskudd",
+      "provisionPerQuarter": 0,
+      "capitalizationPeriod": 1,
+      "establishmentFeeType": "intervall",
+      "maximumLoanToValueRatio": 75,
+      "installmentFreeRepayment": false,
+      "maxNumberOfYearsMaturity": 30,
+      "establishmentFeesInterval": [
+        {
+          "maximumLoanAmount": 500000,
+          "minimumLoanAmount": 0,
+          "establishmentFee": 1000
+        },
+        {
+          "maximumLoanAmount": 2500000,
+          "minimumLoanAmount": 500001,
+          "establishmentFee": 2000
+        },
+        {
+          "maximumLoanAmount": null,
+          "minimumLoanAmount": 2500001,
+          "establishmentFee": 3000
+        }
+      ],
+      "maxNumberOfYearsRepaymentFreePeriod": 0,
+      "establishmentFeeForLoan": 3000
+    },
+    "effectiveInterestRateRaw": 6.144347787856241,
+    "effectiveInterestRate": 6.14,
+    "nominalInterestRate": 5.94,
+    "monthlyPaymentRaw": 19288,
+    "monthlyPayment": 19288,
+    "estimatedTotalPayment": 5786400,
+    "interval": {
+      "minimumLoanAmount": 0,
+      "maximumLoanAmount": null,
+      "installmentFee": 50,
+      "stepdownMortgageLoan": false,
+      "nominalInterestRate": 5.94,
+      "nominalInterestRate1": null,
+      "nominalInterestRate2": null,
+      "nominalInterestRate3": null,
+      "minimumLoanToValueRatio1": null,
+      "maximumLoanToValueRatio1": null,
+      "minimumLoanToValueRatio2": null,
+      "maximumLoanToValueRatio2": null,
+      "minimumLoanToValueRatio3": null,
+      "maximumLoanToValueRatio3": null
+    },
+    "interestRateChangedAt": "2026-10-07T22:00:00.000Z"
   }
 ]
