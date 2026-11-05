@@ -1,157 +1,5 @@
 [
   {
-    "id": 148835,
-    "firstVersionId": 130056,
-    "oldProductId": 3384996,
-    "name": "Sparekonto Pluss - 2 gebyrfrie uttak",
-    "companyId": 161,
-    "companyName": "INSTABANK ASA",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-09-30T00:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 148835,
-      "bankCompanyId": 161,
-      "productTypeId": 10,
-      "name": "Sparekonto Pluss - 2 gebyrfrie uttak",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-10-20T13:25:54.118Z",
-      "createdBy": "Jørgen",
-      "deletedAt": null,
-      "modifiedAt": "2025-10-21T06:51:43.316Z",
-      "modifiedBy": "Jørgen",
-      "publishFrom": "2025-09-30T00:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "-Ingen bindingstid på dine innskudd\r\n-2 gebyrfrie uttak i løpet av 12 mnd\r\n-Gebyr ved mer enn 2 uttak: 1 % (maks 5.000 kr)\r\n-Ikke noe minimumskrav for innskudd\r\n-Instabank er medlem av Bankenes sikringsfond",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:23:55.738Z",
-      "bankCompany": {
-        "id": 161,
-        "fax": "",
-        "email": "kundesenter@instabank.no",
-        "becomeCustomerURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankEmail": "kundesenter@instabank.no",
-        "contactURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "haggleEmail": "kundesenter@instabank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": [
-          "https://instabank.no/forbrukslan",
-          "https://instabank.no/refinansiering",
-          "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://instabank.no/lan-med-sikkerhet"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://instabank.no/instapay/mastercard"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [],
-        "dailyBankingDailyCheck": false,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://instabank.no/sparekonto",
-          "https://instabank.no/sparekonto-pluss",
-          "https://instabank.no/plasseringskonto"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": "2026-10-22T12:12:32.449Z",
-        "company": {
-          "id": 161,
-          "deletedAt": null,
-          "modifiedAt": "2026-05-07T08:13:16.705Z",
-          "createdAt": "2025-10-14T11:13:33.253Z",
-          "slug": "instabank_asa",
-          "organizationNumber": "816914582",
-          "url": "https://instabank.no/",
-          "name": "INSTABANK ASA",
-          "addressId": 161,
-          "phone": "21 51 93 00",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": "2016-10-20T22:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.65,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.65,
-          "thresholdInterestRate": 2000001
-        },
-        {
-          "nominalInterestRate": 0,
-          "thresholdInterestRate": 5000001
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 0,
-      "highestEstablishmentFee": 0,
-      "numberOfFreeWithdrawalsPerYear": 2,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "",
-      "conditionsForHighestEstablishmentFee": ""
-    },
-    "effectiveInterestRateRaw": 4.649999999999999,
-    "interestAmountRaw": 6975,
-    "totalAmountRaw": 156975,
-    "effectiveInterestRate": 4.65,
-    "interestAmount": 6975,
-    "totalAmount": 156975,
-    "interestRateChangedAt": "2025-09-30T00:00:00.000Z"
-  },
-  {
     "id": 148844,
     "firstVersionId": 121138,
     "oldProductId": 4886,
@@ -897,7 +745,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -1053,7 +901,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -1209,7 +1057,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -1365,7 +1213,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -1524,7 +1372,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -2541,7 +2389,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-27T17:08:26.760Z",
+      "plcLastCheckedAt": "2026-11-04T17:17:17.435Z",
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -3547,7 +3395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3703,7 +3551,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -4870,7 +4718,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -5037,7 +4885,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:00:24.066Z",
+      "plcLastCheckedAt": "2026-11-04T17:07:57.069Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -5263,7 +5111,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T03:44:17.682Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:25.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -5402,7 +5250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -8609,7 +8457,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:06:58.058Z",
+      "plcLastCheckedAt": "2026-11-04T17:02:17.092Z",
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -8765,7 +8613,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:06:58.058Z",
+      "plcLastCheckedAt": "2026-11-04T17:02:17.092Z",
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -8922,7 +8770,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -9088,7 +8936,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -9254,7 +9102,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:00:24.066Z",
+      "plcLastCheckedAt": "2026-11-04T17:07:57.069Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -9478,7 +9326,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T03:44:17.682Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:25.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -9616,7 +9464,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T03:44:17.682Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:25.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -9753,7 +9601,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-08T03:44:17.682Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:25.861Z",
       "bankCompany": {
         "id": 193,
         "fax": "",
@@ -9894,7 +9742,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:32:36.574Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:30.009Z",
       "bankCompany": {
         "id": 229,
         "fax": "",
@@ -10068,7 +9916,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:32:36.574Z",
+      "plcLastCheckedAt": "2026-11-05T04:11:30.009Z",
       "bankCompany": {
         "id": 229,
         "fax": "",
@@ -12793,7 +12641,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -12932,7 +12780,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -14286,7 +14134,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -14458,7 +14306,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -14633,7 +14481,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -14804,7 +14652,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -15938,7 +15786,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -16634,7 +16482,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:06:26.467Z",
+      "plcLastCheckedAt": "2026-11-04T17:10:56.087Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -18943,7 +18791,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -19776,7 +19624,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:30.882Z",
+      "plcLastCheckedAt": "2026-11-04T17:03:45.903Z",
       "bankCompany": {
         "id": 265,
         "fax": "",
@@ -19797,8 +19645,10 @@
         "mortgageUrl": [],
         "mortgageDailyCheck": false,
         "mortgageDynamicPage": false,
-        "creditcardUrl": [],
-        "creditcardDailyCheck": false,
+        "creditcardUrl": [
+          "https://www.avidafinance.com/no/avida-gebyrfri-gold"
+        ],
+        "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [],
         "dailyBankingDailyCheck": false,
@@ -19818,7 +19668,7 @@
         "company": {
           "id": 265,
           "deletedAt": null,
-          "modifiedAt": "2026-09-23T11:40:38.606Z",
+          "modifiedAt": "2026-11-04T12:42:30.486Z",
           "createdAt": "2025-10-14T11:13:33.760Z",
           "slug": "avida_bank_ab_(publ)_nuf",
           "organizationNumber": "990728488",
@@ -19826,7 +19676,7 @@
           "name": "Avida Bank AB (publ) NUF",
           "addressId": 265,
           "phone": "23 33 50 80",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Oskar",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -22776,7 +22626,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -25649,7 +25499,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:52.696Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:02.201Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -28958,7 +28808,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -30792,161 +30642,6 @@
     "interestRateChangedAt": "2026-05-04T22:00:00.000Z"
   },
   {
-    "id": 157785,
-    "firstVersionId": 120466,
-    "oldProductId": 1153798,
-    "name": "Sparekonto",
-    "companyId": 161,
-    "companyName": "INSTABANK ASA",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-05-05T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 157785,
-      "bankCompanyId": 161,
-      "productTypeId": 10,
-      "name": "Sparekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-05-06T08:04:24.887Z",
-      "createdBy": "Külli",
-      "deletedAt": null,
-      "modifiedAt": "2026-05-06T08:04:25.055Z",
-      "modifiedBy": "Külli (automatically approved admin)",
-      "publishFrom": "2026-05-05T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Når du skal overføre penger inn på din sparekonto er det viktig at du benytter vårt felles kontonummer (1503.76.70445), sammen med ditt unike KID-nummer.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:23:55.738Z",
-      "bankCompany": {
-        "id": 161,
-        "fax": "",
-        "email": "kundesenter@instabank.no",
-        "becomeCustomerURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankEmail": "kundesenter@instabank.no",
-        "contactURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "haggleEmail": "kundesenter@instabank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": [
-          "https://instabank.no/forbrukslan",
-          "https://instabank.no/refinansiering",
-          "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://instabank.no/lan-med-sikkerhet"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://instabank.no/instapay/mastercard"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [],
-        "dailyBankingDailyCheck": false,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://instabank.no/sparekonto",
-          "https://instabank.no/sparekonto-pluss",
-          "https://instabank.no/plasseringskonto"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": "2026-10-22T12:12:32.449Z",
-        "company": {
-          "id": 161,
-          "deletedAt": null,
-          "modifiedAt": "2026-05-07T08:13:16.705Z",
-          "createdAt": "2025-10-14T11:13:33.253Z",
-          "slug": "instabank_asa",
-          "organizationNumber": "816914582",
-          "url": "https://instabank.no/",
-          "name": "INSTABANK ASA",
-          "addressId": 161,
-          "phone": "21 51 93 00",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": "2016-10-20T22:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.41,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.41,
-          "thresholdInterestRate": 500001
-        },
-        {
-          "nominalInterestRate": 4.41,
-          "thresholdInterestRate": 1000001
-        },
-        {
-          "nominalInterestRate": 1.5,
-          "thresholdInterestRate": 2000001
-        },
-        {
-          "nominalInterestRate": 0,
-          "thresholdInterestRate": 5000001
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.410000000000003,
-    "interestAmountRaw": 6615,
-    "totalAmountRaw": 156615,
-    "effectiveInterestRate": 4.41,
-    "interestAmount": 6615,
-    "totalAmount": 156615,
-    "interestRateChangedAt": "2025-07-02T00:00:00.000Z"
-  },
-  {
     "id": 157830,
     "firstVersionId": 120471,
     "oldProductId": 320601,
@@ -31898,7 +31593,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -32059,7 +31754,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -32215,7 +31910,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -39737,7 +39432,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:52.696Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:02.201Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -39905,7 +39600,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:52.696Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:02.201Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -48053,7 +47748,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48209,7 +47904,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48353,7 +48048,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48509,7 +48204,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48653,7 +48348,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48797,7 +48492,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:21:26.207Z",
+      "plcLastCheckedAt": "2026-11-04T17:16:42.235Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -50332,7 +50027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:01:07.133Z",
+      "plcLastCheckedAt": "2026-11-04T17:09:11.151Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -50665,7 +50360,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -50820,7 +50515,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -50967,7 +50662,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -51113,7 +50808,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -51255,7 +50950,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -52510,7 +52205,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -52653,7 +52348,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -52799,7 +52494,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -56024,7 +55719,7 @@
       "modifiedBy": "Kari",
       "publishFrom": "2026-07-21T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "12 gebyrfrie uttak pr år.\r\nVed uttak utover dette, belastes 2 % uttaksgebyr.",
       "ageFrom": 0,
       "ageTo": 100,
@@ -56037,7 +55732,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -56175,7 +55870,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -56325,7 +56020,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -56469,7 +56164,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -65713,7 +65408,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -67978,7 +67673,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -68280,7 +67975,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -68423,7 +68118,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -68570,7 +68265,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -68709,7 +68404,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -68848,7 +68543,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -69679,7 +69374,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:00:24.066Z",
+      "plcLastCheckedAt": "2026-11-04T17:07:57.069Z",
       "bankCompany": {
         "id": 114,
         "fax": "32201280",
@@ -69908,7 +69603,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -72079,7 +71774,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -72682,7 +72377,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -72825,7 +72520,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -72997,7 +72692,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -73163,7 +72858,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -74249,7 +73944,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -74403,7 +74098,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -74560,7 +74255,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -74714,7 +74409,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -74825,356 +74520,6 @@
     "interestAmount": 4950,
     "totalAmount": 154950,
     "interestRateChangedAt": "2026-07-12T22:00:00.000Z"
-  },
-  {
-    "id": 161937,
-    "firstVersionId": 122147,
-    "oldProductId": 318762,
-    "name": "Høyrentekonto Pluss",
-    "companyId": 50,
-    "companyName": "Santander Consumer Bank AS",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-08-30T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161937,
-      "bankCompanyId": 50,
-      "productTypeId": 10,
-      "name": "Høyrentekonto Pluss",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-08-31T07:53:55.999Z",
-      "createdBy": "Øystein",
-      "deletedAt": null,
-      "modifiedAt": "2026-08-31T08:00:16.156Z",
-      "modifiedBy": "Øystein",
-      "publishFrom": "2026-08-30T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Høyrentekonto Pluss i Santander Consumer Bank AS er en innskuddskonto med gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank, og må bestilles 31 dager i forveien. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto Pluss hos oss, kan din bank ta gebyr for dette.  Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-. Skal penger overføres før notifisert periode på 31 dager vil det tilkomme et gebyr på 2 %, eller minimum kr. 1 000 av uttaksbeløpet.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:20:51.356Z",
-      "bankCompany": {
-        "id": 50,
-        "fax": "+47 21 08 33 68",
-        "email": "sparing@santander.no",
-        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankEmail": "sparing@santander.no",
-        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "haggleEmail": "sparing@santander.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/",
-          "https://www.santanderconsumer.no/lan/forbrukslan/",
-          "https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.santanderconsumer.no/sparing/priser-og-betingelser/"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 50,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.509Z",
-          "slug": "Santander Consumer Bank AS",
-          "organizationNumber": "983521592",
-          "url": "https://www.santanderconsumer.no",
-          "name": "Santander Consumer Bank AS",
-          "addressId": 50,
-          "phone": "+47 21 08 30 00",
-          "modifiedBy": null,
-          "leverandorId": 246,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "mortgageUrl"
-              ],
-              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "creditcardUrl"
-              ],
-              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "dailyBankingUrl"
-              ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.4578,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.2656,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 4.2656,
-          "thresholdInterestRate": 1000000
-        },
-        {
-          "nominalInterestRate": 4.2656,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 1,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.55022554385931,
-    "interestAmountRaw": 6825,
-    "totalAmountRaw": 156825,
-    "effectiveInterestRate": 4.55,
-    "interestAmount": 6825,
-    "totalAmount": 156825,
-    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
-  },
-  {
-    "id": 161938,
-    "firstVersionId": 141568,
-    "oldProductId": 221260,
-    "name": "Høyrentekonto",
-    "companyId": 50,
-    "companyName": "Santander Consumer Bank AS",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-08-30T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161938,
-      "bankCompanyId": 50,
-      "productTypeId": 10,
-      "name": "Høyrentekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-08-31T07:54:29.463Z",
-      "createdBy": "Øystein",
-      "deletedAt": null,
-      "modifiedAt": "2026-08-31T08:02:05.910Z",
-      "modifiedBy": "Øystein",
-      "publishFrom": "2026-08-30T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Høyrentekonto i Santander Consumer Bank AS er en innskuddskonto med meget gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto hos Santander, kan din bank ta gebyr for dette. Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:20:51.356Z",
-      "bankCompany": {
-        "id": 50,
-        "fax": "+47 21 08 33 68",
-        "email": "sparing@santander.no",
-        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "changeBankEmail": "sparing@santander.no",
-        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
-        "haggleEmail": "sparing@santander.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/",
-          "https://www.santanderconsumer.no/lan/forbrukslan/",
-          "https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan",
-          "https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.santanderconsumer.no/sparing/priser-og-betingelser/"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 50,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:32.509Z",
-          "slug": "Santander Consumer Bank AS",
-          "organizationNumber": "983521592",
-          "url": "https://www.santanderconsumer.no",
-          "name": "Santander Consumer Bank AS",
-          "addressId": 50,
-          "phone": "+47 21 08 30 00",
-          "modifiedBy": null,
-          "leverandorId": 246,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "mortgageUrl"
-              ],
-              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "creditcardUrl"
-              ],
-              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            },
-            {
-              "code": "custom",
-              "path": [
-                "bankCompany",
-                "dailyBankingUrl"
-              ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 1,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.4098,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.1213,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 4.1213,
-          "thresholdInterestRate": 1000000
-        },
-        {
-          "nominalInterestRate": 4.1213,
-          "thresholdInterestRate": 2000000
-        }
-      ],
-      "capitalizationPeriod": 1,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.500238136993873,
-    "interestAmountRaw": 6750,
-    "totalAmountRaw": 156750,
-    "effectiveInterestRate": 4.5,
-    "interestAmount": 6750,
-    "totalAmount": 156750,
-    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
   },
   {
     "id": 161994,
@@ -75564,7 +74909,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -75721,7 +75066,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -75868,7 +75213,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:18:18.480Z",
+      "plcLastCheckedAt": "2026-11-04T17:19:57.621Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -76817,7 +76162,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:01:07.133Z",
+      "plcLastCheckedAt": "2026-11-04T17:09:11.151Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -76978,7 +76323,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-28T17:01:07.133Z",
+      "plcLastCheckedAt": "2026-11-04T17:09:11.151Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -78267,7 +77612,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:06:26.467Z",
+      "plcLastCheckedAt": "2026-11-04T17:10:56.087Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -78407,7 +77752,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:06:26.467Z",
+      "plcLastCheckedAt": "2026-11-04T17:10:56.087Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -79680,7 +79025,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-28T16:05:29.712Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:25.173Z",
       "bankCompany": {
         "id": 189,
         "fax": "",
@@ -80759,7 +80104,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:06:58.058Z",
+      "plcLastCheckedAt": "2026-11-04T17:02:17.092Z",
       "bankCompany": {
         "id": 190,
         "fax": "23 16 38 28",
@@ -83707,7 +83052,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -85679,7 +85024,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -86765,7 +86110,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -86919,7 +86264,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -87409,7 +86754,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -87552,7 +86897,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -93692,7 +93037,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -93844,7 +93189,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -93996,7 +93341,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -94076,7 +93421,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -94218,7 +93563,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -94368,7 +93713,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -94505,7 +93850,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -94643,7 +93988,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -94785,7 +94130,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:00:25.709Z",
+      "plcLastCheckedAt": "2026-11-04T17:06:24.353Z",
       "bankCompany": {
         "id": 67,
         "fax": "",
@@ -97042,7 +96387,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -97208,7 +96553,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-23T16:21:45.734Z",
+      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -97374,7 +96719,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-30T17:06:26.467Z",
+      "plcLastCheckedAt": "2026-11-04T17:10:56.087Z",
       "bankCompany": {
         "id": 259,
         "fax": "21 54 44 01",
@@ -97514,7 +96859,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:20:51.356Z",
+      "plcLastCheckedAt": "2026-11-04T17:02:02.342Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -97598,7 +96943,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -97678,7 +97023,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:20:51.356Z",
+      "plcLastCheckedAt": "2026-11-04T17:02:02.342Z",
       "bankCompany": {
         "id": 50,
         "fax": "+47 21 08 33 68",
@@ -97762,7 +97107,7 @@
                 "bankCompany",
                 "dailyBankingUrl"
               ],
-              "message": "Dagligbank prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
             }
           ]
         }
@@ -99039,7 +98384,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-27T17:08:26.760Z",
+      "plcLastCheckedAt": "2026-11-04T17:17:17.435Z",
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -99232,7 +98577,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-27T17:08:26.760Z",
+      "plcLastCheckedAt": "2026-11-04T17:17:17.435Z",
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -99433,7 +98778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-27T17:08:26.760Z",
+      "plcLastCheckedAt": "2026-11-04T17:17:17.435Z",
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -99637,7 +98982,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-27T17:08:26.760Z",
+      "plcLastCheckedAt": "2026-11-04T17:17:17.435Z",
       "bankCompany": {
         "id": 202,
         "fax": "73855001",
@@ -103541,7 +102886,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -103680,7 +103025,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:02:38.001Z",
+      "plcLastCheckedAt": "2026-11-04T17:01:23.962Z",
       "bankCompany": {
         "id": 66,
         "fax": "56520310",
@@ -103962,7 +103307,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T18:02:19.764Z",
+      "plcLastCheckedAt": "2026-11-04T18:17:54.063Z",
       "bankCompany": {
         "id": 49,
         "fax": "+4773884443",
@@ -105926,7 +105271,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:23:55.738Z",
+      "plcLastCheckedAt": "2026-11-04T17:03:12.429Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -110330,7 +109675,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:00:29.858Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:04.850Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -110749,7 +110094,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -110887,7 +110232,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -111025,7 +110370,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:20.795Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:10.994Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -111163,7 +110508,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:01:45.640Z",
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -111592,7 +110937,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-03T17:04:01.786Z",
+      "plcLastCheckedAt": "2026-11-04T17:05:36.228Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -111889,7 +111234,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-11-04T17:00:25.137Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -111985,5 +111330,642 @@
     "interestAmount": 7575,
     "totalAmount": 157575,
     "interestRateChangedAt": "2026-11-01T23:00:00.000Z"
+  },
+  {
+    "id": 165835,
+    "firstVersionId": 122147,
+    "oldProductId": 318762,
+    "name": "Høyrentekonto Pluss",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-03T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165835,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto Pluss",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-04T09:35:20.218Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-04T11:25:18.578Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-11-03T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto Pluss i Santander Consumer Bank AS er en innskuddskonto med gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank, og må bestilles 31 dager i forveien. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto Pluss hos oss, kan din bank ta gebyr for dette.  Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-. Skal penger overføres før notifisert periode på 31 dager vil det tilkomme et gebyr på 2 %, eller minimum kr. 1 000 av uttaksbeløpet.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-04T17:02:02.342Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/",
+          "https://www.santanderconsumer.no/lan/forbrukslan/",
+          "https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.santanderconsumer.no/sparing/priser-og-betingelser/"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4578,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.2656,
+          "thresholdInterestRate": 500000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.55022554385931,
+    "interestAmountRaw": 6825,
+    "totalAmountRaw": 156825,
+    "effectiveInterestRate": 4.55,
+    "interestAmount": 6825,
+    "totalAmount": 156825,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": 165837,
+    "firstVersionId": 141568,
+    "oldProductId": 221260,
+    "name": "Høyrentekonto",
+    "companyId": 50,
+    "companyName": "Santander Consumer Bank AS",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-03T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165837,
+      "bankCompanyId": 50,
+      "productTypeId": 10,
+      "name": "Høyrentekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-04T09:37:04.871Z",
+      "createdBy": "Øystein",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-04T11:27:00.710Z",
+      "modifiedBy": "Øystein",
+      "publishFrom": "2026-11-03T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Høyrentekonto i Santander Consumer Bank AS er en innskuddskonto med meget gode betingelser. Renten kapitaliseres månedlig. Konti opprettes kun for myndige privatpersoner over 18 år. Innskudd til konto kan kun skje ved overføring/betaling fra konto i annen norsk bank der kontohavers 12-sifrede kontonummer i Santander Consumer Bank AS angis som KID. Uttak kan kun skje til en konto i annen norsk bank. Vi gjør oppmerksom på at andre banker kan ha gebyrer på sine tjenester. Overfører du penger til din Høyrentekonto hos Santander, kan din bank ta gebyr for dette. Som norsk bank er Santander Consumer Bank AS medlem i Bankenes sikringsfond som dekker innskudd inntil 2 millioner kroner per kunde. Kontoåpnings-/avslutningsgebyr og uttaksgebyr i Santander Consumer Bank AS er kr 0,-.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-04T17:02:02.342Z",
+      "bankCompany": {
+        "id": 50,
+        "fax": "+47 21 08 33 68",
+        "email": "sparing@santander.no",
+        "becomeCustomerURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "changeBankEmail": "sparing@santander.no",
+        "contactURL": "https://www.santanderconsumer.no/billan-og-fritidslan",
+        "haggleEmail": "sparing@santander.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://www.santanderconsumer.no/billan-og-fritidslan/batlan/batlan-priser-og-betingelser",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/caravanlan/caravanlan-priser-og-betingelser",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/snoscooteratv-lan/sok-om-snoscooteratv/kalkulator?_gl=1*i2olpl*_up*MQ..*_ga*ODQyNjMzMzA1LjE3NTU4NTM1Njc.*_ga_7J118R96W7*czE3NTU4NTM1NjckbzEkZzAkdDE3NTU4NTM1NjckajYwJGwwJGgxNzIwODM4MTcz",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/sok-billan/priser-og-betingelser-billaan/",
+          "https://www.santanderconsumer.no/lan/forbrukslan/",
+          "https://www.santanderconsumer.no/lan/priser-og-betingelser-forbrukslan",
+          "https://www.santanderconsumer.no/billan-og-fritidslan/mc-lan/sok-om-mc/kalkulator?_gl=1*12hao2j*_up*MQ..*_ga*MjE0NDU5MTUzLjE3NTEyODQyODE.*_ga_7J118R96W7*czE3NTEyODQyODAkbzEkZzEkdDE3NTEyODUxMjkkajYwJGwwJGgxMjgyNDUzMDQ3"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.santanderconsumer.no/sparing/priser-og-betingelser/"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Santander Consumer Bank AS driver virksomhet innen bilfinansiering, kredittkort og forbrukslån. Selskapet er ledende i Norge innen bilfinansiering med betydelig virksomhet i Sverige, Finland og Danmark. \r\n\r\n",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 50,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:32.509Z",
+          "slug": "Santander Consumer Bank AS",
+          "organizationNumber": "983521592",
+          "url": "https://www.santanderconsumer.no",
+          "name": "Santander Consumer Bank AS",
+          "addressId": 50,
+          "phone": "+47 21 08 30 00",
+          "modifiedBy": null,
+          "leverandorId": 246,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "mortgageUrl"
+              ],
+              "message": "Boliglån prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "creditcardUrl"
+              ],
+              "message": "Kredittkort prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            },
+            {
+              "code": "custom",
+              "path": [
+                "bankCompany",
+                "dailyBankingUrl"
+              ],
+              "message": "Brukskonto prisliste URL må fylles ut når daglig kontroll av prisliste er ja"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.4098,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.1213,
+          "thresholdInterestRate": 500000
+        }
+      ],
+      "capitalizationPeriod": 1,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.500238136993873,
+    "interestAmountRaw": 6750,
+    "totalAmountRaw": 156750,
+    "effectiveInterestRate": 4.5,
+    "interestAmount": 6750,
+    "totalAmount": 156750,
+    "interestRateChangedAt": "2026-07-08T22:00:00.000Z"
+  },
+  {
+    "id": 165838,
+    "firstVersionId": 120466,
+    "oldProductId": 1153798,
+    "name": "Sparekonto",
+    "companyId": 161,
+    "companyName": "INSTABANK ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-03T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165838,
+      "bankCompanyId": 161,
+      "productTypeId": 10,
+      "name": "Sparekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-04T09:40:40.105Z",
+      "createdBy": "Jørgen",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-04T12:38:58.259Z",
+      "modifiedBy": "Jørgen",
+      "publishFrom": "2026-11-03T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Når du skal overføre penger inn på din sparekonto er det viktig at du benytter vårt felles kontonummer (1503.76.70445), sammen med ditt unike KID-nummer.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-04T17:03:12.429Z",
+      "bankCompany": {
+        "id": 161,
+        "fax": "",
+        "email": "kundesenter@instabank.no",
+        "becomeCustomerURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "changeBankURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "changeBankEmail": "kundesenter@instabank.no",
+        "contactURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "haggleEmail": "kundesenter@instabank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": [
+          "https://instabank.no/forbrukslan",
+          "https://instabank.no/refinansiering",
+          "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://instabank.no/lan-med-sikkerhet"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://instabank.no/instapay/mastercard"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [],
+        "dailyBankingDailyCheck": false,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://instabank.no/sparekonto",
+          "https://instabank.no/sparekonto-pluss",
+          "https://instabank.no/plasseringskonto"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": "2026-10-22T12:12:32.449Z",
+        "company": {
+          "id": 161,
+          "deletedAt": null,
+          "modifiedAt": "2026-05-07T08:13:16.705Z",
+          "createdAt": "2025-10-14T11:13:33.253Z",
+          "slug": "instabank_asa",
+          "organizationNumber": "816914582",
+          "url": "https://instabank.no/",
+          "name": "INSTABANK ASA",
+          "addressId": 161,
+          "phone": "21 51 93 00",
+          "modifiedBy": "Külli",
+          "leverandorId": null,
+          "activeFrom": "2016-10-20T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 1,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.66,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.66,
+          "thresholdInterestRate": 500001
+        },
+        {
+          "nominalInterestRate": 4.66,
+          "thresholdInterestRate": 1000001
+        },
+        {
+          "nominalInterestRate": 1.5,
+          "thresholdInterestRate": 2000001
+        },
+        {
+          "nominalInterestRate": 0,
+          "thresholdInterestRate": 5000001
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.6599999999999975,
+    "interestAmountRaw": 6990,
+    "totalAmountRaw": 156990,
+    "effectiveInterestRate": 4.66,
+    "interestAmount": 6990,
+    "totalAmount": 156990,
+    "interestRateChangedAt": "2026-11-03T23:00:00.000Z"
+  },
+  {
+    "id": 165839,
+    "firstVersionId": 130056,
+    "oldProductId": 3384996,
+    "name": "Sparekonto Pluss - 2 gebyrfrie uttak",
+    "companyId": 161,
+    "companyName": "INSTABANK ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-03T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165839,
+      "bankCompanyId": 161,
+      "productTypeId": 10,
+      "name": "Sparekonto Pluss - 2 gebyrfrie uttak",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-04T09:41:10.678Z",
+      "createdBy": "Jørgen",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-04T11:32:55.271Z",
+      "modifiedBy": "Jørgen",
+      "publishFrom": "2026-11-03T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "-Ingen bindingstid på dine innskudd\r\n-2 gebyrfrie uttak i løpet av 12 mnd\r\n-Gebyr ved mer enn 2 uttak: 1 % (maks 5.000 kr)\r\n-Ikke noe minimumskrav for innskudd\r\n-Instabank er medlem av Bankenes sikringsfond",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-04T17:03:12.429Z",
+      "bankCompany": {
+        "id": 161,
+        "fax": "",
+        "email": "kundesenter@instabank.no",
+        "becomeCustomerURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "changeBankURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "changeBankEmail": "kundesenter@instabank.no",
+        "contactURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
+        "haggleEmail": "kundesenter@instabank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": [
+          "https://instabank.no/forbrukslan",
+          "https://instabank.no/refinansiering",
+          "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://instabank.no/lan-med-sikkerhet"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://instabank.no/instapay/mastercard"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [],
+        "dailyBankingDailyCheck": false,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://instabank.no/sparekonto",
+          "https://instabank.no/sparekonto-pluss",
+          "https://instabank.no/plasseringskonto"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": "2026-10-22T12:12:32.449Z",
+        "company": {
+          "id": 161,
+          "deletedAt": null,
+          "modifiedAt": "2026-05-07T08:13:16.705Z",
+          "createdAt": "2025-10-14T11:13:33.253Z",
+          "slug": "instabank_asa",
+          "organizationNumber": "816914582",
+          "url": "https://instabank.no/",
+          "name": "INSTABANK ASA",
+          "addressId": 161,
+          "phone": "21 51 93 00",
+          "modifiedBy": "Külli",
+          "leverandorId": null,
+          "activeFrom": "2016-10-20T22:00:00.000Z",
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.96,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.96,
+          "thresholdInterestRate": 2000001
+        },
+        {
+          "nominalInterestRate": 0,
+          "thresholdInterestRate": 5000001
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 2,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.960000000000009,
+    "interestAmountRaw": 7440,
+    "totalAmountRaw": 157440,
+    "effectiveInterestRate": 4.96,
+    "interestAmount": 7440,
+    "totalAmount": 157440,
+    "interestRateChangedAt": "2026-11-03T23:00:00.000Z"
   }
 ]
