@@ -4150,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:16:27.247Z",
+      "plcLastCheckedAt": "2026-11-15T17:17:42.324Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -7525,7 +7525,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:06:04.507Z",
+      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -17653,7 +17653,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:26:32.339Z",
+      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17866,7 +17866,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:26:32.339Z",
+      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -26610,7 +26610,7 @@
       "modifiedBy": "Miia",
       "publishFrom": "2026-10-18T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "",
       "ageFrom": 18,
       "ageTo": 100,
