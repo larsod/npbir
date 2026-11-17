@@ -2583,7 +2583,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -3395,7 +3395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3551,7 +3551,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -5250,7 +5250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -11501,7 +11501,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -11640,7 +11640,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -12474,7 +12474,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -12919,7 +12919,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -14819,7 +14819,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -14918,236 +14918,6 @@
     "interestRateChangedAt": "2025-11-24T23:00:00.000Z"
   },
   {
-    "id": 154049,
-    "firstVersionId": 135098,
-    "oldProductId": 2368755,
-    "name": "Depositumskonto",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2025-11-24T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 154049,
-      "bankCompanyId": 62,
-      "productTypeId": 10,
-      "name": "Depositumskonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2025-12-03T08:56:12.844Z",
-      "createdBy": "Signy",
-      "deletedAt": null,
-      "modifiedAt": "2025-12-03T10:19:56.179Z",
-      "modifiedBy": "Signy",
-      "publishFrom": "2025-11-24T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 7,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2.3,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "lowestEstablishmentFee": 600,
-      "highestEstablishmentFee": 600,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false,
-      "conditionsForLowestEstablishmentFee": "Etablering",
-      "conditionsForHighestEstablishmentFee": "Etablering"
-    },
-    "effectiveInterestRateRaw": 2.299999999999991,
-    "interestAmountRaw": 3450,
-    "totalAmountRaw": 153450,
-    "effectiveInterestRate": 2.3,
-    "interestAmount": 3450,
-    "totalAmount": 153450,
-    "interestRateChangedAt": "2025-11-24T23:00:00.000Z"
-  },
-  {
     "id": 154057,
     "firstVersionId": 107218,
     "oldProductId": 5238,
@@ -15193,7 +14963,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -15420,7 +15190,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
       "bankCompany": {
         "id": 62,
         "fax": "72430041",
@@ -15647,7 +15417,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -18791,7 +18561,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -19624,7 +19394,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:01:02.423Z",
+      "plcLastCheckedAt": "2026-11-16T17:14:42.446Z",
       "bankCompany": {
         "id": 265,
         "fax": "",
@@ -19761,7 +19531,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -19905,7 +19675,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -20609,7 +20379,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -20748,7 +20518,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -20887,7 +20657,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -22340,7 +22110,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -25213,7 +24983,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:41.710Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:54.243Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -27868,7 +27638,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -29933,7 +29703,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-26T17:03:03.672Z",
+      "plcLastCheckedAt": "2026-11-16T17:25:32.136Z",
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -30066,7 +29836,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -31164,7 +30934,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31325,7 +31095,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31481,7 +31251,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -37265,7 +37035,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -39003,7 +38773,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:41.710Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:54.243Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -39171,7 +38941,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:41.710Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:54.243Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -40160,7 +39930,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40348,7 +40118,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40532,7 +40302,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40700,7 +40470,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40884,7 +40654,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -44248,7 +44018,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44390,7 +44160,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44537,7 +44307,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44680,7 +44450,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44823,7 +44593,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44970,7 +44740,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -45117,7 +44887,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -45259,7 +45029,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -47319,7 +47089,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47475,7 +47245,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47619,7 +47389,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47775,7 +47545,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47919,7 +47689,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -48063,7 +47833,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:27:41.635Z",
+      "plcLastCheckedAt": "2026-11-16T17:28:25.260Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -49598,7 +49368,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:13:37.616Z",
+      "plcLastCheckedAt": "2026-11-16T17:21:18.556Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -51776,7 +51546,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51919,7 +51689,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -52065,7 +51835,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -53726,687 +53496,6 @@
     "interestRateChangedAt": "2026-07-19T22:00:00.000Z"
   },
   {
-    "id": 161286,
-    "firstVersionId": 132307,
-    "oldProductId": 5134,
-    "name": "BSU",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-07-12T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161286,
-      "bankCompanyId": 62,
-      "productTypeId": 10,
-      "name": "BSU",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-07-13T11:37:53.889Z",
-      "createdBy": "Janne Enlid",
-      "deletedAt": null,
-      "modifiedAt": "2026-07-15T07:38:46.384Z",
-      "modifiedBy": "Janne Enlid",
-      "publishFrom": "2026-07-12T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Fra 2021 er det kun de som ikke eier bolig som får skattefradrag når de sparer i BSU.",
-      "ageFrom": 13,
-      "ageTo": 33,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 4,
-      "requiresCard": false,
-      "maximumDeposit": 300000,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 6,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 6.000000000000005,
-    "interestAmountRaw": 9000,
-    "totalAmountRaw": 159000,
-    "effectiveInterestRate": 6,
-    "interestAmount": 9000,
-    "totalAmount": 159000,
-    "interestRateChangedAt": "2026-07-12T22:00:00.000Z"
-  },
-  {
-    "id": 161287,
-    "firstVersionId": 133651,
-    "oldProductId": 3151666,
-    "name": "Sparekonto med 31 dagers binding",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-07-12T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161287,
-      "bankCompanyId": 62,
-      "productTypeId": 10,
-      "name": "Sparekonto med 31 dagers binding",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-07-13T11:39:16.148Z",
-      "createdBy": "Janne Enlid",
-      "deletedAt": null,
-      "modifiedAt": "2026-07-15T07:38:38.086Z",
-      "modifiedBy": "Janne Enlid",
-      "publishFrom": "2026-07-12T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Beløp mindre enn 500.000  3,50%",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 3.7,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4.25,
-          "thresholdInterestRate": 500000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 3.699999999999992,
-    "interestAmountRaw": 5550,
-    "totalAmountRaw": 155550,
-    "effectiveInterestRate": 3.7,
-    "interestAmount": 5550,
-    "totalAmount": 155550,
-    "interestRateChangedAt": "2026-07-12T22:00:00.000Z"
-  },
-  {
-    "id": 161293,
-    "firstVersionId": 127170,
-    "oldProductId": 212645,
-    "name": "BSU Pluss",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-07-13T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161293,
-      "bankCompanyId": 62,
-      "productTypeId": 10,
-      "name": "BSU Pluss",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-07-14T09:44:19.406Z",
-      "createdBy": "Janne Enlid",
-      "deletedAt": null,
-      "modifiedAt": "2026-07-15T07:38:10.542Z",
-      "modifiedBy": "Janne Enlid",
-      "publishFrom": "2026-07-13T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "BSU Pluss er en konto for deg mellom 15 og 34 år. Lik rente som den ordinære BSU konto. Må brukes til boligformål- like vilkår ved uttak som den ordinære BSU konto. Ingen skattefradrag. Innskudd BSU pluss må ikke overstige 20.000 pr.år- totalt\r\n150.000. Må ha opprettet en BSU konto i Soknedal Sparebank. Er du i den situasjon at du ikke har skattbar inntekt kan BSU pluss benyttes først. 1 måneds oppsigelsestid.",
-      "ageFrom": 15,
-      "ageTo": 33,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 300000,
-      "minimumDeposit": 0,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 6,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 6.000000000000005,
-    "interestAmountRaw": 9000,
-    "totalAmountRaw": 159000,
-    "effectiveInterestRate": 6,
-    "interestAmount": 9000,
-    "totalAmount": 159000,
-    "interestRateChangedAt": "2026-07-13T22:00:00.000Z"
-  },
-  {
     "id": 161310,
     "firstVersionId": 124630,
     "oldProductId": 916697,
@@ -54452,7 +53541,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -54595,7 +53684,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -54735,7 +53824,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -54873,7 +53962,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -57882,7 +56971,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -58035,7 +57124,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -58196,7 +57285,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -61018,7 +60107,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -61161,7 +60250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -61307,7 +60396,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -61450,7 +60539,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -61597,7 +60686,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -62327,7 +61416,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -62505,7 +61594,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -62683,7 +61772,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -62849,7 +61938,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -63023,7 +62112,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:49.830Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:21.429Z",
       "bankCompany": {
         "id": 329,
         "fax": "72 51 66 01",
@@ -64673,7 +63762,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -65657,7 +64746,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -66938,7 +66027,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -72354,248 +71443,6 @@
     "interestRateChangedAt": "2025-12-15T23:00:00.000Z"
   },
   {
-    "id": 161852,
-    "firstVersionId": 139879,
-    "oldProductId": 426889,
-    "name": "Sparekonto",
-    "companyId": 62,
-    "companyName": "Soknedal Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-08-25T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161852,
-      "bankCompanyId": 62,
-      "productTypeId": 10,
-      "name": "Sparekonto",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-08-26T07:39:23.588Z",
-      "createdBy": "Janne Enlid",
-      "deletedAt": null,
-      "modifiedAt": "2026-08-27T06:33:36.525Z",
-      "modifiedBy": "Janne Enlid",
-      "publishFrom": "2026-08-25T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Uttaksgebyr utover 10 uttak pr. kalenderår pr. uttak 2,00%\r\nRente fra første krone",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:02:58.499Z",
-      "bankCompany": {
-        "id": 62,
-        "fax": "72430041",
-        "email": "post@soknedal-sparebank.no",
-        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
-        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
-        "changeBankEmail": "post@soknedal-sparebank.no",
-        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
-        "haggleEmail": "post@soknedal-sparebank.no",
-        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-        "smallLoansUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.soknedal-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 62,
-          "deletedAt": null,
-          "modifiedAt": "2026-06-26T09:58:27.649Z",
-          "createdAt": "2025-10-14T11:13:32.746Z",
-          "slug": "soknedal_sparebank",
-          "organizationNumber": "937902263",
-          "url": "https://www.soknedal-sparebank.no",
-          "name": "Soknedal Sparebank",
-          "addressId": 62,
-          "phone": "72430040",
-          "modifiedBy": "Janne Enlid",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 62,
-                        "fax": "72430041",
-                        "email": "post@soknedal-sparebank.no",
-                        "haggleEmail": "post@soknedal-sparebank.no",
-                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
-                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
-                        "plcRetriggerAt": null,
-                        "changeBankEmail": "post@soknedal-sparebank.no",
-                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
-                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
-                        "marketRegionLoans": "NationWide",
-                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "NationWide",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente fra første krone",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 2.3,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 2.6,
-          "thresholdInterestRate": 50000
-        },
-        {
-          "nominalInterestRate": 2.65,
-          "thresholdInterestRate": 200000
-        },
-        {
-          "nominalInterestRate": 2.7,
-          "thresholdInterestRate": 500000
-        },
-        {
-          "nominalInterestRate": 3.05,
-          "thresholdInterestRate": 1500000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 10,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 2.6000000000000023,
-    "interestAmountRaw": 3900,
-    "totalAmountRaw": 153900,
-    "effectiveInterestRate": 2.6,
-    "interestAmount": 3900,
-    "totalAmount": 153900,
-    "interestRateChangedAt": "2026-07-12T22:00:00.000Z"
-  },
-  {
     "id": 161866,
     "firstVersionId": 121768,
     "oldProductId": 610256,
@@ -72641,7 +71488,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -72788,7 +71635,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -73071,7 +71918,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -73225,7 +72072,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -73382,7 +72229,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -73536,7 +72383,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -74036,7 +72883,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -74193,7 +73040,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -74340,7 +73187,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -74494,7 +73341,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -74662,7 +73509,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -74830,7 +73677,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -75132,7 +73979,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:13:37.616Z",
+      "plcLastCheckedAt": "2026-11-16T17:21:18.556Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -75293,7 +74140,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:13:37.616Z",
+      "plcLastCheckedAt": "2026-11-16T17:21:18.556Z",
       "bankCompany": {
         "id": 35,
         "fax": "",
@@ -81464,7 +80311,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -84522,7 +83369,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -84676,7 +83523,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -88552,7 +87399,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -88702,7 +87549,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -88840,7 +87687,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -92344,7 +91191,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92489,7 +91336,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92627,7 +91474,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92765,7 +91612,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92903,7 +91750,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -93900,7 +92747,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -94049,7 +92896,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -94187,7 +93034,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:14:27.528Z",
+      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -97121,7 +95968,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-26T17:03:03.672Z",
+      "plcLastCheckedAt": "2026-11-16T17:25:32.136Z",
       "bankCompany": {
         "id": 145,
         "fax": "",
@@ -100076,7 +98923,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -100229,7 +99076,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:14:04.304Z",
+      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -102824,149 +101671,6 @@
     "interestAmount": 7800,
     "totalAmount": 157800,
     "interestRateChangedAt": "2026-10-13T22:00:00.000Z"
-  },
-  {
-    "id": 165163,
-    "firstVersionId": 143015,
-    "oldProductId": 3845474,
-    "name": "Plasseringskonto - 31 dager",
-    "companyId": 161,
-    "companyName": "INSTABANK ASA",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-10-14T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165163,
-      "bankCompanyId": 161,
-      "productTypeId": 10,
-      "name": "Plasseringskonto - 31 dager",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-10-15T18:14:53.472Z",
-      "createdBy": "Jørgen",
-      "deletedAt": null,
-      "modifiedAt": "2026-10-16T05:54:18.662Z",
-      "modifiedBy": "Jørgen",
-      "publishFrom": "2026-10-14T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Maksimalt innskudd er 5 millioner.\n\n-Uttak er gebyrfrie ved bestilling 31 dager i forveien. Dette gjør du enkelt i nettbanken\n-Det er kun mulig å ha ett gebyrfritt uttak aktivt om gangen.\n-Hvis du bestiller uttak med kortere varsel enn 31 dager, må du betale et gebyr på 3 % av uttaksbeløpet.\n-Instabank er medlem av Bankenes sikringsfond – og innskudd på inntil 2 millioner kroner er dekket av garantien, eller opp til et ubegrenset beløp dersom midlene står midlertidig på konto og stammer fra salg av bolig, arv, samlivsbrudd eller lignende. ",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:17:42.324Z",
-      "bankCompany": {
-        "id": 161,
-        "fax": "",
-        "email": "kundesenter@instabank.no",
-        "becomeCustomerURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "changeBankEmail": "kundesenter@instabank.no",
-        "contactURL": "https://netbank.instabank.no/#/loan/new?Duration=fleksibel&LoanAmount=150000&TrackingToken=f2645f75-61e0-4c92-9d01-cdf7df31af33",
-        "haggleEmail": "kundesenter@instabank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": [
-          "https://instabank.no/forbrukslan",
-          "https://instabank.no/refinansiering",
-          "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://instabank.no/lan-med-sikkerhet"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://instabank.no/instapay/mastercard"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [],
-        "dailyBankingDailyCheck": false,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://instabank.no/sparekonto",
-          "https://instabank.no/sparekonto-pluss",
-          "https://instabank.no/plasseringskonto"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Instabank er en norsk bank som tilbyr lån til refinansiering og formål, kredittkort og høyrentesparing. Vi dekker hele landet – velkommen til oss.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": "2026-10-22T12:12:32.449Z",
-        "company": {
-          "id": 161,
-          "deletedAt": null,
-          "modifiedAt": "2026-05-07T08:13:16.705Z",
-          "createdAt": "2025-10-14T11:13:33.253Z",
-          "slug": "instabank_asa",
-          "organizationNumber": "816914582",
-          "url": "https://instabank.no/",
-          "name": "INSTABANK ASA",
-          "addressId": 161,
-          "phone": "21 51 93 00",
-          "modifiedBy": "Külli",
-          "leverandorId": null,
-          "activeFrom": "2016-10-20T22:00:00.000Z",
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 2,
-      "requiresCard": false,
-      "maximumDeposit": 5000000,
-      "minimumDeposit": 0,
-      "intervalAccount": "rente pr intervall",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.03,
-          "thresholdInterestRate": 0
-        },
-        {
-          "nominalInterestRate": 4,
-          "thresholdInterestRate": 2000001
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.030000000000001,
-    "interestAmountRaw": 7545,
-    "totalAmountRaw": 157545,
-    "effectiveInterestRate": 5.03,
-    "interestAmount": 7545,
-    "totalAmount": 157545,
-    "interestRateChangedAt": "2026-10-14T22:00:00.000Z"
   },
   {
     "id": 165164,
@@ -106001,7 +104705,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:11:56.785Z",
+      "plcLastCheckedAt": "2026-11-16T17:19:08.135Z",
       "bankCompany": {
         "id": 293,
         "fax": "74312861",
@@ -106717,7 +105421,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -106860,7 +105564,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -107003,7 +105707,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:17:10.541Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -108108,7 +106812,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -108206,149 +106910,6 @@
     "interestRateChangedAt": "2026-10-31T23:00:00.000Z"
   },
   {
-    "id": 165810,
-    "firstVersionId": 141972,
-    "oldProductId": 2049679,
-    "name": "Fastrente - 12 måneder",
-    "companyId": 359,
-    "companyName": "SpareBank 1 Nordmøre",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-10-29T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165810,
-      "bankCompanyId": 359,
-      "productTypeId": 10,
-      "name": "Fastrente - 12 måneder",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-10-30T13:17:13.800Z",
-      "createdBy": "Hans",
-      "deletedAt": null,
-      "modifiedAt": "2026-11-03T14:37:22.598Z",
-      "modifiedBy": "Hans",
-      "publishFrom": "2026-10-29T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "1 års bindingstid. Utløpsdato 1. september 2027. Ved eventuelt uttak i bindingsperioden påløper gebyr på 2% av uttaksbeløpet beregnet fra uttakstidspunktet frem til bindingstidens sluttdato. Uttaksgebyret forfaller umiddelbart til betaling og blir automatisk belastet konto.",
-      "ageFrom": 1,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
-      "bankCompany": {
-        "id": 359,
-        "fax": "",
-        "email": "nordmore@bank.no",
-        "becomeCustomerURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
-        "changeBankURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
-        "changeBankEmail": "nordmore@bank.no",
-        "contactURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
-        "haggleEmail": "nordmore@bank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
-          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
-          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
-          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
-          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
-          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "SpareBank 1 Nordmøre ønsker å være der for deg som kunde i ulike livssituasjoner og kan tilby ulike økonomiske løsninger.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "SpareBank 1 Nordmøre ønsker å være der for deg som kunde i ulike livssituasjoner og kan tilby ulike økonomiske løsninger.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 359,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:34.217Z",
-          "slug": "SpareBank1Nordmore",
-          "organizationNumber": "937899408",
-          "url": "https://www.sparebank1.no/nb/nordvest/privat.html",
-          "name": "SpareBank 1 Nordmøre",
-          "addressId": 359,
-          "phone": "915 03900",
-          "modifiedBy": null,
-          "leverandorId": 259,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 150000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.1,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.099999999999993,
-    "interestAmountRaw": 7650,
-    "totalAmountRaw": 157650,
-    "effectiveInterestRate": 5.1,
-    "interestAmount": 7650,
-    "totalAmount": 157650,
-    "interestRateChangedAt": "2026-10-22T22:00:00.000Z"
-  },
-  {
     "id": 165811,
     "firstVersionId": 112937,
     "oldProductId": 3879164,
@@ -108394,7 +106955,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:16:21.693Z",
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -108537,7 +107098,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T17:00:47.735Z",
+      "plcLastCheckedAt": "2026-11-16T17:01:48.383Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
@@ -108834,7 +107395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:12:25.478Z",
+      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -108977,7 +107538,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -109120,7 +107681,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -109263,7 +107824,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T00:02:24.756Z",
+      "plcLastCheckedAt": "2026-11-17T00:02:48.370Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -109740,7 +108301,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:17:42.324Z",
+      "plcLastCheckedAt": "2026-11-16T17:00:47.728Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -109895,7 +108456,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:17:42.324Z",
+      "plcLastCheckedAt": "2026-11-16T17:00:47.728Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -110043,7 +108604,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-14T17:10:41.314Z",
+      "plcLastCheckedAt": "2026-11-16T17:03:19.380Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -110211,7 +108772,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-15T17:06:55.669Z",
+      "plcLastCheckedAt": "2026-11-16T17:08:25.473Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -111524,144 +110085,6 @@
     "interestRateChangedAt": "2026-11-09T23:00:00.000Z"
   },
   {
-    "id": 165931,
-    "firstVersionId": 135240,
-    "oldProductId": 3566418,
-    "name": "Fastrente innskudd 6 måneder.",
-    "companyId": 314,
-    "companyName": "Agder Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-11-10T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165931,
-      "bankCompanyId": 314,
-      "productTypeId": 10,
-      "name": "Fastrente innskudd 6 måneder.",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-11-11T06:45:46.997Z",
-      "createdBy": "Hugo",
-      "deletedAt": null,
-      "modifiedAt": "2026-11-12T11:04:21.879Z",
-      "modifiedBy": "Hugo",
-      "publishFrom": "2026-11-10T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": false,
-      "otherConditions": "Kapitalisering ved utløp av avtalen. Ved uttak før bindingsperioden utløper, belastes et uttaksgebyr på 2 % av uttaket. Rentesats gjelder fra første krone.  ",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:02.563Z",
-      "bankCompany": {
-        "id": 314,
-        "fax": " ",
-        "email": "post@agdersparebank.no",
-        "becomeCustomerURL": "https://www.agdersparebank.no/bli-kunde",
-        "changeBankURL": "https://www.agdersparebank.no/bli-kunde",
-        "changeBankEmail": "post@agdersparebank.no",
-        "contactURL": "https://www.agdersparebank.no/",
-        "haggleEmail": "post@agdersparebank.no",
-        "securityDepositAmount": "",
-        "depositGuaranteeSchema": "",
-        "smallLoansUrl": [
-          "https://www.agdersparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.agdersparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.agdersparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.agdersparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.agdersparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Agder Sparebank er en lokal og selvstendig bank – etablert 15. august 2022 gjennom fusjonen mellom Østre Agder Sparebank og Arendal og Omegns Sparekasse. Nå har vi også fusjonert med Birkenes Sparebank, og sammen står vi enda sterkere for deg.\n\nHos oss får du alle bank- og forsikringstjenestene du har bruk for - og vi lover å rydde plass til deg - og veilede deg med gode råd etter beste evne.\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Agder Sparebank er en lokal og selvstendig bank – etablert 15. august 2022 gjennom fusjonen mellom Østre Agder Sparebank og Arendal og Omegns Sparekasse. Nå har vi også fusjonert med Birkenes Sparebank, og sammen står vi enda sterkere for deg.\n\nHos oss får du alle bank- og forsikringstjenestene du har bruk for - og vi lover å rydde plass til deg - og veilede deg med gode råd etter beste evne.\n            ",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 314,
-          "deletedAt": null,
-          "modifiedAt": "2025-12-03T10:59:53.384Z",
-          "createdAt": "2025-10-14T11:13:34.000Z",
-          "slug": "agder_sparebank",
-          "organizationNumber": "937894260",
-          "url": "https://www.agdersparebank.no/",
-          "name": "Agder Sparebank",
-          "addressId": 314,
-          "phone": "37 00 49 00",
-          "modifiedBy": "Thomas",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 10000000,
-      "minimumDeposit": 50000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.15,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.15000000000001,
-    "interestAmountRaw": 7725,
-    "totalAmountRaw": 157725,
-    "effectiveInterestRate": 5.15,
-    "interestAmount": 7725,
-    "totalAmount": 157725,
-    "interestRateChangedAt": "2026-11-10T23:00:00.000Z"
-  },
-  {
     "id": 165932,
     "firstVersionId": 165849,
     "oldProductId": null,
@@ -112450,5 +110873,1439 @@
     "interestAmount": 7500,
     "totalAmount": 157500,
     "interestRateChangedAt": "2026-11-11T23:00:00.000Z"
+  },
+  {
+    "id": 165965,
+    "firstVersionId": 135240,
+    "oldProductId": 3566418,
+    "name": "Fastrente innskudd 6 måneder.",
+    "companyId": 314,
+    "companyName": "Agder Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-11T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 165965,
+      "bankCompanyId": 314,
+      "productTypeId": 10,
+      "name": "Fastrente innskudd 6 måneder.",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-12T12:31:55.011Z",
+      "createdBy": "Hugo",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T12:57:14.620Z",
+      "modifiedBy": "Hugo",
+      "publishFrom": "2026-11-11T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Kapitalisering ved utløp av avtalen. Ved uttak før bindingsperioden utløper, belastes et uttaksgebyr på 2 % av uttaket. Rentesats gjelder fra første krone.  ",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "bankCompany": {
+        "id": 314,
+        "fax": " ",
+        "email": "post@agdersparebank.no",
+        "becomeCustomerURL": "https://www.agdersparebank.no/bli-kunde",
+        "changeBankURL": "https://www.agdersparebank.no/bli-kunde",
+        "changeBankEmail": "post@agdersparebank.no",
+        "contactURL": "https://www.agdersparebank.no/",
+        "haggleEmail": "post@agdersparebank.no",
+        "securityDepositAmount": "",
+        "depositGuaranteeSchema": "",
+        "smallLoansUrl": [
+          "https://www.agdersparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.agdersparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.agdersparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.agdersparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.agdersparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Agder Sparebank er en lokal og selvstendig bank – etablert 15. august 2022 gjennom fusjonen mellom Østre Agder Sparebank og Arendal og Omegns Sparekasse. Nå har vi også fusjonert med Birkenes Sparebank, og sammen står vi enda sterkere for deg.\n\nHos oss får du alle bank- og forsikringstjenestene du har bruk for - og vi lover å rydde plass til deg - og veilede deg med gode råd etter beste evne.\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Agder Sparebank er en lokal og selvstendig bank – etablert 15. august 2022 gjennom fusjonen mellom Østre Agder Sparebank og Arendal og Omegns Sparekasse. Nå har vi også fusjonert med Birkenes Sparebank, og sammen står vi enda sterkere for deg.\n\nHos oss får du alle bank- og forsikringstjenestene du har bruk for - og vi lover å rydde plass til deg - og veilede deg med gode råd etter beste evne.\n            ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 314,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-03T10:59:53.384Z",
+          "createdAt": "2025-10-14T11:13:34.000Z",
+          "slug": "agder_sparebank",
+          "organizationNumber": "937894260",
+          "url": "https://www.agdersparebank.no/",
+          "name": "Agder Sparebank",
+          "addressId": 314,
+          "phone": "37 00 49 00",
+          "modifiedBy": "Thomas",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 10000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5.15,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.15000000000001,
+    "interestAmountRaw": 7725,
+    "totalAmountRaw": 157725,
+    "effectiveInterestRate": 5.15,
+    "interestAmount": 7725,
+    "totalAmount": 157725,
+    "interestRateChangedAt": "2026-11-10T23:00:00.000Z"
+  },
+  {
+    "id": 166011,
+    "firstVersionId": 141972,
+    "oldProductId": 2049679,
+    "name": "Fastrente - 12 måneder",
+    "companyId": 359,
+    "companyName": "SpareBank 1 Nordmøre",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166011,
+      "bankCompanyId": 359,
+      "productTypeId": 10,
+      "name": "Fastrente - 12 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T08:22:44.922Z",
+      "createdBy": "Hans",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:03:08.355Z",
+      "modifiedBy": "Hans",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "1 års bindingstid. Utløpsdato 1. september 2027. Ved eventuelt uttak i bindingsperioden påløper gebyr på 2% av uttaksbeløpet beregnet fra uttakstidspunktet frem til bindingstidens sluttdato. Uttaksgebyret forfaller umiddelbart til betaling og blir automatisk belastet konto.",
+      "ageFrom": 1,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:17.516Z",
+      "bankCompany": {
+        "id": 359,
+        "fax": "",
+        "email": "nordmore@bank.no",
+        "becomeCustomerURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
+        "changeBankURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
+        "changeBankEmail": "nordmore@bank.no",
+        "contactURL": "https://www.sparebank1.no/nb/nordvest/privat.html",
+        "haggleEmail": "nordmore@bank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
+          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
+          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
+          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
+          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.sparebank1.no/nb/nordvest/privat/kundeservice/bestill/prisliste.html",
+          "https://www.sparebank1.no/nb/nordvest/privat/lofavor/lofavor-prisliste.html"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "SpareBank 1 Nordmøre ønsker å være der for deg som kunde i ulike livssituasjoner og kan tilby ulike økonomiske løsninger.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "SpareBank 1 Nordmøre ønsker å være der for deg som kunde i ulike livssituasjoner og kan tilby ulike økonomiske løsninger.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 359,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:34.217Z",
+          "slug": "SpareBank1Nordmore",
+          "organizationNumber": "937899408",
+          "url": "https://www.sparebank1.no/nb/nordvest/privat.html",
+          "name": "SpareBank 1 Nordmøre",
+          "addressId": 359,
+          "phone": "915 03900",
+          "modifiedBy": null,
+          "leverandorId": 259,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 150000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5.05,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.049999999999999,
+    "interestAmountRaw": 7575,
+    "totalAmountRaw": 157575,
+    "effectiveInterestRate": 5.05,
+    "interestAmount": 7575,
+    "totalAmount": 157575,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
+  },
+  {
+    "id": 166013,
+    "firstVersionId": 132307,
+    "oldProductId": 5134,
+    "name": "BSU",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166013,
+      "bankCompanyId": 62,
+      "productTypeId": 10,
+      "name": "BSU",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T12:26:15.439Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:04:42.978Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fra 2021 er det kun de som ikke eier bolig som får skattefradrag når de sparer i BSU.",
+      "ageFrom": 13,
+      "ageTo": 33,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 4,
+      "requiresCard": false,
+      "maximumDeposit": 300000,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 6.2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 6.2000000000000055,
+    "interestAmountRaw": 9300,
+    "totalAmountRaw": 159300,
+    "effectiveInterestRate": 6.2,
+    "interestAmount": 9300,
+    "totalAmount": 159300,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
+  },
+  {
+    "id": 166014,
+    "firstVersionId": 127170,
+    "oldProductId": 212645,
+    "name": "BSU Pluss",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166014,
+      "bankCompanyId": 62,
+      "productTypeId": 10,
+      "name": "BSU Pluss",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T12:26:53.123Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:04:53.695Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "BSU Pluss er en konto for deg mellom 15 og 34 år. Lik rente som den ordinære BSU konto. Må brukes til boligformål- like vilkår ved uttak som den ordinære BSU konto. Ingen skattefradrag. Innskudd BSU pluss må ikke overstige 20.000 pr.år- totalt\r\n150.000. Må ha opprettet en BSU konto i Soknedal Sparebank. Er du i den situasjon at du ikke har skattbar inntekt kan BSU pluss benyttes først. 1 måneds oppsigelsestid.",
+      "ageFrom": 15,
+      "ageTo": 33,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 300000,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 6.2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 6.2000000000000055,
+    "interestAmountRaw": 9300,
+    "totalAmountRaw": 159300,
+    "effectiveInterestRate": 6.2,
+    "interestAmount": 9300,
+    "totalAmount": 159300,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
+  },
+  {
+    "id": 166015,
+    "firstVersionId": 135098,
+    "oldProductId": 2368755,
+    "name": "Depositumskonto",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166015,
+      "bankCompanyId": 62,
+      "productTypeId": 10,
+      "name": "Depositumskonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T12:27:23.977Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:05:23.274Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 7,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.5,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "lowestEstablishmentFee": 600,
+      "highestEstablishmentFee": 600,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false,
+      "conditionsForLowestEstablishmentFee": "Etablering",
+      "conditionsForHighestEstablishmentFee": "Etablering"
+    },
+    "effectiveInterestRateRaw": 2.499999999999991,
+    "interestAmountRaw": 3750,
+    "totalAmountRaw": 153750,
+    "effectiveInterestRate": 2.5,
+    "interestAmount": 3750,
+    "totalAmount": 153750,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
+  },
+  {
+    "id": 166016,
+    "firstVersionId": 139879,
+    "oldProductId": 426889,
+    "name": "Sparekonto",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166016,
+      "bankCompanyId": 62,
+      "productTypeId": 10,
+      "name": "Sparekonto",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T12:28:30.639Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:05:56.079Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Uttaksgebyr utover 10 uttak pr. kalenderår pr. uttak 2,00%\r\nRente fra første krone",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente fra første krone",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 2.5,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 2.8,
+          "thresholdInterestRate": 50000
+        },
+        {
+          "nominalInterestRate": 2.85,
+          "thresholdInterestRate": 200000
+        },
+        {
+          "nominalInterestRate": 2.9,
+          "thresholdInterestRate": 500000
+        },
+        {
+          "nominalInterestRate": 3.25,
+          "thresholdInterestRate": 1500000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 10,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 2.8000000000000025,
+    "interestAmountRaw": 4200,
+    "totalAmountRaw": 154200,
+    "effectiveInterestRate": 2.8,
+    "interestAmount": 4200,
+    "totalAmount": 154200,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
+  },
+  {
+    "id": 166019,
+    "firstVersionId": 133651,
+    "oldProductId": 3151666,
+    "name": "Sparekonto med 31 dagers binding",
+    "companyId": 62,
+    "companyName": "Soknedal Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-15T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166019,
+      "bankCompanyId": 62,
+      "productTypeId": 10,
+      "name": "Sparekonto med 31 dagers binding",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-16T12:40:53.493Z",
+      "createdBy": "Janne Enlid",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-16T14:09:38.315Z",
+      "modifiedBy": "Janne Enlid",
+      "publishFrom": "2026-11-15T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Beløp mindre enn 500.000  3,50%",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-16T17:02:30.816Z",
+      "bankCompany": {
+        "id": 62,
+        "fax": "72430041",
+        "email": "post@soknedal-sparebank.no",
+        "becomeCustomerURL": "https://www.soknedal-sparebank.no/bli-kunde",
+        "changeBankURL": "https://www.soknedal-sparebank.no/lan/boliglan/behov",
+        "changeBankEmail": "post@soknedal-sparebank.no",
+        "contactURL": "https://www.soknedal-sparebank.no/kontakt-oss",
+        "haggleEmail": "post@soknedal-sparebank.no",
+        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+        "smallLoansUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.soknedal-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Vi betrakter Trøndelag er vårt markedsområde",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Vi betrakter Trøndelag som vårt markedsområde.",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 62,
+          "deletedAt": null,
+          "modifiedAt": "2026-06-26T09:58:27.649Z",
+          "createdAt": "2025-10-14T11:13:32.746Z",
+          "slug": "soknedal_sparebank",
+          "organizationNumber": "937902263",
+          "url": "https://www.soknedal-sparebank.no",
+          "name": "Soknedal Sparebank",
+          "addressId": 62,
+          "phone": "72430040",
+          "modifiedBy": "Janne Enlid",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 62,
+                        "fax": "72430041",
+                        "email": "post@soknedal-sparebank.no",
+                        "haggleEmail": "post@soknedal-sparebank.no",
+                        "mortgageUrl": "https://www.soknedal-sparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.soknedal-sparebank.no/priser",
+                        "smallLoansUrl": "https://www.soknedal-sparebank.no/priser",
+                        "plcRetriggerAt": null,
+                        "changeBankEmail": "post@soknedal-sparebank.no",
+                        "dailyBankingUrl": "https://www.soknedal-sparebank.no/priser",
+                        "marketRegionInfo": "Vi betrakter hele Norge som vårt markedsområde for boliglån.",
+                        "marketRegionLoans": "NationWide",
+                        "savingsAccountUrl": "https://www.soknedal-sparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "NationWide",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "Innskudd inntil to millioner norske kroner, inklusive opptjente renter, er sikret. Grensen gjelder selv om kunden har flere konti i samme bank.",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Innskuddsgarantiordningen [[http://bankenessikringsfond.no/no/Hoved/Garantien/\r\nBankenes Sikringsfond]]\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Vi betrakter hele Norge som vårt markedsområde.",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 2,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 0,
+      "intervalAccount": "rente pr intervall",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 3.95,
+          "thresholdInterestRate": 0
+        },
+        {
+          "nominalInterestRate": 4.5,
+          "thresholdInterestRate": 500000
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 3.950000000000009,
+    "interestAmountRaw": 5925,
+    "totalAmountRaw": 155925,
+    "effectiveInterestRate": 3.95,
+    "interestAmount": 5925,
+    "totalAmount": 155925,
+    "interestRateChangedAt": "2026-11-15T23:00:00.000Z"
   }
 ]
