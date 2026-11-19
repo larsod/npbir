@@ -1635,7 +1635,7 @@
       "modifiedBy": "Majken",
       "publishFrom": "2026-05-17T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Lånebetingelsene gjelder for kunder som ikke er medlem av KLP. For å motta et uforpliktende tilbud må du registrere deg som bankkunde, og sende inn en søknad på klp.no.\n\nSom boliglånskunde forutsetter vi at du får lønnen din inn på konto hos oss.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -1809,7 +1809,7 @@
       "modifiedBy": "Majken",
       "publishFrom": "2026-05-17T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Lånebetingelsene gjelder for kunder som ikke er medlem av KLP. For å motta et uforpliktende tilbud må du registrere deg som bankkunde, og sende inn en søknad på KLP.no.\n\nSom boliglånskunde forutsetter vi at du får lønnen din inn på konto hos oss. Terminbeløpet trekkes ved automatisk belastning av konto i KLP.",
       "ageFrom": 18,
       "ageTo": 100,
@@ -3608,7 +3608,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:25:57.409Z",
+      "plcLastCheckedAt": "2026-11-18T17:26:13.456Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -4150,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:02:04.526Z",
+      "plcLastCheckedAt": "2026-11-18T17:01:53.600Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -5486,7 +5486,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T04:25:45.649Z",
+      "plcLastCheckedAt": "2026-11-19T04:29:20.788Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -5686,7 +5686,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T04:25:45.649Z",
+      "plcLastCheckedAt": "2026-11-19T04:29:20.788Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -5886,7 +5886,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T04:25:45.649Z",
+      "plcLastCheckedAt": "2026-11-19T04:29:20.788Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -6086,7 +6086,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-13T04:25:45.649Z",
+      "plcLastCheckedAt": "2026-11-19T04:29:20.788Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -7261,7 +7261,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:08:37.550Z",
+      "plcLastCheckedAt": "2026-11-18T17:09:27.867Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -8934,7 +8934,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:15:15.613Z",
+      "plcLastCheckedAt": "2026-11-18T17:17:24.548Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -11399,7 +11399,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-31T00:09:15.406Z",
+      "plcLastCheckedAt": "2026-11-19T00:22:03.078Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -17389,7 +17389,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:30:00.824Z",
+      "plcLastCheckedAt": "2026-11-18T17:30:14.607Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17602,7 +17602,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:30:00.824Z",
+      "plcLastCheckedAt": "2026-11-18T17:30:14.607Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
