@@ -3395,7 +3395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3551,7 +3551,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -22110,7 +22110,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -30934,7 +30934,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31095,7 +31095,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31251,7 +31251,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -46027,7 +46027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -46167,7 +46167,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -47089,7 +47089,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47245,7 +47245,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47389,7 +47389,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47545,7 +47545,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47689,7 +47689,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47833,7 +47833,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:33:05.512Z",
+      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -71778,7 +71778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -72883,7 +72883,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -103629,199 +103629,6 @@
     "interestRateChangedAt": "2026-10-15T22:00:00.000Z"
   },
   {
-    "id": 165303,
-    "firstVersionId": 142884,
-    "oldProductId": 3816284,
-    "name": "Bien Fastrenteinnskudd 6 måneder",
-    "companyId": 349,
-    "companyName": "Bien Sparebank ASA",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-10-18T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165303,
-      "bankCompanyId": 349,
-      "productTypeId": 10,
-      "name": "Bien Fastrenteinnskudd 6 måneder",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-10-19T07:45:24.630Z",
-      "createdBy": "Vildana",
-      "deletedAt": null,
-      "modifiedAt": "2026-10-19T11:21:38.548Z",
-      "modifiedBy": "Vildana",
-      "publishFrom": "2026-10-18T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Minimumsbeløpet er 25.000 kr. Maksbeløp er 2.000.000 kr. Det beregnes p.t. 2 % i uttaksgebyr ved avslutning av avtalen i løpet av bindingsperioden. Rentekapitalisering skjer ved utløp av bindingsperiode.",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
-      "bankCompany": {
-        "id": 349,
-        "fax": "22208833",
-        "email": "post@bien.no",
-        "becomeCustomerURL": "",
-        "changeBankURL": "",
-        "changeBankEmail": "post@bien.no",
-        "contactURL": "",
-        "haggleEmail": "post@bien.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond.",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
-        "smallLoansUrl": [
-          "https://www.bien.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.bien.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.bien.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.bien.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.bien.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Bien Sparebank ASA har Oslo og omegn som sitt markedsområde.",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Bien Sparebank ASA har Oslo og omegn som sitt markedsområde.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 349,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:34.168Z",
-          "slug": "biensparebankas",
-          "organizationNumber": "991853995",
-          "url": "https://www.bien.no/",
-          "name": "Bien Sparebank ASA",
-          "addressId": 349,
-          "phone": "91502436",
-          "modifiedBy": null,
-          "leverandorId": 424,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": false,
-          "validationErrors": [
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "becomeCustomerURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "regex"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "changeBankURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "regex"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "url"
-            },
-            {
-              "code": "invalid_string",
-              "path": [
-                "bankCompany",
-                "contactURL"
-              ],
-              "message": "Ugyldig URL",
-              "validation": "regex"
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 2000000,
-      "minimumDeposit": 25000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.000000000000004,
-    "interestAmountRaw": 7500,
-    "totalAmountRaw": 157500,
-    "effectiveInterestRate": 5,
-    "interestAmount": 7500,
-    "totalAmount": 157500,
-    "interestRateChangedAt": "2026-10-18T22:00:00.000Z"
-  },
-  {
     "id": 165712,
     "firstVersionId": 112423,
     "oldProductId": 2950,
@@ -103867,7 +103674,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -104006,7 +103813,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -104146,7 +103953,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:29:05.458Z",
+      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -106077,144 +105884,6 @@
     "interestRateChangedAt": "2026-10-31T23:00:00.000Z"
   },
   {
-    "id": 165783,
-    "firstVersionId": 142638,
-    "oldProductId": 3843658,
-    "name": "Fastrenteinnskudd 6 mnd",
-    "companyId": 102,
-    "companyName": "Evje og Hornnes Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-10-28T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165783,
-      "bankCompanyId": 102,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 6 mnd",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-10-29T07:28:44.388Z",
-      "createdBy": "Kari",
-      "deletedAt": null,
-      "modifiedAt": "2026-11-03T13:46:33.909Z",
-      "modifiedBy": "Kari",
-      "publishFrom": "2026-10-28T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd er en spareform der du binder pengene dine til en fast rente over en bestemt periode. Innskuddet har bindingstid og du kan velge enten 6 eller 12 måneder. Innskudd minimum kr 100.000. Innskudd maksimum kr 5.000.000. Uttaksgebyr i bindingsperioden er 2 % av uttaksbeløpet",
-      "ageFrom": 18,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
-      "bankCompany": {
-        "id": 102,
-        "fax": "37929201",
-        "email": "post@eh-sparebank.no",
-        "becomeCustomerURL": "http://www.eh-sparebank.no",
-        "changeBankURL": "http://www.eh-sparebank.no",
-        "changeBankEmail": "post@eh-sparebank.no",
-        "contactURL": "http://www.eh-sparebank.no",
-        "haggleEmail": "post@eh-sparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
-        "smallLoansUrl": [
-          "https://www.eh-sparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.eh-sparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.eh-sparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.eh-sparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.eh-sparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 102,
-          "deletedAt": null,
-          "modifiedAt": "2025-12-04T07:16:50.560Z",
-          "createdAt": "2025-10-14T11:13:32.961Z",
-          "slug": "evje_og_hornnes_sparebank",
-          "organizationNumber": "937894171",
-          "url": "https://www.eh-sparebank.no",
-          "name": "Evje og Hornnes Sparebank",
-          "addressId": 102,
-          "phone": "37929200",
-          "modifiedBy": "Kari",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 5000000,
-      "minimumDeposit": 100000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.1,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.099999999999993,
-    "interestAmountRaw": 7650,
-    "totalAmountRaw": 157650,
-    "effectiveInterestRate": 5.1,
-    "interestAmount": 7650,
-    "totalAmount": 157650,
-    "interestRateChangedAt": "2026-10-28T23:00:00.000Z"
-  },
-  {
     "id": 165784,
     "firstVersionId": 142637,
     "oldProductId": 3843665,
@@ -106911,149 +106580,6 @@
       "requiresCard": false,
       "maximumDeposit": 20000000,
       "minimumDeposit": 5000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 5.1,
-          "thresholdInterestRate": 0
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 5.099999999999993,
-    "interestAmountRaw": 7650,
-    "totalAmountRaw": 157650,
-    "effectiveInterestRate": 5.1,
-    "interestAmount": 7650,
-    "totalAmount": 157650,
-    "interestRateChangedAt": "2026-11-01T23:00:00.000Z"
-  },
-  {
-    "id": 165817,
-    "firstVersionId": 114268,
-    "oldProductId": 3785537,
-    "name": "Fastrenteinnskudd 6 måneder",
-    "companyId": 272,
-    "companyName": "Rogaland Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-11-01T23:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 165817,
-      "bankCompanyId": 272,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 6 måneder",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-11-02T11:11:10.071Z",
-      "createdBy": "Mari",
-      "deletedAt": null,
-      "modifiedAt": "2026-11-03T15:27:57.052Z",
-      "modifiedBy": "Mari",
-      "publishFrom": "2026-11-01T23:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Fastrenteinnskudd er for deg som ønsker en garantert rente på sparepengene dine. Renten på våre fastrentetilbud er markedstilpasset til enhver tid, og renten er garantert i den avtalte rentebindingsperioden. Alle dine fordeler med Fastrentinnskudd: Garantert rente fra innskuddstidpsunkt og frem til forfallsdato. Renten legges til ved avtalens utløp. Ved bindingstidens slutt står du fritt til å bruke både innskutt beløp og opptjente renter. Skulle du trenge pengene i avtaleperioden kan du innløse beløpet mot et gebyr som tilsvarer innskuddsrenten minimum kr 1000. Husk: Fastrenteinnskudd gjelder bare engangsinnskudd. Det kan ikke etableres spareavtaler til kontoen.",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
-      "bankCompany": {
-        "id": 272,
-        "fax": "",
-        "email": "kundeservice@rogalandsparebank.no",
-        "becomeCustomerURL": "https://www.sandnes-sparebank.no",
-        "changeBankURL": "https://www.sandnes-sparebank.no",
-        "changeBankEmail": "kundeservice@rogalandsparebank.no",
-        "contactURL": "https://www.sandnes-sparebank.no",
-        "haggleEmail": "kundeservice@rogalandsparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\n Les mer: www.bankenessikringsfond.no ",
-        "smallLoansUrl": [
-          "https://www.rogalandsparebank.no/priser",
-          "https://www.rogalandsparebank.no/lan/bate"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.rogalandsparebank.no/priser",
-          "https://www.rogalandsparebank.no/lan/bate"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.rogalandsparebank.no/priser",
-          "https://www.rogalandsparebank.no/lan/bate"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.rogalandsparebank.no/priser",
-          "https://www.rogalandsparebank.no/lan/bate"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.rogalandsparebank.no/priser",
-          "https://www.rogalandsparebank.no/lan/bate"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "NationWide",
-        "marketRegionInfo": "Sandnes Sparebank er totaltilbyder av banktjenester, inkludert forsikring- og fondsprodukter. Banken har 140 ansatte fordelt på kontorer i Sandnes, Stavanger, Forus og Oslo. Byggelån tilbys kun lokalt og i stor Oslo.",
-        "marketRegionDeposits": "NationWide",
-        "marketRegionDepositsInfo": "Sandnes Sparebank er totaltilbyder av banktjenester, inkludert forsikring- og fondsprodukter. Banken har 140 ansatte fordelt på kontorer i Sandnes, Stavanger, Forus og Oslo. Byggelån tilbys kun lokalt og i stor Oslo.",
-        "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 272,
-          "deletedAt": null,
-          "modifiedAt": null,
-          "createdAt": "2025-10-14T11:13:33.792Z",
-          "slug": "Rogaland_Sparebank",
-          "organizationNumber": "915691161",
-          "url": "https://www.rogalandsparebank.no/",
-          "name": "Rogaland Sparebank",
-          "addressId": 272,
-          "phone": "03260",
-          "modifiedBy": null,
-          "leverandorId": 474,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": null
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 0,
-      "minimumDeposit": 50000,
       "intervalAccount": "nei",
       "intervalAccountData": [
         {
@@ -108025,7 +107551,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:04:56.917Z",
+      "plcLastCheckedAt": "2026-11-22T17:06:30.956Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -108180,7 +107706,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:04:56.917Z",
+      "plcLastCheckedAt": "2026-11-22T17:06:30.956Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -108496,7 +108022,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:11:01.155Z",
+      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -112307,5 +111833,479 @@
     "interestAmount": 9750,
     "totalAmount": 159750,
     "interestRateChangedAt": "2026-10-04T22:00:00.000Z"
+  },
+  {
+    "id": 166478,
+    "firstVersionId": 142884,
+    "oldProductId": 3816284,
+    "name": "Bien Fastrenteinnskudd 6 måneder",
+    "companyId": 349,
+    "companyName": "Bien Sparebank ASA",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-22T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166478,
+      "bankCompanyId": 349,
+      "productTypeId": 10,
+      "name": "Bien Fastrenteinnskudd 6 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-23T07:44:39.341Z",
+      "createdBy": "Vildana",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-23T09:37:19.286Z",
+      "modifiedBy": "Vildana",
+      "publishFrom": "2026-11-22T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Minimumsbeløpet er 25.000 kr. Maksbeløp er 2.000.000 kr. Det beregnes p.t. 2 % i uttaksgebyr ved avslutning av avtalen i løpet av bindingsperioden. Rentekapitalisering skjer ved utløp av bindingsperiode.",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 349,
+        "fax": "22208833",
+        "email": "post@bien.no",
+        "becomeCustomerURL": "",
+        "changeBankURL": "",
+        "changeBankEmail": "post@bien.no",
+        "contactURL": "",
+        "haggleEmail": "post@bien.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond.",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
+        "smallLoansUrl": [
+          "https://www.bien.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.bien.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.bien.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.bien.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.bien.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Bien Sparebank ASA har Oslo og omegn som sitt markedsområde.",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Bien Sparebank ASA har Oslo og omegn som sitt markedsområde.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 349,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:34.168Z",
+          "slug": "biensparebankas",
+          "organizationNumber": "991853995",
+          "url": "https://www.bien.no/",
+          "name": "Bien Sparebank ASA",
+          "addressId": 349,
+          "phone": "91502436",
+          "modifiedBy": null,
+          "leverandorId": 424,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": false,
+          "validationErrors": [
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "becomeCustomerURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "changeBankURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "url"
+            },
+            {
+              "code": "invalid_string",
+              "path": [
+                "bankCompany",
+                "contactURL"
+              ],
+              "message": "Ugyldig URL",
+              "validation": "regex"
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 2000000,
+      "minimumDeposit": 25000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5.05,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.049999999999999,
+    "interestAmountRaw": 7575,
+    "totalAmountRaw": 157575,
+    "effectiveInterestRate": 5.05,
+    "interestAmount": 7575,
+    "totalAmount": 157575,
+    "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
+  },
+  {
+    "id": 166486,
+    "firstVersionId": 142638,
+    "oldProductId": 3843658,
+    "name": "Fastrenteinnskudd 6 mnd",
+    "companyId": 102,
+    "companyName": "Evje og Hornnes Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-22T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166486,
+      "bankCompanyId": 102,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 6 mnd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-23T09:46:43.440Z",
+      "createdBy": "Kari",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-23T09:55:53.448Z",
+      "modifiedBy": "Kari",
+      "publishFrom": "2026-11-22T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fastrenteinnskudd er en spareform der du binder pengene dine til en fast rente over en bestemt periode. Innskuddet har bindingstid og du kan velge enten 6 eller 12 måneder. Innskudd minimum kr 100.000. Innskudd maksimum kr 5.000.000. Uttaksgebyr i bindingsperioden er 2 % av uttaksbeløpet",
+      "ageFrom": 18,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 102,
+        "fax": "37929201",
+        "email": "post@eh-sparebank.no",
+        "becomeCustomerURL": "http://www.eh-sparebank.no",
+        "changeBankURL": "http://www.eh-sparebank.no",
+        "changeBankEmail": "post@eh-sparebank.no",
+        "contactURL": "http://www.eh-sparebank.no",
+        "haggleEmail": "post@eh-sparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no \r\n",
+        "smallLoansUrl": [
+          "https://www.eh-sparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.eh-sparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.eh-sparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.eh-sparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.eh-sparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Banken driver tradisjonell bankvirksomhet, og vi ønsker at Evje og Hornnes Sparebank blir det naturlige førstevalg for personkunder, små og mellomstore bedrifter, primærnæringer, offentlig sektor, institusjoner, lag og foreninger i vårt distrikt. Vi ønsker også å beholde og betjene de kunder som av ulike årsaker flytter fra bygda.\r\n            ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 102,
+          "deletedAt": null,
+          "modifiedAt": "2025-12-04T07:16:50.560Z",
+          "createdAt": "2025-10-14T11:13:32.961Z",
+          "slug": "evje_og_hornnes_sparebank",
+          "organizationNumber": "937894171",
+          "url": "https://www.eh-sparebank.no",
+          "name": "Evje og Hornnes Sparebank",
+          "addressId": 102,
+          "phone": "37929200",
+          "modifiedBy": "Kari",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 5000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5.2,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.200000000000005,
+    "interestAmountRaw": 7800,
+    "totalAmountRaw": 157800,
+    "effectiveInterestRate": 5.2,
+    "interestAmount": 7800,
+    "totalAmount": 157800,
+    "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
+  },
+  {
+    "id": 166487,
+    "firstVersionId": 114268,
+    "oldProductId": 3785537,
+    "name": "Fastrenteinnskudd 6 måneder",
+    "companyId": 272,
+    "companyName": "Rogaland Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-22T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166487,
+      "bankCompanyId": 272,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 6 måneder",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-23T10:38:53.988Z",
+      "createdBy": "Mari",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-23T11:00:56.153Z",
+      "modifiedBy": "Mari",
+      "publishFrom": "2026-11-22T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Fastrenteinnskudd er for deg som ønsker en garantert rente på sparepengene dine. Renten på våre fastrentetilbud er markedstilpasset til enhver tid, og renten er garantert i den avtalte rentebindingsperioden. Alle dine fordeler med Fastrentinnskudd: Garantert rente fra innskuddstidpsunkt og frem til forfallsdato. Renten legges til ved avtalens utløp. Ved bindingstidens slutt står du fritt til å bruke både innskutt beløp og opptjente renter. Skulle du trenge pengene i avtaleperioden kan du innløse beløpet mot et gebyr som tilsvarer innskuddsrenten minimum kr 1000. Husk: Fastrenteinnskudd gjelder bare engangsinnskudd. Det kan ikke etableres spareavtaler til kontoen.",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": null,
+      "bankCompany": {
+        "id": 272,
+        "fax": "",
+        "email": "kundeservice@rogalandsparebank.no",
+        "becomeCustomerURL": "https://www.sandnes-sparebank.no",
+        "changeBankURL": "https://www.sandnes-sparebank.no",
+        "changeBankEmail": "kundeservice@rogalandsparebank.no",
+        "contactURL": "https://www.sandnes-sparebank.no",
+        "haggleEmail": "kundeservice@rogalandsparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\n Les mer: www.bankenessikringsfond.no ",
+        "smallLoansUrl": [
+          "https://www.rogalandsparebank.no/priser",
+          "https://www.rogalandsparebank.no/lan/bate"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.rogalandsparebank.no/priser",
+          "https://www.rogalandsparebank.no/lan/bate"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.rogalandsparebank.no/priser",
+          "https://www.rogalandsparebank.no/lan/bate"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.rogalandsparebank.no/priser",
+          "https://www.rogalandsparebank.no/lan/bate"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.rogalandsparebank.no/priser",
+          "https://www.rogalandsparebank.no/lan/bate"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "NationWide",
+        "marketRegionInfo": "Sandnes Sparebank er totaltilbyder av banktjenester, inkludert forsikring- og fondsprodukter. Banken har 140 ansatte fordelt på kontorer i Sandnes, Stavanger, Forus og Oslo. Byggelån tilbys kun lokalt og i stor Oslo.",
+        "marketRegionDeposits": "NationWide",
+        "marketRegionDepositsInfo": "Sandnes Sparebank er totaltilbyder av banktjenester, inkludert forsikring- og fondsprodukter. Banken har 140 ansatte fordelt på kontorer i Sandnes, Stavanger, Forus og Oslo. Byggelån tilbys kun lokalt og i stor Oslo.",
+        "bankHasOwnATM": false,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 272,
+          "deletedAt": null,
+          "modifiedAt": null,
+          "createdAt": "2025-10-14T11:13:33.792Z",
+          "slug": "Rogaland_Sparebank",
+          "organizationNumber": "915691161",
+          "url": "https://www.rogalandsparebank.no/",
+          "name": "Rogaland Sparebank",
+          "addressId": 272,
+          "phone": "03260",
+          "modifiedBy": null,
+          "leverandorId": 474,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": null
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 0,
+      "minimumDeposit": 50000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.000000000000004,
+    "interestAmountRaw": 7500,
+    "totalAmountRaw": 157500,
+    "effectiveInterestRate": 5,
+    "interestAmount": 7500,
+    "totalAmount": 157500,
+    "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
   }
 ]
