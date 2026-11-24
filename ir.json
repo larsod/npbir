@@ -1455,7 +1455,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -2737,7 +2737,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -3395,7 +3395,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3438,8 +3438,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -3460,7 +3461,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -3468,7 +3469,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -3551,7 +3552,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -3594,8 +3595,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -3616,7 +3618,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -3624,7 +3626,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -4439,7 +4441,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -4579,7 +4581,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -5250,7 +5252,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -5706,7 +5708,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -5850,7 +5852,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -6989,7 +6991,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T04:30:33.264Z",
+      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -14819,7 +14821,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -15417,7 +15419,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -15974,7 +15976,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -19394,7 +19396,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:16:47.595Z",
+      "plcLastCheckedAt": "2026-11-23T17:18:39.917Z",
       "bankCompany": {
         "id": 265,
         "fax": "",
@@ -19531,7 +19533,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -19675,7 +19677,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -20783,7 +20785,7 @@
       "modifiedBy": "Diana",
       "publishFrom": "2026-03-24T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "• Effective for new accounts: 2026-03-25\t\n• Effective for existing accounts: 2026-05-25\t\n\n",
       "ageFrom": 18,
       "ageTo": 100,
@@ -21628,7 +21630,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -22110,7 +22112,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -22482,7 +22484,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -22708,7 +22710,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -24480,7 +24482,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -24983,7 +24985,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:02:50.525Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:28.137Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -29836,7 +29838,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -30934,7 +30936,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -30977,8 +30979,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -30999,7 +31002,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -31007,7 +31010,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -31095,7 +31098,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31138,8 +31141,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -31160,7 +31164,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -31168,7 +31172,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -31251,7 +31255,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -31294,8 +31298,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -31316,7 +31321,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -31324,7 +31329,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -33999,7 +34004,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -34151,7 +34156,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -34294,7 +34299,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -34440,7 +34445,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -34583,7 +34588,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -38773,7 +38778,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:02:50.525Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:28.137Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -38941,7 +38946,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:02:50.525Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:28.137Z",
       "bankCompany": {
         "id": 36,
         "fax": "24102701",
@@ -39930,7 +39935,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40118,7 +40123,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40302,7 +40307,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40470,7 +40475,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -40654,7 +40659,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -44018,7 +44023,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44160,7 +44165,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44307,7 +44312,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44450,7 +44455,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44593,7 +44598,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44740,7 +44745,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -44887,7 +44892,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -45029,7 +45034,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -46027,7 +46032,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -46167,7 +46172,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -47089,7 +47094,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47245,7 +47250,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47389,7 +47394,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47545,7 +47550,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47689,7 +47694,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -47833,7 +47838,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:33:32.312Z",
+      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -51132,7 +51137,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -51270,7 +51275,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -51408,7 +51413,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -51546,7 +51551,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51689,7 +51694,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51835,7 +51840,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -51977,7 +51982,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -54392,7 +54397,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -54542,7 +54547,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -54686,7 +54691,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -56259,7 +56264,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -56408,7 +56413,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -56550,7 +56555,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -56688,7 +56693,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -56834,7 +56839,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -57442,7 +57447,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T04:30:33.264Z",
+      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -59480,7 +59485,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -60107,7 +60112,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -60250,7 +60255,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -60396,7 +60401,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -60539,7 +60544,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -60686,7 +60691,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -63762,7 +63767,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -67039,7 +67044,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -67263,7 +67268,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -67503,7 +67508,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -70095,456 +70100,6 @@
     "interestRateChangedAt": "2026-08-18T22:00:00.000Z"
   },
   {
-    "id": 161785,
-    "firstVersionId": 119535,
-    "oldProductId": 849754,
-    "name": "Fastrenteinnskudd 6 mnd ",
-    "companyId": 235,
-    "companyName": "Jæren Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-08-18T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161785,
-      "bankCompanyId": 235,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 6 mnd ",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-08-19T12:55:45.634Z",
-      "createdBy": "Anne Birgit",
-      "deletedAt": null,
-      "modifiedAt": "2026-08-20T07:03:49.342Z",
-      "modifiedBy": "Anne Birgit",
-      "publishFrom": "2026-08-18T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "Minimumsinnskudd er kr 100.000,-. Maks innskudd er kr 3.000.000,- Uttak i bindingsperioden belastes med et gebyr på 4% av uttakssummen. ",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
-      "bankCompany": {
-        "id": 235,
-        "fax": "",
-        "email": "post@jaerensparebank.no",
-        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankEmail": "post@jaerensparebank.no",
-        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
-        "haggleEmail": "post@jaerensparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 235,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-25T08:56:07.797Z",
-          "createdAt": "2025-10-14T11:13:33.612Z",
-          "slug": "jæren_sparebank",
-          "organizationNumber": "937895976",
-          "url": "https://www.jaerensparebank.no",
-          "name": "Jæren Sparebank",
-          "addressId": 235,
-          "phone": "915 03290",
-          "modifiedBy": "Anne Birgit",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 235,
-                        "fax": "",
-                        "email": "post@jaerensparebank.no",
-                        "haggleEmail": "post@jaerensparebank.no",
-                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
-                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
-                        "changeBankEmail": "post@jaerensparebank.no",
-                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
-                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 3000000,
-      "minimumDeposit": 100000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.75,
-          "thresholdInterestRate": 100000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.75000000000001,
-    "interestAmountRaw": 7125,
-    "totalAmountRaw": 157125,
-    "effectiveInterestRate": 4.75,
-    "interestAmount": 7125,
-    "totalAmount": 157125,
-    "interestRateChangedAt": "2026-08-18T22:00:00.000Z"
-  },
-  {
-    "id": 161786,
-    "firstVersionId": 138586,
-    "oldProductId": 161985,
-    "name": "Fastrenteinnskudd 12 mnd",
-    "companyId": 235,
-    "companyName": "Jæren Sparebank",
-    "isPackageRequired": false,
-    "isSpecificPackageOrCustomerProgramRequired": false,
-    "isMembershipRequired": false,
-    "validFrom": "2026-08-18T22:00:00.000Z",
-    "product": {
-      "status": "approved",
-      "packageList": [],
-      "membershipList": [],
-      "packages": [],
-      "memberships": [],
-      "id": 161786,
-      "bankCompanyId": 235,
-      "productTypeId": 10,
-      "name": "Fastrenteinnskudd 12 mnd",
-      "isPackageRequired": false,
-      "isSpecificPackageOrCustomerProgramRequired": null,
-      "isMembershipRequired": false,
-      "isSalaryRequired": false,
-      "isCurrentVersion": true,
-      "createdAt": "2026-08-19T12:56:09.683Z",
-      "createdBy": "Anne Birgit",
-      "deletedAt": null,
-      "modifiedAt": "2026-08-20T07:03:42.309Z",
-      "modifiedBy": "Anne Birgit",
-      "publishFrom": "2026-08-18T22:00:00.000Z",
-      "publishTo": null,
-      "isLatestVersion": true,
-      "otherConditions": "På et fastrenteinnskudd bindes renten for en avtalt periode. Minimumsinnskudd er kroner 100.000,- Vilkårene for fastrenteinnskudd gjelder for innskudd opp til 5 millioner. For beløp over dette gjelder særskilte vilkår. Uttaksgebyret er 4%",
-      "ageFrom": 0,
-      "ageTo": 100,
-      "isPensionRequired": false,
-      "isStudentRequired": false,
-      "markedAsHistoric": true,
-      "markedAsArchived": false,
-      "archivedTo": null,
-      "parentProductId": null,
-      "requiresProductTypes": [],
-      "hideParentProduct": false,
-      "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
-      "bankCompany": {
-        "id": 235,
-        "fax": "",
-        "email": "post@jaerensparebank.no",
-        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
-        "changeBankEmail": "post@jaerensparebank.no",
-        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
-        "haggleEmail": "post@jaerensparebank.no",
-        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-        "smallLoansUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
-        "mortgageUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "mortgageDailyCheck": true,
-        "mortgageDynamicPage": false,
-        "creditcardUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "creditcardDailyCheck": true,
-        "creditcardDynamicPage": false,
-        "dailyBankingUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "dailyBankingDailyCheck": true,
-        "dailyBankingDynamicPage": false,
-        "savingsAccountUrl": [
-          "https://www.jaerensparebank.no/priser"
-        ],
-        "savingsAccountDailyCheck": true,
-        "savingsAccountDynamicPage": false,
-        "marketRegionLoans": "Local",
-        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "marketRegionDeposits": "Local",
-        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-        "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
-        "company": {
-          "id": 235,
-          "deletedAt": null,
-          "modifiedAt": "2026-03-25T08:56:07.797Z",
-          "createdAt": "2025-10-14T11:13:33.612Z",
-          "slug": "jæren_sparebank",
-          "organizationNumber": "937895976",
-          "url": "https://www.jaerensparebank.no",
-          "name": "Jæren Sparebank",
-          "addressId": 235,
-          "phone": "915 03290",
-          "modifiedBy": "Anne Birgit",
-          "leverandorId": null,
-          "activeFrom": null,
-          "activeTo": null,
-          "autoAcceptChanges": false,
-          "validated": true,
-          "validationErrors": [
-            {
-              "code": "invalid_union",
-              "path": [
-                "bankCompany"
-              ],
-              "message": "Invalid input",
-              "unionErrors": [
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_literal",
-                      "path": [
-                        "bankCompany"
-                      ],
-                      "message": "Invalid literal value, expected false",
-                      "expected": false,
-                      "received": {
-                        "id": 235,
-                        "fax": "",
-                        "email": "post@jaerensparebank.no",
-                        "haggleEmail": "post@jaerensparebank.no",
-                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
-                        "bankHasOwnATM": false,
-                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
-                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
-                        "changeBankEmail": "post@jaerensparebank.no",
-                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
-                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "marketRegionLoans": "Local",
-                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
-                        "mortgageDailyCheck": true,
-                        "mortgageDynamicPage": false,
-                        "creditcardDailyCheck": true,
-                        "marketRegionDeposits": "Local",
-                        "smallLoansDailyCheck": true,
-                        "creditcardDynamicPage": false,
-                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
-                        "smallLoansDynamicPage": false,
-                        "dailyBankingDailyCheck": true,
-                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
-                        "dailyBankingDynamicPage": false,
-                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
-                        "savingsAccountDailyCheck": true,
-                        "savingsAccountDynamicPage": false
-                      }
-                    }
-                  ]
-                },
-                {
-                  "name": "ZodError",
-                  "issues": [
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "becomeCustomerURL"
-                      ],
-                      "message": "Bli kunde URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "changeBankURL"
-                      ],
-                      "message": "Bytte bank URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    },
-                    {
-                      "code": "invalid_type",
-                      "path": [
-                        "bankCompany",
-                        "contactURL"
-                      ],
-                      "message": "Kontakt URL er påkrevd",
-                      "expected": "string",
-                      "received": "undefined"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "productType": {
-        "id": 10,
-        "name": "Bankinnskudd",
-        "category": "bank"
-      },
-      "type": "DepositAccount",
-      "accountType": 8,
-      "requiresCard": false,
-      "maximumDeposit": 5000000,
-      "minimumDeposit": 100000,
-      "intervalAccount": "nei",
-      "intervalAccountData": [
-        {
-          "nominalInterestRate": 4.65,
-          "thresholdInterestRate": 100000
-        }
-      ],
-      "capitalizationPeriod": 12,
-      "numberOfFreeWithdrawalsPerYear": 0,
-      "requiresMonthlySavingsAgreement": false
-    },
-    "effectiveInterestRateRaw": 4.649999999999999,
-    "interestAmountRaw": 6975,
-    "totalAmountRaw": 156975,
-    "effectiveInterestRate": 4.65,
-    "interestAmount": 6975,
-    "totalAmount": 156975,
-    "interestRateChangedAt": "2026-08-18T22:00:00.000Z"
-  },
-  {
     "id": 161792,
     "firstVersionId": 124053,
     "oldProductId": 1100296,
@@ -70593,7 +70148,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -71778,7 +71333,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -72883,7 +72438,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -72926,8 +72481,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -72948,7 +72504,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -72956,7 +72512,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -73040,7 +72596,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -73341,7 +72897,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -73509,7 +73065,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -73677,7 +73233,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -75858,7 +75414,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -76000,7 +75556,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -76141,7 +75697,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -76283,7 +75839,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -76424,7 +75980,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -77520,7 +77076,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -77688,7 +77244,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:49.875Z",
+      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -77826,7 +77382,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -78030,7 +77586,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -78227,7 +77783,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -78420,7 +77976,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -78613,7 +78169,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -78781,7 +78337,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -78957,7 +78513,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -79128,7 +78684,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -81315,7 +80871,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -81628,7 +81184,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:04:39.732Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:34.581Z",
       "bankCompany": {
         "id": 38,
         "fax": "62971171",
@@ -86926,7 +86482,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:05:22.790Z",
+      "plcLastCheckedAt": "2026-11-23T17:20:19.310Z",
       "bankCompany": {
         "id": 334,
         "fax": "",
@@ -88546,7 +88102,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:00:23.982Z",
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -89750,7 +89306,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:04:16.592Z",
+      "plcLastCheckedAt": "2026-11-23T17:04:51.406Z",
       "bankCompany": {
         "id": 88,
         "fax": "32087021",
@@ -90915,7 +90471,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -91060,7 +90616,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -91198,7 +90754,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -91336,7 +90892,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -91474,7 +91030,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -92471,7 +92027,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -98023,7 +97579,7 @@
       "modifiedBy": "jens",
       "publishFrom": "2026-10-07T22:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Fastrenteinnskudd gir deg en fast attraktiv rente på ditt innskudd, idet du binder pengene og renten for en gitt periode. Velger du et fastrenteinnskudd, har du full forutsigbarhet på avkastningen i den avtalte spareperioden. Du vet på forhånd hvor stort sparebeløpet vil være ved avtalens utløp. Mange verdsetter denne egenskapen. Vi tilbyr deg en god rente og du som kunde forplikter deg til å la dine penger stå i banken i en avtalt periode. Har du sparepenger du kan ”glemme” i en periode, får du en god rente hos oss. Minimumsinnskudd kr 50 000,-, maksimum kr 10 000 000,-. Ved uttak før forfall beregnes det et gebyr på 3,0% av uttaksbeløpet for den gjenværende løpetiden.",
       "ageFrom": 0,
       "ageTo": 100,
@@ -98953,7 +98509,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:28:22.594Z",
+      "plcLastCheckedAt": "2026-11-23T17:31:33.576Z",
       "bankCompany": {
         "id": 90,
         "fax": "",
@@ -99793,7 +99349,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:03:20.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -100273,7 +99829,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:22:15.513Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
       "bankCompany": {
         "id": 235,
         "fax": "",
@@ -101442,7 +100998,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-09T17:05:22.790Z",
+      "plcLastCheckedAt": "2026-11-23T17:20:19.310Z",
       "bankCompany": {
         "id": 334,
         "fax": "",
@@ -103674,7 +103230,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -103813,7 +103369,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -103953,7 +103509,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:29:43.657Z",
+      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -104952,7 +104508,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -105095,7 +104651,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -105238,7 +104794,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:03:03.884Z",
+      "plcLastCheckedAt": "2026-11-23T17:09:14.109Z",
       "bankCompany": {
         "id": 150,
         "fax": "57829701",
@@ -105929,7 +105485,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -106067,7 +105623,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:00:55.338Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -106205,7 +105761,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -106645,7 +106201,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:56.473Z",
+      "plcLastCheckedAt": "2026-11-23T17:01:04.256Z",
       "bankCompany": {
         "id": 280,
         "fax": "32023901",
@@ -106788,7 +106344,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -106931,7 +106487,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -107074,7 +106630,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-18T00:03:44.455Z",
+      "plcLastCheckedAt": "2026-11-24T00:07:01.810Z",
       "bankCompany": {
         "id": 299,
         "fax": "61218001",
@@ -107551,7 +107107,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:06:30.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:06:24.895Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -107706,7 +107262,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:06:30.956Z",
+      "plcLastCheckedAt": "2026-11-23T17:06:24.895Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -107854,7 +107410,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-21T17:07:26.208Z",
+      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -108022,7 +107578,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-22T17:12:37.212Z",
+      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -108065,8 +107621,9 @@
         "dailyBankingUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-barne-og-ungdomskort",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
-          "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-99043",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -108087,7 +107644,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-08-31T08:57:19.792Z",
+          "modifiedAt": "2026-11-23T13:42:02.024Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -108095,7 +107652,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Erik",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -108876,7 +108433,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -109044,7 +108601,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -109212,7 +108769,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:54.783Z",
+      "plcLastCheckedAt": "2026-11-23T17:05:31.004Z",
       "bankCompany": {
         "id": 277,
         "fax": "",
@@ -109681,7 +109238,7 @@
       "modifiedBy": "jens",
       "publishFrom": "2026-11-09T23:00:00.000Z",
       "publishTo": null,
-      "isLatestVersion": true,
+      "isLatestVersion": false,
       "otherConditions": "Fastrenteinnskudd gir deg en fast attraktiv rente på ditt innskudd, idet du binder pengene og renten for en gitt periode. Velger du et fastrenteinnskudd, har du full forutsigbarhet på avkastningen i den avtalte spareperioden. Du vet på forhånd hvor stort sparebeløpet vil være ved avtalens utløp. Mange verdsetter denne egenskapen. Vi tilbyr deg en god rente og du som kunde forplikter deg til å la dine penger stå i banken i en avtalt periode. Har du sparepenger du kan ”glemme” i en periode, får du en god rente hos oss. Minimumsinnskudd kr 50 000,-, maksimum kr 10 000 000,-. Ved uttak før forfall beregnes det et gebyr på 3,0% av uttaksbeløpet for den gjenværende løpetiden.",
       "ageFrom": 0,
       "ageTo": 100,
@@ -110170,7 +109727,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:01:15.369Z",
+      "plcLastCheckedAt": "2026-11-23T17:08:23.404Z",
       "bankCompany": {
         "id": 314,
         "fax": " ",
@@ -111880,7 +111437,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-11-23T17:01:18.143Z",
       "bankCompany": {
         "id": 349,
         "fax": "22208833",
@@ -112073,7 +111630,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-11-23T17:01:55.256Z",
       "bankCompany": {
         "id": 102,
         "fax": "37929201",
@@ -112211,7 +111768,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": null,
+      "plcLastCheckedAt": "2026-11-23T17:02:18.363Z",
       "bankCompany": {
         "id": 272,
         "fax": "",
@@ -112306,6 +111863,456 @@
     "effectiveInterestRate": 5,
     "interestAmount": 7500,
     "totalAmount": 157500,
+    "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
+  },
+  {
+    "id": 166497,
+    "firstVersionId": 119535,
+    "oldProductId": 849754,
+    "name": "Fastrenteinnskudd 6 mnd ",
+    "companyId": 235,
+    "companyName": "Jæren Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-22T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166497,
+      "bankCompanyId": 235,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 6 mnd ",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-23T13:48:33.589Z",
+      "createdBy": "Anne Birgit",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-23T16:03:13.692Z",
+      "modifiedBy": "Anne Birgit",
+      "publishFrom": "2026-11-22T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "Minimumsinnskudd er kr 100.000,-. Maks innskudd er kr 3.000.000,- Uttak i bindingsperioden belastes med et gebyr på 4% av uttakssummen. ",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
+      "bankCompany": {
+        "id": 235,
+        "fax": "",
+        "email": "post@jaerensparebank.no",
+        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankEmail": "post@jaerensparebank.no",
+        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
+        "haggleEmail": "post@jaerensparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 235,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-25T08:56:07.797Z",
+          "createdAt": "2025-10-14T11:13:33.612Z",
+          "slug": "jæren_sparebank",
+          "organizationNumber": "937895976",
+          "url": "https://www.jaerensparebank.no",
+          "name": "Jæren Sparebank",
+          "addressId": 235,
+          "phone": "915 03290",
+          "modifiedBy": "Anne Birgit",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 235,
+                        "fax": "",
+                        "email": "post@jaerensparebank.no",
+                        "haggleEmail": "post@jaerensparebank.no",
+                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
+                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
+                        "changeBankEmail": "post@jaerensparebank.no",
+                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
+                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 3000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 5,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 5.000000000000004,
+    "interestAmountRaw": 7500,
+    "totalAmountRaw": 157500,
+    "effectiveInterestRate": 5,
+    "interestAmount": 7500,
+    "totalAmount": 157500,
+    "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
+  },
+  {
+    "id": 166498,
+    "firstVersionId": 138586,
+    "oldProductId": 161985,
+    "name": "Fastrenteinnskudd 12 mnd",
+    "companyId": 235,
+    "companyName": "Jæren Sparebank",
+    "isPackageRequired": false,
+    "isSpecificPackageOrCustomerProgramRequired": false,
+    "isMembershipRequired": false,
+    "validFrom": "2026-11-22T23:00:00.000Z",
+    "product": {
+      "status": "approved",
+      "packageList": [],
+      "membershipList": [],
+      "packages": [],
+      "memberships": [],
+      "id": 166498,
+      "bankCompanyId": 235,
+      "productTypeId": 10,
+      "name": "Fastrenteinnskudd 12 mnd",
+      "isPackageRequired": false,
+      "isSpecificPackageOrCustomerProgramRequired": null,
+      "isMembershipRequired": false,
+      "isSalaryRequired": false,
+      "isCurrentVersion": true,
+      "createdAt": "2026-11-23T13:49:41.931Z",
+      "createdBy": "Anne Birgit",
+      "deletedAt": null,
+      "modifiedAt": "2026-11-23T16:03:25.967Z",
+      "modifiedBy": "Anne Birgit",
+      "publishFrom": "2026-11-22T23:00:00.000Z",
+      "publishTo": null,
+      "isLatestVersion": true,
+      "otherConditions": "På et fastrenteinnskudd bindes renten for en avtalt periode. Minimumsinnskudd er kroner 100.000,- Vilkårene for fastrenteinnskudd gjelder for innskudd opp til 5 millioner. For beløp over dette gjelder særskilte vilkår. Uttaksgebyret er 4%",
+      "ageFrom": 0,
+      "ageTo": 100,
+      "isPensionRequired": false,
+      "isStudentRequired": false,
+      "markedAsHistoric": true,
+      "markedAsArchived": false,
+      "archivedTo": null,
+      "parentProductId": null,
+      "requiresProductTypes": [],
+      "hideParentProduct": false,
+      "validationErrors": null,
+      "plcLastCheckedAt": "2026-11-23T17:05:11.689Z",
+      "bankCompany": {
+        "id": 235,
+        "fax": "",
+        "email": "post@jaerensparebank.no",
+        "becomeCustomerURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankURL": "https://www.jaerensparebank.no/bli-kunde",
+        "changeBankEmail": "post@jaerensparebank.no",
+        "contactURL": "https://www.jaerensparebank.no/kontakt-oss",
+        "haggleEmail": "post@jaerensparebank.no",
+        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+        "smallLoansUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "smallLoansDailyCheck": true,
+        "smallLoansDynamicPage": false,
+        "mortgageUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "mortgageDailyCheck": true,
+        "mortgageDynamicPage": false,
+        "creditcardUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "creditcardDailyCheck": true,
+        "creditcardDynamicPage": false,
+        "dailyBankingUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "dailyBankingDailyCheck": true,
+        "dailyBankingDynamicPage": false,
+        "savingsAccountUrl": [
+          "https://www.jaerensparebank.no/priser"
+        ],
+        "savingsAccountDailyCheck": true,
+        "savingsAccountDynamicPage": false,
+        "marketRegionLoans": "Local",
+        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "marketRegionDeposits": "Local",
+        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+        "bankHasOwnATM": true,
+        "plcRetriggerAt": null,
+        "company": {
+          "id": 235,
+          "deletedAt": null,
+          "modifiedAt": "2026-03-25T08:56:07.797Z",
+          "createdAt": "2025-10-14T11:13:33.612Z",
+          "slug": "jæren_sparebank",
+          "organizationNumber": "937895976",
+          "url": "https://www.jaerensparebank.no",
+          "name": "Jæren Sparebank",
+          "addressId": 235,
+          "phone": "915 03290",
+          "modifiedBy": "Anne Birgit",
+          "leverandorId": null,
+          "activeFrom": null,
+          "activeTo": null,
+          "autoAcceptChanges": false,
+          "validated": true,
+          "validationErrors": [
+            {
+              "code": "invalid_union",
+              "path": [
+                "bankCompany"
+              ],
+              "message": "Invalid input",
+              "unionErrors": [
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_literal",
+                      "path": [
+                        "bankCompany"
+                      ],
+                      "message": "Invalid literal value, expected false",
+                      "expected": false,
+                      "received": {
+                        "id": 235,
+                        "fax": "",
+                        "email": "post@jaerensparebank.no",
+                        "haggleEmail": "post@jaerensparebank.no",
+                        "mortgageUrl": "https://www.jaerensparebank.no/priser",
+                        "bankHasOwnATM": false,
+                        "creditcardUrl": "https://www.jaerensparebank.no/priser",
+                        "smallLoansUrl": "https://www.jaerensparebank.no/priser",
+                        "changeBankEmail": "post@jaerensparebank.no",
+                        "dailyBankingUrl": "https://www.jaerensparebank.no/priser",
+                        "marketRegionInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "marketRegionLoans": "Local",
+                        "savingsAccountUrl": "https://www.jaerensparebank.no/priser",
+                        "mortgageDailyCheck": true,
+                        "mortgageDynamicPage": false,
+                        "creditcardDailyCheck": true,
+                        "marketRegionDeposits": "Local",
+                        "smallLoansDailyCheck": true,
+                        "creditcardDynamicPage": false,
+                        "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
+                        "smallLoansDynamicPage": false,
+                        "dailyBankingDailyCheck": true,
+                        "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
+                        "dailyBankingDynamicPage": false,
+                        "marketRegionDepositsInfo": "Jæren Sparebank sitt primærområde er: Jæren. Vi har selvfølgelig utflyttede jærbuer som bor ulike steder i Norges langstrakte land, og som har boliglånet sitt hos oss. Men som en hovedregel er det Jæren som er vårt område.\r\n            ",
+                        "savingsAccountDailyCheck": true,
+                        "savingsAccountDynamicPage": false
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "ZodError",
+                  "issues": [
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "becomeCustomerURL"
+                      ],
+                      "message": "Bli kunde URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "changeBankURL"
+                      ],
+                      "message": "Bytte bank URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    },
+                    {
+                      "code": "invalid_type",
+                      "path": [
+                        "bankCompany",
+                        "contactURL"
+                      ],
+                      "message": "Kontakt URL er påkrevd",
+                      "expected": "string",
+                      "received": "undefined"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "productType": {
+        "id": 10,
+        "name": "Bankinnskudd",
+        "category": "bank"
+      },
+      "type": "DepositAccount",
+      "accountType": 8,
+      "requiresCard": false,
+      "maximumDeposit": 5000000,
+      "minimumDeposit": 100000,
+      "intervalAccount": "nei",
+      "intervalAccountData": [
+        {
+          "nominalInterestRate": 4.85,
+          "thresholdInterestRate": 0
+        }
+      ],
+      "capitalizationPeriod": 12,
+      "numberOfFreeWithdrawalsPerYear": 0,
+      "requiresMonthlySavingsAgreement": false
+    },
+    "effectiveInterestRateRaw": 4.849999999999999,
+    "interestAmountRaw": 7275,
+    "totalAmountRaw": 157275,
+    "effectiveInterestRate": 4.85,
+    "interestAmount": 7275,
+    "totalAmount": 157275,
     "interestRateChangedAt": "2026-11-22T23:00:00.000Z"
   }
 ]
