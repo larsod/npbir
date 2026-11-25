@@ -233,7 +233,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-09-24T03:30:29.047Z",
+      "plcLastCheckedAt": "2026-11-25T04:23:10.098Z",
       "bankCompany": {
         "id": 34,
         "fax": "",
@@ -3608,7 +3608,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:30:56.337Z",
+      "plcLastCheckedAt": "2026-11-25T12:17:28.610Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -3626,7 +3626,7 @@
           "https://www.svea.com/nb-no/privat/refinansiering"
         ],
         "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
+        "smallLoansDynamicPage": true,
         "mortgageUrl": [
           "https://www.svea.com/nb-no/privat/l%C3%A5n/l%C3%A5n-med-sikkerhet"
         ],
@@ -3652,11 +3652,11 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Privatpersoner som kan spare.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-11-25T12:15:59.183Z",
         "company": {
           "id": 347,
           "deletedAt": null,
-          "modifiedAt": "2026-01-26T14:53:01.991Z",
+          "modifiedAt": "2026-11-25T12:15:30.466Z",
           "createdAt": "2025-10-14T11:13:34.158Z",
           "slug": "svea_bank_ab_nuf",
           "organizationNumber": "927869187",
@@ -3664,7 +3664,7 @@
           "name": "Svea Bank AB NUF",
           "addressId": 347,
           "phone": "21 54 23 70",
-          "modifiedBy": "Tore",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -4150,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:06:24.895Z",
+      "plcLastCheckedAt": "2026-11-24T17:07:23.266Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -7261,7 +7261,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:03:49.919Z",
+      "plcLastCheckedAt": "2026-11-24T17:04:58.452Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -7455,7 +7455,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:00:28.159Z",
+      "plcLastCheckedAt": "2026-11-24T17:13:49.312Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -7666,7 +7666,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:00:28.159Z",
+      "plcLastCheckedAt": "2026-11-24T17:13:49.312Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -8524,7 +8524,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:07:50.473Z",
+      "plcLastCheckedAt": "2026-11-24T17:12:12.992Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -9942,7 +9942,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:16:10.234Z",
+      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10122,7 +10122,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:16:10.234Z",
+      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10301,7 +10301,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:16:10.234Z",
+      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -12174,7 +12174,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:16:10.234Z",
+      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -15371,7 +15371,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:10:23.817Z",
+      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -15561,7 +15561,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:10:23.817Z",
+      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -15745,7 +15745,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
+      "plcLastCheckedAt": "2026-11-24T17:11:23.216Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -15981,7 +15981,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:10:27.584Z",
+      "plcLastCheckedAt": "2026-11-24T17:11:23.216Z",
       "bankCompany": {
         "id": 55,
         "fax": "70129885",
@@ -16217,7 +16217,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:10:23.817Z",
+      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16433,7 +16433,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:10:23.817Z",
+      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -17209,7 +17209,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
+      "plcLastCheckedAt": "2026-11-24T17:36:12.572Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17422,7 +17422,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:34:54.396Z",
+      "plcLastCheckedAt": "2026-11-24T17:36:12.572Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -25962,7 +25962,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-10T17:12:35.155Z",
+      "plcLastCheckedAt": "2026-11-25T09:06:32.557Z",
       "bankCompany": {
         "id": 276,
         "fax": "22 36 17 95",
@@ -25978,7 +25978,8 @@
         "smallLoansDailyCheck": false,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.cultura.no/privat/prisliste?fane=Ln"
+          "https://www.cultura.no/privat/prisliste?fane=Ln",
+          "https://www.cultura.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
@@ -25989,12 +25990,14 @@
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
           "https://www.cultura.no/privat/prisliste?fane=Betaling",
-          "https://www.cultura.no/privat/prisliste?fane=Kort"
+          "https://www.cultura.no/privat/prisliste?fane=Kort",
+          "https://www.cultura.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
         "savingsAccountUrl": [
-          "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd"
+          "https://www.cultura.no/privat/prisliste?fane=Renter-p-innskudd",
+          "https://www.cultura.no/prisliste/prisliste-innskudd-privatkunder/"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
@@ -26003,11 +26006,11 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Cultura Bank er den eneste norske banken som forteller innskyterne hva pengene brukes til. Vi er åpne om hvem vi låner ut penger til, og utlånsformålene vurderes etter sosiale og miljømessige kriterier. Cultura Bank er tilknyttet Bankenes Sikringsfond som gir en innskytergaranti på opp til 2 mill. kr pr. innskyter. Det er ingen gebyrer knyttet til å opprette eller avslutte en innskuddskonto.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-11-25T09:01:13.273Z",
         "company": {
           "id": 276,
           "deletedAt": null,
-          "modifiedAt": "2026-03-23T17:17:18.028Z",
+          "modifiedAt": "2026-11-25T09:00:07.437Z",
           "createdAt": "2025-10-14T11:13:33.809Z",
           "slug": "cultura_sparebank",
           "organizationNumber": "977041244",
@@ -26015,7 +26018,7 @@
           "name": "Cultura Sparebank",
           "addressId": 276,
           "phone": "22 99 51 99",
-          "modifiedBy": "Steinar",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
