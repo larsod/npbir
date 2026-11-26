@@ -233,7 +233,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T04:23:10.098Z",
+      "plcLastCheckedAt": "2026-11-26T04:24:23.902Z",
       "bankCompany": {
         "id": 34,
         "fax": "",
@@ -4150,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:07:23.266Z",
+      "plcLastCheckedAt": "2026-11-25T17:02:06.210Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -4168,7 +4168,7 @@
           "https://netbank.instabank.no/#/loan/new?Duration=5&LoanAmount=150000&aff_cid="
         ],
         "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
+        "smallLoansDynamicPage": true,
         "mortgageUrl": [
           "https://instabank.no/lan-med-sikkerhet"
         ],
@@ -4198,7 +4198,7 @@
         "company": {
           "id": 161,
           "deletedAt": null,
-          "modifiedAt": "2026-05-07T08:13:16.705Z",
+          "modifiedAt": "2026-11-25T13:09:22.825Z",
           "createdAt": "2025-10-14T11:13:33.253Z",
           "slug": "instabank_asa",
           "organizationNumber": "816914582",
@@ -4206,7 +4206,7 @@
           "name": "INSTABANK ASA",
           "addressId": 161,
           "phone": "21 51 93 00",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": "2016-10-20T22:00:00.000Z",
           "activeTo": null,
@@ -4328,7 +4328,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-01T17:09:00.539Z",
+      "plcLastCheckedAt": "2026-11-25T17:04:35.774Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -4550,7 +4550,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-01T17:09:00.539Z",
+      "plcLastCheckedAt": "2026-11-25T17:04:35.774Z",
       "bankCompany": {
         "id": 39,
         "fax": "73585810",
@@ -4752,7 +4752,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:00:27.225Z",
+      "plcLastCheckedAt": "2026-11-25T17:13:26.948Z",
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -4928,7 +4928,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-11T17:00:27.225Z",
+      "plcLastCheckedAt": "2026-11-25T17:13:26.948Z",
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -5486,7 +5486,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:15.200Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -5686,7 +5686,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:15.200Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -5886,7 +5886,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:15.200Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -6086,7 +6086,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T04:32:41.273Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:15.200Z",
       "bankCompany": {
         "id": 281,
         "fax": "",
@@ -7261,7 +7261,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:04:58.452Z",
+      "plcLastCheckedAt": "2026-11-25T17:06:42.787Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -7277,9 +7277,11 @@
           "https://www.handelsbanken.no/no/privat/partner/juristforbundet",
           "https://www.handelsbanken.no/tron/nopu/info/contents/v1/document/48-208624",
           "https://www.handelsbanken.no/no/privat/forening/tekna",
-          "https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene"
+          "https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
+          "https://www.handelsbanken.no/no/forening/tekna",
+          "https://www.handelsbanken.no/no/forening/juristforbundet"
         ],
-        "smallLoansDailyCheck": false,
+        "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger",
@@ -7289,7 +7291,8 @@
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet",
           "https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
           "https://www.handelsbanken.no/no/privat/forening/tekna",
-          "https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan"
+          "https://www.handelsbanken.no/no/privat/lane/boliglan/groent-boliglan",
+          "https://www.handelsbanken.no/no/forening/juristforbundet"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": true,
@@ -7306,7 +7309,9 @@
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-bankkort-mastercard",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-innland",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-betaling-utland",
-          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank"
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-nettbank-mobilbank",
+          "https://www.handelsbanken.no/no/forening/juristforbundet",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-innskuddsrenter"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": true,
@@ -7314,7 +7319,9 @@
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-innskuddsrenter-og-kontogebyr",
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-juristforbundet",
           "https://www.handelsbanken.no/no/privat/forening/akademikerne-pluss/samfunnsoekonomene",
-          "https://www.handelsbanken.no/no/privat/forening/tekna"
+          "https://www.handelsbanken.no/no/privat/forening/tekna",
+          "https://www.handelsbanken.no/no/forening/juristforbundet",
+          "https://www.handelsbanken.no/no/privat/prislister/prisliste-innskuddsrenter"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": true,
@@ -7327,7 +7334,7 @@
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-11-23T13:42:02.024Z",
+          "modifiedAt": "2026-11-26T11:29:52.901Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -7335,7 +7342,7 @@
           "name": "Handelsbanken AB NUF",
           "addressId": 100,
           "phone": "22 39 70 00",
-          "modifiedBy": "Erik",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -7455,7 +7462,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:13:49.312Z",
+      "plcLastCheckedAt": "2026-11-25T17:02:23.261Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -7666,7 +7673,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:13:49.312Z",
+      "plcLastCheckedAt": "2026-11-25T17:02:23.261Z",
       "bankCompany": {
         "id": 89,
         "fax": "",
@@ -8524,7 +8531,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:12:12.992Z",
+      "plcLastCheckedAt": "2026-11-25T17:03:28.619Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -9135,7 +9142,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-17T17:03:34.046Z",
+      "plcLastCheckedAt": "2026-11-25T17:04:06.533Z",
       "bankCompany": {
         "id": 359,
         "fax": "",
@@ -11219,7 +11226,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T00:22:03.078Z",
+      "plcLastCheckedAt": "2026-11-26T00:26:44.797Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -11233,12 +11240,19 @@
         "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank. Les mer: www.bankenessikringsfond.no",
         "smallLoansUrl": [
           "https://www.dnb.no/lan/priser",
-          "https://www.dnb.no/lan/forbrukslan"
+          "https://www.dnb.no/lan/forbrukslan",
+          "https://www.dnb.no/lan/priser#bill%C3%A5n",
+          "https://www.dnb.no/lan/priser#andre-kj%C3%B8ret%C3%B8y",
+          "https://www.dnb.no/lan/priser#andre-priser-l%C3%A5n",
+          "https://www.dnb.no/lan/priser#usikret-l%C3%A5n"
         ],
         "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.dnb.no/lan/priser"
+          "https://www.dnb.no/lan/priser",
+          "https://www.dnb.no/lan/priser#fastrentelan",
+          "https://www.dnb.no/lan/priser#andre-priser-l%C3%A5n",
+          "https://www.dnb.no/lan/priser#boliglan"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
@@ -11249,7 +11263,8 @@
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
           "https://www.dnb.no/kort/priser",
-          "https://www.dnb.no/dagligbank/priser"
+          "https://www.dnb.no/dagligbank/priser",
+          "https://www.dnb.no/dagligbank/priser#konto"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
@@ -11268,7 +11283,7 @@
         "company": {
           "id": 278,
           "deletedAt": null,
-          "modifiedAt": "2025-12-03T07:19:12.970Z",
+          "modifiedAt": "2026-11-26T10:51:59.442Z",
           "createdAt": "2025-10-14T11:13:33.819Z",
           "slug": "dnb_bank_asa",
           "organizationNumber": "984851006",
@@ -11276,7 +11291,7 @@
           "name": "DNB Bank ASA",
           "addressId": 278,
           "phone": "04800",
-          "modifiedBy": "Vegard Opheim",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -11884,22 +11899,27 @@
         "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.asbank.no/om_oss/om_banken/prisliste"
+          "https://www.asbank.no/om_oss/om_banken/prisliste",
+          "https://www.asbank.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
         "creditcardUrl": [
-          "https://www.asbank.no/om_oss/om_banken/prisliste"
+          "https://www.asbank.no/om_oss/om_banken/prisliste",
+          "https://www.asbank.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
-          "https://www.asbank.no/om_oss/om_banken/prisliste"
+          "https://www.asbank.no/om_oss/om_banken/prisliste",
+          "https://www.asbank.no/prisliste/prisliste-innskudd-privatkunder/",
+          "https://www.asbank.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
         "savingsAccountUrl": [
-          "https://www.asbank.no/om_oss/om_banken/prisliste"
+          "https://www.asbank.no/om_oss/om_banken/prisliste",
+          "https://www.asbank.no/prisliste/prisliste-innskudd-privatkunder/"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
@@ -11912,7 +11932,7 @@
         "company": {
           "id": 108,
           "deletedAt": null,
-          "modifiedAt": "2026-04-30T12:56:46.016Z",
+          "modifiedAt": "2026-11-26T08:30:46.489Z",
           "createdAt": "2025-10-14T11:13:32.990Z",
           "slug": "askim_og_spydeberg_sparebank",
           "organizationNumber": "937885199",
@@ -11920,7 +11940,7 @@
           "name": "Askim og Spydeberg Sparebank",
           "addressId": 108,
           "phone": "69816200",
-          "modifiedBy": "Gry Anette",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -12348,7 +12368,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:36.776Z",
+      "plcLastCheckedAt": "2026-11-25T17:08:17.535Z",
       "bankCompany": {
         "id": 45,
         "fax": "52705001",
@@ -12617,7 +12637,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
+      "plcLastCheckedAt": "2026-11-25T17:04:54.007Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -12887,7 +12907,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:09:58.185Z",
+      "plcLastCheckedAt": "2026-11-25T17:04:54.007Z",
       "bankCompany": {
         "id": 75,
         "fax": "+ 47 38 32 00 01",
@@ -15371,7 +15391,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:38.825Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -15561,7 +15581,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:38.825Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16217,7 +16237,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:38.825Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -16433,7 +16453,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:17:09.291Z",
+      "plcLastCheckedAt": "2026-11-25T17:00:38.825Z",
       "bankCompany": {
         "id": 68,
         "fax": "63804201",
@@ -17209,7 +17229,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:36:12.572Z",
+      "plcLastCheckedAt": "2026-11-25T17:36:38.290Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17422,7 +17442,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:36:12.572Z",
+      "plcLastCheckedAt": "2026-11-25T17:36:38.290Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -18171,7 +18191,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:28.780Z",
+      "plcLastCheckedAt": "2026-11-26T08:29:21.489Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -18184,12 +18204,14 @@
         "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
         "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\n Les mer: www.bankenessikringsfond.no ",
         "smallLoansUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
@@ -18199,12 +18221,15 @@
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-innskudd-privatkunder/",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
         "savingsAccountUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-innskudd-privatkunder/"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
@@ -18213,11 +18238,11 @@
         "marketRegionDeposits": "Local",
         "marketRegionDepositsInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
         "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-11-26T08:24:13.737Z",
         "company": {
           "id": 201,
           "deletedAt": null,
-          "modifiedAt": "2026-05-04T12:58:58.243Z",
+          "modifiedAt": "2026-11-26T08:19:06.441Z",
           "createdAt": "2025-10-14T11:13:33.458Z",
           "slug": "aasen_sparebank",
           "organizationNumber": "937903502",
@@ -18225,7 +18250,7 @@
           "name": "Aasen Sparebank",
           "addressId": 201,
           "phone": "74086300",
-          "modifiedBy": "Anita",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -18378,7 +18403,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:01:28.780Z",
+      "plcLastCheckedAt": "2026-11-26T08:29:21.489Z",
       "bankCompany": {
         "id": 201,
         "fax": "74086301",
@@ -18391,12 +18416,14 @@
         "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
         "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd  opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\n Les mer: www.bankenessikringsfond.no ",
         "smallLoansUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
@@ -18406,12 +18433,15 @@
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-innskudd-privatkunder/",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
         "savingsAccountUrl": [
-          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste"
+          "https://www.aasen-sparebank.no/om_oss/om_banken/prisliste",
+          "https://www.aasen-sparebank.no/prisliste/prisliste-innskudd-privatkunder/"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
@@ -18420,11 +18450,11 @@
         "marketRegionDeposits": "Local",
         "marketRegionDepositsInfo": "Aasen Sparebank har hovedkontor på Åsen og salgskontor i Levanger og på Verdal.",
         "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-11-26T08:24:13.737Z",
         "company": {
           "id": 201,
           "deletedAt": null,
-          "modifiedAt": "2026-05-04T12:58:58.243Z",
+          "modifiedAt": "2026-11-26T08:19:06.441Z",
           "createdAt": "2025-10-14T11:13:33.458Z",
           "slug": "aasen_sparebank",
           "organizationNumber": "937903502",
@@ -18432,7 +18462,7 @@
           "name": "Aasen Sparebank",
           "addressId": 201,
           "phone": "74086300",
-          "modifiedBy": "Anita",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -18809,7 +18839,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
+      "plcLastCheckedAt": "2026-11-25T17:28:20.866Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -18983,7 +19013,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-16T17:20:13.048Z",
+      "plcLastCheckedAt": "2026-11-25T17:28:20.866Z",
       "bankCompany": {
         "id": 42,
         "fax": "72409001",
@@ -19156,7 +19186,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:06:51.840Z",
+      "plcLastCheckedAt": "2026-11-25T17:27:09.205Z",
       "bankCompany": {
         "id": 242,
         "fax": "74 80 26 30",
@@ -22927,7 +22957,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:00:17.455Z",
+      "plcLastCheckedAt": "2026-11-26T11:55:19.725Z",
       "bankCompany": {
         "id": 156,
         "fax": "62494123",
@@ -22940,27 +22970,33 @@
         "securityDepositAmount": "2 millioner kroner i Bankenes sikringsfond",
         "depositGuaranteeSchema": "Bankenes sikringsfond garanterer Innskudd opp til to millioner kroner, inklusive opptjente renter for hver innskyter i hver enkelt medlemsbank.\r\nLes mer: www.bankenessikringsfond.no\r\n",
         "smallLoansUrl": [
-          "https://www.tos.no/om_oss/om_banken/prisliste"
+          "https://www.tos.no/om_oss/om_banken/prisliste",
+          "https://www.tos.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "smallLoansDailyCheck": true,
         "smallLoansDynamicPage": false,
         "mortgageUrl": [
-          "https://www.tos.no/om_oss/om_banken/prisliste"
+          "https://www.tos.no/om_oss/om_banken/prisliste",
+          "https://www.tos.no/prisliste/prisliste-utlan-privatkunder/"
         ],
         "mortgageDailyCheck": true,
         "mortgageDynamicPage": false,
         "creditcardUrl": [
-          "https://www.tos.no/om_oss/om_banken/prisliste"
+          "https://www.tos.no/om_oss/om_banken/prisliste",
+          "https://www.tos.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
-          "https://www.tos.no/om_oss/om_banken/prisliste"
+          "https://www.tos.no/om_oss/om_banken/prisliste",
+          "https://www.tos.no/prisliste/prisliste-innskudd-privatkunder/",
+          "https://www.tos.no/prisliste/prisliste-banktjenester-for-privatkunder/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
         "savingsAccountUrl": [
-          "https://www.tos.no/om_oss/om_banken/prisliste"
+          "https://www.tos.no/om_oss/om_banken/prisliste",
+          "https://www.tos.no/prisliste/prisliste-innskudd-privatkunder/"
         ],
         "savingsAccountDailyCheck": true,
         "savingsAccountDynamicPage": false,
@@ -22969,11 +23005,11 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr kundeforhold, banksparing og dagligbank-tjenester til hele landet.",
         "bankHasOwnATM": true,
-        "plcRetriggerAt": null,
+        "plcRetriggerAt": "2026-11-26T11:50:12.866Z",
         "company": {
           "id": 156,
           "deletedAt": null,
-          "modifiedAt": "2026-09-21T06:36:32.633Z",
+          "modifiedAt": "2026-11-26T11:49:46.692Z",
           "createdAt": "2025-10-14T11:13:33.226Z",
           "slug": "tolga-os_sparebank",
           "organizationNumber": "816793432",
@@ -22981,7 +23017,7 @@
           "name": "Tolga-Os Sparebank",
           "addressId": 156,
           "phone": "62496100",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -23479,7 +23515,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:05.208Z",
+      "plcLastCheckedAt": "2026-11-25T17:03:43.467Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -23653,7 +23689,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:07:05.208Z",
+      "plcLastCheckedAt": "2026-11-25T17:03:43.467Z",
       "bankCompany": {
         "id": 284,
         "fax": "",
@@ -25114,7 +25150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:12:06.847Z",
+      "plcLastCheckedAt": "2026-11-25T17:27:32.226Z",
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -25364,7 +25400,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-05T17:12:06.847Z",
+      "plcLastCheckedAt": "2026-11-25T17:27:32.226Z",
       "bankCompany": {
         "id": 335,
         "fax": "",
@@ -26992,7 +27028,8 @@
         "creditcardDailyCheck": true,
         "creditcardDynamicPage": false,
         "dailyBankingUrl": [
-          "https://vossabanken.no/prislister/prisliste-produkt-og-tenester/"
+          "https://vossabanken.no/prislister/prisliste-produkt-og-tenester/",
+          "https://vossabanken.no/prislister/prisliste-innskot/"
         ],
         "dailyBankingDailyCheck": true,
         "dailyBankingDynamicPage": false,
@@ -27010,7 +27047,7 @@
         "company": {
           "id": 66,
           "deletedAt": null,
-          "modifiedAt": "2026-09-24T08:45:49.931Z",
+          "modifiedAt": "2026-11-26T11:40:06.195Z",
           "createdAt": "2025-10-14T11:13:32.782Z",
           "slug": "voss_sparebank",
           "organizationNumber": "937897286",
@@ -27018,7 +27055,7 @@
           "name": "Voss Sparebank",
           "addressId": 66,
           "phone": "56520300",
-          "modifiedBy": "Külli",
+          "modifiedBy": "Elin",
           "leverandorId": null,
           "activeFrom": null,
           "activeTo": null,
@@ -27154,7 +27191,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-19T17:01:19.297Z",
+      "plcLastCheckedAt": "2026-11-26T00:03:36.010Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
