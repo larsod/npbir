@@ -45,7 +45,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-21T16:15:56.605Z",
+      "plcLastCheckedAt": "2026-11-26T17:02:59.514Z",
       "bankCompany": {
         "id": 47,
         "fax": "21 30 52 11",
@@ -1207,7 +1207,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
+      "plcLastCheckedAt": "2026-11-26T17:28:37.223Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -1648,7 +1648,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
+      "plcLastCheckedAt": "2026-11-26T17:03:39.612Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -1822,7 +1822,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-23T17:00:40.150Z",
+      "plcLastCheckedAt": "2026-11-26T17:03:39.612Z",
       "bankCompany": {
         "id": 209,
         "fax": "",
@@ -3608,7 +3608,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T12:17:28.610Z",
+      "plcLastCheckedAt": "2026-11-26T17:02:24.988Z",
       "bankCompany": {
         "id": 347,
         "fax": "",
@@ -4150,7 +4150,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:02:06.210Z",
+      "plcLastCheckedAt": "2026-11-26T17:03:28.550Z",
       "bankCompany": {
         "id": 161,
         "fax": "",
@@ -4752,7 +4752,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:13:26.948Z",
+      "plcLastCheckedAt": "2026-11-26T17:13:51.931Z",
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -4928,7 +4928,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:13:26.948Z",
+      "plcLastCheckedAt": "2026-11-26T17:13:51.931Z",
       "bankCompany": {
         "id": 333,
         "fax": "55600100",
@@ -5102,7 +5102,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:19.263Z",
+      "plcLastCheckedAt": "2026-11-26T17:05:23.930Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -5294,7 +5294,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-20T17:00:19.263Z",
+      "plcLastCheckedAt": "2026-11-26T17:05:23.930Z",
       "bankCompany": {
         "id": 264,
         "fax": "23 00 08 47",
@@ -7261,7 +7261,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:06:42.787Z",
+      "plcLastCheckedAt": "2026-11-26T13:14:15.807Z",
       "bankCompany": {
         "id": 100,
         "fax": "",
@@ -7282,7 +7282,7 @@
           "https://www.handelsbanken.no/no/forening/juristforbundet"
         ],
         "smallLoansDailyCheck": true,
-        "smallLoansDynamicPage": false,
+        "smallLoansDynamicPage": true,
         "mortgageUrl": [
           "https://www.handelsbanken.no/no/privat/prislister/prisliste-gebyrer-og-omkostninger",
           "https://www.handelsbanken.no/no/privat/lane/boliglan/mellomfinansiering",
@@ -7330,11 +7330,11 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Handelsbanken blir gjerne beskrevet som 'Nordens største lokalbank'. Vi er representert i en rekke land og har ca 700 bankkontorer totalt. Hos oss er kontoret banken. Vi kjenner vårt nærområde, og er der kunden er.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": "2026-10-22T10:00:35.865Z",
+        "plcRetriggerAt": "2026-11-26T13:08:39.943Z",
         "company": {
           "id": 100,
           "deletedAt": null,
-          "modifiedAt": "2026-11-26T11:29:52.901Z",
+          "modifiedAt": "2026-11-27T10:11:31.824Z",
           "createdAt": "2025-10-14T11:13:32.949Z",
           "slug": "handelsbanken_ab_nuf",
           "organizationNumber": "971171324",
@@ -8339,7 +8339,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-12T17:03:22.347Z",
+      "plcLastCheckedAt": "2026-11-26T17:17:35.389Z",
       "bankCompany": {
         "id": 51,
         "fax": "35962601",
@@ -8531,7 +8531,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:03:28.619Z",
+      "plcLastCheckedAt": "2026-11-26T17:05:01.126Z",
       "bankCompany": {
         "id": 107,
         "fax": "(+47) 55 21 73 50",
@@ -9949,7 +9949,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
+      "plcLastCheckedAt": "2026-11-26T17:31:23.536Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10129,7 +10129,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
+      "plcLastCheckedAt": "2026-11-26T17:31:23.536Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -10308,7 +10308,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
+      "plcLastCheckedAt": "2026-11-26T17:31:23.536Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -11226,7 +11226,7 @@
       ],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-26T00:26:44.797Z",
+      "plcLastCheckedAt": "2026-11-26T13:02:59.054Z",
       "bankCompany": {
         "id": 278,
         "fax": "",
@@ -11279,7 +11279,7 @@
         "marketRegionDeposits": "NationWide",
         "marketRegionDepositsInfo": "Tilbyr banksparing og dagligbank tjenester til hele landet.",
         "bankHasOwnATM": false,
-        "plcRetriggerAt": "2026-08-11T11:08:18.092Z",
+        "plcRetriggerAt": "2026-11-26T13:01:42.711Z",
         "company": {
           "id": 278,
           "deletedAt": null,
@@ -11881,7 +11881,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-10-13T16:22:55.694Z",
+      "plcLastCheckedAt": "2026-11-26T17:00:31.659Z",
       "bankCompany": {
         "id": 108,
         "fax": "",
@@ -12194,7 +12194,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-24T17:30:28.135Z",
+      "plcLastCheckedAt": "2026-11-26T17:31:23.536Z",
       "bankCompany": {
         "id": 238,
         "fax": "22865918",
@@ -13403,7 +13403,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
+      "plcLastCheckedAt": "2026-11-26T17:28:37.223Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -14030,7 +14030,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-04T17:04:42.886Z",
+      "plcLastCheckedAt": "2026-11-26T17:28:37.223Z",
       "bankCompany": {
         "id": 317,
         "fax": "32201165",
@@ -17229,7 +17229,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:36:38.290Z",
+      "plcLastCheckedAt": "2026-11-26T17:37:21.824Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -17442,7 +17442,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-25T17:36:38.290Z",
+      "plcLastCheckedAt": "2026-11-26T17:37:21.824Z",
       "bankCompany": {
         "id": 124,
         "fax": "38172601",
@@ -27191,7 +27191,7 @@
       "requiresProductTypes": [],
       "hideParentProduct": false,
       "validationErrors": null,
-      "plcLastCheckedAt": "2026-11-26T00:03:36.010Z",
+      "plcLastCheckedAt": "2026-11-27T00:04:57.369Z",
       "bankCompany": {
         "id": 306,
         "fax": "22484050",
